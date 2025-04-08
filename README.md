@@ -45,7 +45,7 @@ Simply copy and paste the server URL into the playground, authenticate with the 
 
 Note: As the MCP spec is still in development, not all clients may support all features. In particular client support of OAUTH is not yet widespread.
 
-For desktop clients the configureation you need to add to your client's config file will be 
+For desktop clients the configuration you need to add to your client's config file will be 
 
 ```json
 {
