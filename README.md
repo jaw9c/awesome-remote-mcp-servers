@@ -21,14 +21,14 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
-| Neon | Software Development | `https://mcp.neon.tech` | OAuth2.0 | [Neon](https://neon.tech) |
+| Neon | Software Development | `https://mcp.neon.tech` | OAuth2.1 | [Neon](https://neon.tech) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.0 | [OneContext](https://onecontext.ai) |
-| PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.0 | [PayPal](https://paypal.com) |
+| PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | YepCode | Software Development | `https://cloud.yepcode.io/mcp/{API_KEY}/sse` | API Key | [YepCode](https://yepcode.io) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | APIFY | Software Development | `https://actors-mcp-server.apify.actor/sse?token=<YOUR_API_TOKEN>&actors=<ACTOR_NAMES>` | API Key | [Apify](https://apify.com) |
-| Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth | [Sentry](https://sentry.io) |
+| Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 
 ## How to use remote MCP servers?
