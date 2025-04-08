@@ -21,7 +21,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
-| Neon | Software Development | `https://mcp.neon.tech` | OAuth2.1 | [Neon](https://neon.tech) |
+| Neon | Software Development | `https://mcp.neon.tech/see` | OAuth2.1 | [Neon](https://neon.tech) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
