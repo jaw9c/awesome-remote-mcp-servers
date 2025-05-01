@@ -30,6 +30,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | APIFY | Software Development | `https://actors-mcp-server.apify.actor/sse?token=<YOUR_API_TOKEN>&actors=<ACTOR_NAMES>` | API Key | [Apify](https://apify.com) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
+| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
+| Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
+| Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
+| Cloudflare Radar | Observability | `https://radar.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 
 ## How to use remote MCP servers?
 
