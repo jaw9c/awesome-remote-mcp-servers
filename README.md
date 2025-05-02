@@ -1,5 +1,7 @@
 # Awesome Remote MCP Servers
 
+> 💬 **Join our WhatsApp Community!** Stay up-to-date with the latest MCP servers and connect with other developers: [Join Now](https://chat.whatsapp.com/GJIf9Uee1kw9ee9myqJe0a)
+
 A curated, opinionated list of high-quality **remote** Model Context Protocol (MCP) servers. This repository focuses on listing official and well-maintained MCP servers that can be accessed over the internet, helping developers discover reliable and production-ready services for their AI applications.
 
 ## What is MCP?
