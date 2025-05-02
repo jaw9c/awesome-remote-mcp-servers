@@ -1,5 +1,7 @@
 # Awesome Remote MCP Servers
 
+> 💬 **Join our WhatsApp Community!** Stay up-to-date with the latest MCP servers and connect with other developers: [Join Now](https://chat.whatsapp.com/GJIf9Uee1kw9ee9myqJe0a)
+
 A curated, opinionated list of high-quality **remote** Model Context Protocol (MCP) servers. This repository focuses on listing official and well-maintained MCP servers that can be accessed over the internet, helping developers discover reliable and production-ready services for their AI applications.
 
 ## What is MCP?
@@ -13,7 +15,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 - **Official Support**: Servers that are maintained by their underlying companies are preferred
 - **Production Ready**: Must be stable and suitable for production use
 - **Active Maintenance**: Regular updates and bug fixes
-- **Security**: Proper authentication and security measures, with OAuth 2.0 support preferred
+- **Security**: Proper authentication and security measures, with OAuth 2.0 support required
 - **Reliability**: Proven track record of uptime and performance
 - **Community**: Active user community and support channels
 
@@ -35,7 +37,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Radar | Observability | `https://radar.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
-| YepCode | Software Development | `https://cloud.yepcode.io/mcp/{API_KEY}/sse` | API Key | [YepCode](https://yepcode.io) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | APIFY | Software Development | `https://actors-mcp-server.apify.actor/sse?token=<YOUR_API_TOKEN>&actors=<ACTOR_NAMES>` | API Key | [Apify](https://apify.com) |
@@ -47,11 +48,47 @@ To use MCP, you'll need to use a client that supports the MCP spec.
 A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients).
 
 
+### Claude
+
+Claude has two methods to add remote MCP servers:
+- [*Custom Integrations*](#custom-integrations) for Max, Team, and Enterprise users on both [claude.ai](https://claude.ai) and the [desktop app](https://claude.ai/download)
+- [*Manual configuration*](#manual-configuration) for all users on the [desktop app](https://claude.ai/download) only
+
+#### Custom Integrations
+
+Anthropic has added [native support for Remote MCP into Claude](https://www.anthropic.com/news/integrations). It's currently in beta on the Max, Team, and Enterprise plans, and will soon be available on Pro.
+
+Add these servers as *Custom Integrations* in the integrations section of your Claude app settings.
+
+##### Step-by-Step Instructions for Claude Max Users
+
+1. Navigate to Settings > Profile
+2. Locate the "Integrations" section
+3. Click "Add more"
+4. Add your integration's remote MCP server URL
+5. Finish configuring your integration by clicking "Add"
+
+Full instructions can be found [here](https://support.anthropic.com/en/articles/11175166-about-custom-integrations-using-remote-mcp).
+
+#### Manual configuration
+
+For all users, you can manually configure the remote MCP servers by adding the following to your Claude config file:
+
+```json
+{
+  "mcpServers": {
+    "<REMOTE_MCP_SERVER_NAME>": {
+      "url": "<REMOTE_MCP_SERVER_URL>"
+    }
+  }
+}
+```
+
 ### Playground
 The best place to start is with Cloudflare's MCP playground [here](https://playground.ai.cloudflare.com/).
 Simply copy and paste the server URL into the playground, authenticate with the service if required, and you're away!
 
-### Desktop Clients 
+### Other MCP Clients 
 
 Note: As the MCP spec is still in development, not all clients may support all features. In particular client support of OAUTH is not yet widespread.
 
@@ -93,7 +130,7 @@ We welcome contributions! Please follow these guidelines:
 
 Join the MCP community to stay updated and connect with other developers:
 
-- [Discord Server](https://discord.com/invite/TFE8FmjCdS)
+- [WhatsApp Community ](https://chat.whatsapp.com/GJIf9Uee1kw9ee9myqJe0a)
 - [Reddit Community](https://www.reddit.com/r/mcp/)
 
 ## License
