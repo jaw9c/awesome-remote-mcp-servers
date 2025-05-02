@@ -15,7 +15,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 - **Official Support**: Servers that are maintained by their underlying companies are preferred
 - **Production Ready**: Must be stable and suitable for production use
 - **Active Maintenance**: Regular updates and bug fixes
-- **Security**: Proper authentication and security measures, with OAuth 2.0 support preferred
+- **Security**: Proper authentication and security measures, with OAuth 2.0 support required
 - **Reliability**: Proven track record of uptime and performance
 - **Community**: Active user community and support channels
 
