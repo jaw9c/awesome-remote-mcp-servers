@@ -92,7 +92,7 @@ We welcome contributions! Please follow these guidelines:
 
 Join the MCP community to stay updated and connect with other developers:
 
-- [Discord Server](https://discord.com/invite/TFE8FmjCdS)
+- [WhatsApp Community ](https://chat.whatsapp.com/GJIf9Uee1kw9ee9myqJe0a)
 - [Reddit Community](https://www.reddit.com/r/mcp/)
 
 ## License
