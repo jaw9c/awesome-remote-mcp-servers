@@ -43,6 +43,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
+| Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
