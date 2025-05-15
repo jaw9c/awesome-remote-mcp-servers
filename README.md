@@ -47,6 +47,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
+| Wix | Wix MCP Server | `https://mcp.wix.com/sse` | OAuth2.1 | [McPoogle](https://www.wix.com) |
 
 ## How to use remote MCP servers?
 
