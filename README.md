@@ -48,6 +48,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
+| Simplescraper | Web Scraping | `https://mcp.simplescraper.com/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
 
 ## How to use remote MCP servers?
 
