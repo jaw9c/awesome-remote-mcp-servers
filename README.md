@@ -49,12 +49,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 |------|----------|-------------|----------------|------------|
 | Atlasian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 | [Atlassian](https://atlassian.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
-| DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
-| HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
-| Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 | [Plaid](https://plaid.com) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
@@ -62,19 +59,23 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
-| Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
-| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Radar | Observability | `https://radar.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
-| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
-| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
+| Simplescraper | Web Scraping | `https://mcp.simplescraper.com/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
+| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
+| DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
-| Simplescraper | Web Scraping | `https://mcp.simplescraper.com/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
+| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
+| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
+| HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
+| Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
+| Needle | Data Analysis | `https://mcp.needle-ai.com/sse` | API Key | [Needle](https://needle.com) |
+| Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 
 ## How to use remote MCP servers?
 
