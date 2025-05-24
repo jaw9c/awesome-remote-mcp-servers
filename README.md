@@ -50,6 +50,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Atlasian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 | [Atlassian](https://atlassian.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
+| HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
@@ -61,6 +62,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
+| Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
@@ -164,6 +166,12 @@ Yes, but you will need to manage your own OAuth authentication flow, in order to
 A quick way to obtain an access token to test a server is follow the instructions in Anthropic's guide [Obtaining an access token for testing](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector#obtaining-an-access-token-for-testing) section.
 This is not generally recommended for production use, as it is not a secure way to authenticate users.
 
+### Why do some servers have a `/sse` and others a `/mcp`?
+
+The `/sse` endpoint is for the Server Sent Events (SSE) protocol. It is being slowly deprecated in favor of the `/mcp` endpoint.
+The `/mcp` endpoint is for the Streamed HTTP protocol. 
+In the future some clients may only support adding severs by the prefix preceeding the 'sse' or 'mcp' and self-discovering full URL.
+We will update this list as we see this happening.
 
 ## Contributing
 
