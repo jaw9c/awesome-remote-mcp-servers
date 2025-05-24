@@ -9,6 +9,29 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet. 
 
+## Why Remote only?
+
+Remote MCP servers are a more secure and easier way to use MCP. 
+- Security wise, if you trust the provider's URL, and you are authenicated, then the secuity model is the same as using the Web.
+- Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
+
+## How can I use an MCP server listed here?
+
+There are two main ways to use remote MCP servers on this list. 
+
+1. [Using a MCP ready client](#mcp-client) (Claude, Cursor, etc.)
+2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, etc.)
+
+## Authentication options
+
+This list has a mix of authentication options, different methods are better suited to certain use cases:
+
+- **OAuth 2.0**: This is an industry standard for authentication and is suppoerted by MCP Clients like Claude. Adoption amogst clients is growing, but not yet widespread.
+ For this all you need to conenct is the server URL, and the client will guide you through the authentication flow.
+- **API Key**: An alternative to OAuth 2.0, this required to have an API key for the server. This is useful when using an API request to an LLM provider, rather than an MCP client.
+- **Open**: Easy to copy and paste and get started, but not as secure. This is the easiest way to get started, but not the most secure.
+
+
 ## Quality Criteria
 
 This is not an exhaustive list of all remote MCP servers. We maintain high standards for inclusion:
@@ -16,7 +39,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 - **Official Support**: Servers that are maintained by their underlying companies are preferred
 - **Production Ready**: Must be stable and suitable for production use
 - **Active Maintenance**: Regular updates and bug fixes
-- **Security**: Proper authentication and security measures, with OAuth 2.0 support required
+- **Security**: Proper authentication and security measures, with OAuth 2.0 or API Key support required
 - **Reliability**: Proven track record of uptime and performance
 - **Community**: Active user community and support channels
 
@@ -53,9 +76,14 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## How to use remote MCP servers?
 
-To use MCP, you'll need to use a client that supports the MCP spec. 
-A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients).
+There are two main ways to use remote MCP servers on this list. 
 
+1. Using a MCP client (Claude, Cursor, etc.)
+2. In an API request to an LLM provider (OpenAI, Anthropic, etc.)
+
+### MCP Client
+
+A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients). Here are some examples of installation with Claude.
 
 ### Claude
 
@@ -116,6 +144,26 @@ For desktop clients the configuration you need to add to your client's config fi
   }
 }
 ```
+
+### API Request
+
+Offical support for MCP in API requests is suppored by the following LLM providers:
+
+- [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
+- [OpenAI](https://platform.openai.com/docs/api-reference/mcp)
+- [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
+
+Note that its easier to get started with API Token, based authentication for these servers. See the [FAQs](#faqs) section for more details.
+
+
+## FAQs
+
+### Can I use an Oauth MCP server in an API request to an LLM provider?
+
+Yes, but you will need to manage your own OAuth authentication flow, in order to obtain an access token.
+A quick way to obtain an access token to test a server is follow the instructions in Anthropic's guide [Obtaining an access token for testing](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector#obtaining-an-access-token-for-testing) section.
+This is not generally recommended for production use, as it is not a secure way to authenticate users.
+
 
 ## Contributing
 
