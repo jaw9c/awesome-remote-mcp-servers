@@ -74,7 +74,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
-| Needle | Data Analysis | `https://mcp.needle-ai.com/sse` | API Key | [Needle](https://needle-ai.com) |
+| Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 
 ## How to use remote MCP servers?
