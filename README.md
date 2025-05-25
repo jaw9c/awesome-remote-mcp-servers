@@ -71,7 +71,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
-| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
+| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
 | Needle | Data Analysis | `https://mcp.needle-ai.com/sse` | API Key | [Needle](https://needle-ai.com) |
