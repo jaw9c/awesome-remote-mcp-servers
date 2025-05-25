@@ -47,7 +47,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
-| Apify | Web data platform | `https://mcp.apify.com` | OAuth2.1 | [Apify](https://apify.com) |
+| Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API key | [Apify](https://apify.com) |
 
 
 ## How to use remote MCP servers?
