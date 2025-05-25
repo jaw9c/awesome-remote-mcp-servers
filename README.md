@@ -9,6 +9,29 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet. 
 
+## Why Remote only?
+
+Remote MCP servers are a more secure and easier way to use MCP. 
+- Security wise, if you trust the provider's URL, and you are authenicated, then the secuity model is the same as using the Web.
+- Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
+
+## How can I use an MCP server listed here?
+
+There are two main ways to use remote MCP servers on this list. 
+
+1. [Using a MCP ready client](#mcp-client) (Claude, Cursor, etc.)
+2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, etc.)
+
+## Authentication options
+
+This list has a mix of authentication options, different methods are better suited to certain use cases:
+
+- **OAuth 2.0**: This is an industry standard for authentication and is suppoerted by MCP Clients like Claude. Adoption amogst clients is growing, but not yet widespread.
+ For this all you need to conenct is the server URL, and the client will guide you through the authentication flow.
+- **API Key**: An alternative to OAuth 2.0, this required to have an API key for the server. This is useful when using an API request to an LLM provider, rather than an MCP client.
+- **Open**: Easy to copy and paste and get started, but not as secure. This is the easiest way to get started, but not the most secure.
+
+
 ## Quality Criteria
 
 This is not an exhaustive list of all remote MCP servers. We maintain high standards for inclusion:
@@ -16,7 +39,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 - **Official Support**: Servers that are maintained by their underlying companies are preferred
 - **Production Ready**: Must be stable and suitable for production use
 - **Active Maintenance**: Regular updates and bug fixes
-- **Security**: Proper authentication and security measures, with OAuth 2.0 support required
+- **Security**: Proper authentication and security measures, with OAuth 2.0 or API Key support required
 - **Reliability**: Proven track record of uptime and performance
 - **Community**: Active user community and support channels
 
@@ -27,7 +50,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Atlasian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 | [Atlassian](https://atlassian.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
-| Neon | Software Development | `https://mcp.neon.tech/see` | OAuth2.1 | [Neon](https://neon.tech) |
+| Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 | [Plaid](https://plaid.com) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
@@ -36,25 +59,35 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
-| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Radar | Observability | `https://radar.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
-| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
-| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
+| Simplescraper | Web Scraping | `https://mcp.simplescraper.com/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
+| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
+| DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
 | McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
-| Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API key | [Apify](https://apify.com) |
-
+| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
+| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
+| HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
+| Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
+| Needle | Data Analysis | `https://mcp.needle-ai.com/sse` | API Key | [Needle](https://needle-ai.com) |
+| Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
+| Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 
 ## How to use remote MCP servers?
 
-To use MCP, you'll need to use a client that supports the MCP spec. 
-A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients).
+There are two main ways to use remote MCP servers on this list. 
 
+1. Using a MCP client (Claude, Cursor, etc.)
+2. In an API request to an LLM provider (OpenAI, Anthropic, etc.)
+
+### MCP Client
+
+A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients). Here are some examples of installation with Claude.
 
 ### Claude
 
@@ -115,6 +148,32 @@ For desktop clients the configuration you need to add to your client's config fi
   }
 }
 ```
+
+### API Request
+
+Offical support for MCP in API requests is suppored by the following LLM providers:
+
+- [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
+- [OpenAI](https://platform.openai.com/docs/api-reference/mcp)
+- [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
+
+Note that its easier to get started with API Token, based authentication for these servers. See the [FAQs](#faqs) section for more details.
+
+
+## FAQs
+
+### Can I use an Oauth MCP server in an API request to an LLM provider?
+
+Yes, but you will need to manage your own OAuth authentication flow, in order to obtain an access token.
+A quick way to obtain an access token to test a server is follow the instructions in Anthropic's guide [Obtaining an access token for testing](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector#obtaining-an-access-token-for-testing) section.
+This is not generally recommended for production use, as it is not a secure way to authenticate users.
+
+### Why do some servers have a `/sse` and others a `/mcp`?
+
+The `/sse` endpoint is for the Server Sent Events (SSE) protocol. It is being slowly deprecated in favor of the `/mcp` endpoint.
+The `/mcp` endpoint is for the Streamed HTTP protocol. 
+In the future some clients may only support adding severs by the prefix preceeding the 'sse' or 'mcp' and self-discovering full URL.
+We will update this list as we see this happening.
 
 ## Contributing
 
