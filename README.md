@@ -77,6 +77,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
+| Todoist | Tasks Management & Productivity | `https://todoistmcp.rosenpin.io` to create personal MCP URL | OAuth2.1 | [Todoist Unofficial Remote MCP](https://todoistmcp.rosenpin.io/) |
 
 ## How to use remote MCP servers?
 
