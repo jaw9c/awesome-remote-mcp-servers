@@ -65,7 +65,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.com/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
-| Cloudflare Docs | Documentation | `https://mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
+| Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
