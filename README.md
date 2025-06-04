@@ -161,7 +161,7 @@ For desktop clients the configuration you need to add to your client's config fi
 Offical support for MCP in API requests is suppored by the following LLM providers:
 
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
-- [OpenAI](https://platform.openai.com/docs/api-reference/mcp)
+- [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
 
 Note that its easier to get started with API Token, based authentication for these servers. See the [FAQs](#faqs) section for more details.
