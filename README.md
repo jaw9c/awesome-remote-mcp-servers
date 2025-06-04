@@ -9,18 +9,27 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet. 
 
+### What are Custom Integrations?
+
+This is Claude's branding for conencting to remote MCP servers.
+
+### What are Custom Connectors?
+
+This is OpenAI's branding for conencting to remote MCP servers.
+
 ## Why Remote only?
 
 Remote MCP servers are a more secure and easier way to use MCP. 
 - Security wise, if you trust the provider's URL, and you are authenicated, then the secuity model is the same as using the Web.
 - Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
+- They are the ONLY way to use MCP servers with Web based clients.
 
 ## How can I use an MCP server listed here?
 
 There are two main ways to use remote MCP servers on this list. 
 
-1. [Using a MCP ready client](#mcp-client) (Claude, Cursor, etc.)
-2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, etc.)
+1. [Using a MCP ready client](#mcp-client) (Claude, ChatGPT, Cursor, etc.)
+2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, Gemini, etc.)
 
 ## Authentication options
 
@@ -66,6 +75,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
+| WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
@@ -76,7 +86,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | API Key | [Stripe](https://stripe.com) |
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
-| WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
@@ -85,26 +94,22 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 There are two main ways to use remote MCP servers on this list. 
 
-1. Using a MCP client (Claude, Cursor, etc.)
-2. In an API request to an LLM provider (OpenAI, Anthropic, etc.)
+1. [Using a MCP client](#mcp-client) (Claude, ChatGPT, Cursor, etc.)
+2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, Gemini, etc.)
 
-### MCP Client
+### MCP Clients
 
-A list of MCP clients can be found [here](https://modelcontextprotocol.io/clients). Here are some examples of installation with Claude.
+A complete list of MCP clients can be found [here](https://modelcontextprotocol.io/clients). Here are some examples of installation with Claude.
 
 ### Claude
 
-Claude has two methods to add remote MCP servers:
-- [*Custom Integrations*](#custom-integrations) for Max, Team, and Enterprise users on both [claude.ai](https://claude.ai) and the [desktop app](https://claude.ai/download)
-- [*Manual configuration*](#manual-configuration) for all users on the [desktop app](https://claude.ai/download) only
-
 #### Custom Integrations
 
-Anthropic has added [native support for Remote MCP into Claude](https://www.anthropic.com/news/integrations). It's currently in beta on the Max, Team, and Enterprise plans, and will soon be available on Pro.
+Anthropic has added [native support for Remote MCP into Claude](https://www.anthropic.com/news/integrations). It's currently available on Pro plans.
 
 Add these servers as *Custom Integrations* in the integrations section of your Claude app settings.
 
-##### Step-by-Step Instructions for Claude Max Users
+##### Step-by-Step Instructions
 
 1. Navigate to Settings > Profile
 2. Locate the "Integrations" section
@@ -114,23 +119,21 @@ Add these servers as *Custom Integrations* in the integrations section of your C
 
 Full instructions can be found [here](https://support.anthropic.com/en/articles/11175166-about-custom-integrations-using-remote-mcp).
 
-#### Manual configuration
+### ChatGPT
 
-For all users, you can manually configure the remote MCP servers by adding the following to your Claude config file:
+#### Custom Connectors 
 
-```json
-{
-  "mcpServers": {
-    "<REMOTE_MCP_SERVER_NAME>": {
-      "url": "<REMOTE_MCP_SERVER_URL>"
-    }
-  }
-}
-```
+OpenAI's support for remote MCP is currently in beta. It's integrated into the Deep Research function. 
 
-### Playground
-The best place to start is with Cloudflare's MCP playground [here](https://playground.ai.cloudflare.com/).
-Simply copy and paste the server URL into the playground, authenticate with the service if required, and you're away!
+Full instructions can be found [here](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt#h_d2a53d4230).
+
+##### Step-by-Step Instructions
+
+1. Navigate to Settings > Profile
+2. Locate the "Connectors" section
+3. Click "Add Connector"
+4. Add your connector's remote MCP server URL
+5. Finish configuring your connector by clicking "Save"
 
 ### Other MCP Clients 
 
@@ -152,7 +155,7 @@ For desktop clients the configuration you need to add to your client's config fi
 }
 ```
 
-### API Request
+### API Libraries
 
 Offical support for MCP in API requests is suppored by the following LLM providers:
 
@@ -200,7 +203,6 @@ We welcome contributions! Please follow these guidelines:
 
 Join the MCP community to stay updated and connect with other developers:
 
-- [WhatsApp Community ](https://chat.whatsapp.com/GJIf9Uee1kw9ee9myqJe0a)
 - [Reddit Community](https://www.reddit.com/r/mcp/)
 
 ## License
