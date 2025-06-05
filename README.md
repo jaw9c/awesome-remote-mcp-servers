@@ -11,16 +11,16 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 ### What are Custom Integrations?
 
-This is Claude's branding for conencting to remote MCP servers.
+This is Claude's branding for connecting to remote MCP servers.
 
 ### What are Custom Connectors?
 
-This is OpenAI's branding for conencting to remote MCP servers.
+This is OpenAI's branding for connecting to remote MCP servers.
 
 ## Why Remote only?
 
 Remote MCP servers are a more secure and easier way to use MCP. 
-- Security wise, if you trust the provider's URL, and you are authenicated, then the secuity model is the same as using the Web.
+- Security wise, if you trust the provider's URL, and you are authenticated, then the security model is the same as using the Web.
 - Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
 - They are the ONLY way to use MCP servers with Web based clients.
 
@@ -35,8 +35,8 @@ There are two main ways to use remote MCP servers on this list.
 
 This list has a mix of authentication options, different methods are better suited to certain use cases:
 
-- **OAuth 2.0**: This is an industry standard for authentication and is suppoerted by MCP Clients like Claude. Adoption amogst clients is growing, but not yet widespread.
- For this all you need to conenct is the server URL, and the client will guide you through the authentication flow.
+- **OAuth 2.0**: This is an industry standard for authentication and is supported by MCP Clients like Claude. Adoption amongst clients is growing, but not yet widespread.
+ For this all you need to connect is the server URL, and the client will guide you through the authentication flow.
 - **API Key**: An alternative to OAuth 2.0, this required to have an API key for the server. This is useful when using an API request to an LLM provider, rather than an MCP client.
 - **Open**: Easy to copy and paste and get started, but not as secure. This is the easiest way to get started, but not the most secure.
 
@@ -90,13 +90,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
-
-## How to use remote MCP servers?
-
-There are two main ways to use remote MCP servers on this list. 
-
-1. [Using a MCP client](#mcp-client) (Claude, ChatGPT, Cursor, etc.)
-2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, Gemini, etc.)
 
 ### MCP Clients
 
@@ -158,13 +151,13 @@ For desktop clients the configuration you need to add to your client's config fi
 
 ### API Libraries
 
-Offical support for MCP in API requests is suppored by the following LLM providers:
+Official support for MCP in API requests is supported by the following LLM providers:
 
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
 - [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
 
-Note that its easier to get started with API Token, based authentication for these servers. See the [FAQs](#faqs) section for more details.
+Note that it's easier to get started with API Token, based authentication for these servers. See the [FAQs](#faqs) section for more details.
 
 
 ## FAQs
@@ -172,14 +165,14 @@ Note that its easier to get started with API Token, based authentication for the
 ### Can I use an Oauth MCP server in an API request to an LLM provider?
 
 Yes, but you will need to manage your own OAuth authentication flow, in order to obtain an access token.
-A quick way to obtain an access token to test a server is follow the instructions in Anthropic's guide [Obtaining an access token for testing](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector#obtaining-an-access-token-for-testing) section.
+A quick way to obtain an access token to test a server is to follow the instructions in Anthropic's guide [Obtaining an access token for testing](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector#obtaining-an-access-token-for-testing) section.
 This is not generally recommended for production use, as it is not a secure way to authenticate users.
 
 ### Why do some servers have a `/sse` and others a `/mcp`?
 
 The `/sse` endpoint is for the Server Sent Events (SSE) protocol. It is being slowly deprecated in favor of the `/mcp` endpoint.
 The `/mcp` endpoint is for the Streamed HTTP protocol. 
-In the future some clients may only support adding severs by the prefix preceeding the 'sse' or 'mcp' and self-discovering full URL.
+In the future some clients may only support adding servers by the prefix preceding the 'sse' or 'mcp' and self-discovering full URL.
 We will update this list as we see this happening.
 
 ## Contributing
