@@ -91,6 +91,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
+| GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.0 | [GitHub](https://github.com) |
 
 ### MCP Clients
 
