@@ -95,6 +95,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
+| Reddit | Systemprompt MCP Reddit | `https://mcp.systemprompt.com/reddit/mcp` | OAuth2.1 | [Systemprompt](https://systemprompt.io) |
 
 ### MCP Clients
 
