@@ -72,6 +72,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 | [Plaid](https://plaid.com) |
+| Prisma Postgres | Database |  `https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server` | OAuth2.1 | [Prisma Postgres](https://prisma.io/postgres)
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/mcp` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
