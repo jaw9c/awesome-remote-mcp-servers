@@ -98,7 +98,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
-| monday.com | Project Management,CRM,WorkOS,Service | `https://mcp.monday.com/sse` | OAuth2.1 | [monday.com MCP] (https://github.com/mondaycom/mcp) |
+| monday.com | Project Management,CRM,WorkOS,Service | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 
 ### MCP Clients
 
