@@ -72,7 +72,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 | [Plaid](https://plaid.com) |
-| Prisma Postgres | Database |  `https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server` | OAuth2.1 | [Prisma Postgres](https://prisma.io/postgres)
+| Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres]([https://prisma.io/postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/mcp` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
@@ -87,8 +87,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
-| Bitte | Blockchain Data Analysis | `https://mcp.bitte.ai/sse` | Open | [Bitte](https://bitte.ai) |
-| McPoogle | MCP Server Search Engine | `https://mcp.mcpoogle.com/sse` | Open | [McPoogle](https://www.mcpoogle.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
