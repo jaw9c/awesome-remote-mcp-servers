@@ -104,6 +104,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Short.io | Link shortener | `https://ai-assistant.short.io/mcp` | API Key | [Short.io](https://short.io) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
+| Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
 
 ### MCP Clients
 
