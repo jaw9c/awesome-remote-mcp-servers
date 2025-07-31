@@ -9,7 +9,7 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 ## What is MCP?
 
-[Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet. 
+[Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet.
 
 ### What are Custom Integrations?
 
@@ -21,14 +21,14 @@ This is OpenAI's branding for connecting to remote MCP servers.
 
 ## Why Remote only?
 
-Remote MCP servers are a more secure and easier way to use MCP. 
+Remote MCP servers are a more secure and easier way to use MCP.
 - Security wise, if you trust the provider's URL, and you are authenticated, then the security model is the same as using the Web.
 - Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
 - They are the ONLY way to use MCP servers with Web based clients.
 
 ## How can I use an MCP server listed here?
 
-There are two main ways to use remote MCP servers on this list. 
+There are two main ways to use remote MCP servers on this list.
 
 1. [Using a MCP ready client](#mcp-client) (Claude, ChatGPT, Cursor, etc.)
 2. [In an API request to an LLM provider](#api-request) (OpenAI, Anthropic, Gemini, etc.)
@@ -107,6 +107,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
+| Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 
 ### MCP Clients
 
@@ -132,9 +133,9 @@ Full instructions can be found [here](https://support.anthropic.com/en/articles/
 
 ### ChatGPT
 
-#### Custom Connectors 
+#### Custom Connectors
 
-OpenAI's support for remote MCP is currently in beta. It's integrated into the Deep Research function. 
+OpenAI's support for remote MCP is currently in beta. It's integrated into the Deep Research function.
 
 Full instructions can be found [here](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt#h_d2a53d4230).
 
@@ -146,11 +147,11 @@ Full instructions can be found [here](https://help.openai.com/en/articles/114877
 4. Add your connector's remote MCP server URL
 5. Finish configuring your connector by clicking "Save"
 
-### Other MCP Clients 
+### Other MCP Clients
 
 Note: As the MCP spec is still in development, not all clients may support all features. In particular client support of OAUTH is not yet widespread.
 
-For desktop clients the configuration you need to add to your client's config file will be 
+For desktop clients the configuration you need to add to your client's config file will be
 
 ```json
 {
@@ -188,7 +189,7 @@ This is not generally recommended for production use, as it is not a secure way 
 ### Why do some servers have a `/sse` and others a `/mcp`?
 
 The `/sse` endpoint is for the Server Sent Events (SSE) protocol. It is being slowly deprecated in favor of the `/mcp` endpoint.
-The `/mcp` endpoint is for the Streamed HTTP protocol. 
+The `/mcp` endpoint is for the Streamed HTTP protocol.
 In the future some clients may only support adding servers by the prefix preceding the 'sse' or 'mcp' and self-discovering full URL.
 We will update this list as we see this happening.
 
