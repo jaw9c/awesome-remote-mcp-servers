@@ -71,6 +71,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
+| Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
 | Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
