@@ -116,6 +116,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
+| Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
 
 ### MCP Clients
 
