@@ -102,6 +102,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
+| Rube | Other | `https://rube.composio.dev` | Open | [Composio](https://composio.dev) |
 | OpenMesh | Service Discovery | `https://api.openmesh.dev/mcp` | Open | [OpenMesh](https://openmesh.dev) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
