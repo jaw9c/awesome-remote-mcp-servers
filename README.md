@@ -120,6 +120,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
+| Javadocs | Software Development | `https://www.javadocs.dev/mcp | Open | [Javadocs.dev](https://javadocs.dev) |
 
 ### MCP Clients
 
