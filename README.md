@@ -175,6 +175,7 @@ Note: As the MCP spec is still in development, not all clients may support all f
 
 For desktop clients the configuration you need to add to your client's config file will be
 
+#### mcp-remote
 ```json
 {
   "mcpServers": {
@@ -188,6 +189,24 @@ For desktop clients the configuration you need to add to your client's config fi
   }
 }
 ```
+
+#### vikstra-bridge
+[Vikstra-bridge](https://github.com/unarii/vikstra-bridge) provides a dependency-free alternative for users who prefer a single binary over Node.js tooling—simply download the executable and use it directly in your MCP client configuration.
+
+```json
+{
+  "mcpServers": {
+    "<REMOTE_MCP_SERVER_NAME>": {
+      "command": "/path/to/vikstra-bridge",
+      "args": [
+        "<REMOTE_MCP_SERVER_URL>"
+      ]
+    }
+  }
+}
+```
+
+For more configuration options check the project page.
 
 ### API Libraries
 
