@@ -109,6 +109,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
+| Context Awesome | Specialised Dataset | `https://www.context-awesome.com/` | Open | [Context Awesome](https://www.context-awesome.com/) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
