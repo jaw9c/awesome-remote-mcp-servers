@@ -70,6 +70,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
+| EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Firefly | Productivity | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Firefly](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
