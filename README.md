@@ -57,83 +57,93 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Remote MCP Server List
 
+| Name | Category | URL | Authentication | Maintainer | Install |
+|------|----------|-------------|----------------|------------|---------|
+| Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) | [Install](https://installthismcp.com/asana?url=https%3A%2F%2Fmcp.asana.com%2Fsse) |
+| Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) | [Install](https://installthismcp.com/audioscrape?url=https%3A%2F%2Fmcp.audioscrape.com) |
+| Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) | [Install](https://installthismcp.com/atlassian?url=https%3A%2F%2Fmcp.atlassian.com%2Fv1%2Fsse) |
+| Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) | [Install](https://installthismcp.com/box?url=https%3A%2F%2Fmcp.box.com) |
+| Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) | [Install](https://installthismcp.com/buildkite?url=https%3A%2F%2Fmcp.buildkite.com%2Fmcp) |
+| Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) | [Install](https://installthismcp.com/canva?url=https%3A%2F%2Fmcp.canva.com%2Fmcp) |
+| Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) | [Install](https://installthismcp.com/carbon-voice?url=https%3A%2F%2Fmcp.carbonvoice.app) |
+| Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) | [Install](https://installthismcp.com/close?url=https%3A%2F%2Fmcp.close.com%2Fmcp) |
+| Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) | [Install](https://installthismcp.com/cloudflare-workers?url=https%3A%2F%2Fbindings.mcp.cloudflare.com%2Fsse) |
+| Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) | [Install](https://installthismcp.com/cloudflare-observability?url=https%3A%2F%2Fobservability.mcp.cloudflare.com%2Fsse) |
+| Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) | [Install](https://installthismcp.com/cloudinary?url=https%3A%2F%2Fasset-management.mcp.cloudinary.com%2Fsse) |
+| Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) | [Install](https://installthismcp.com/dialer?url=https%3A%2F%2Fgetdialer.app%2Fsse) |
+| EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) | [Install](https://installthismcp.com/ean-search?url=https%3A%2F%2Fwww.ean-search.org%2Fmcp) |
+| Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) | [Install](https://installthismcp.com/egnyte?url=https%3A%2F%2Fmcp-server.egnyte.com%2Fsse) |
+| Firefly | Productivity | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Firefly](https://fireflies.ai) | [Install](https://installthismcp.com/firefly?url=https%3A%2F%2Fapi.fireflies.ai%2Fmcp) |
+| Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) | [Install](https://installthismcp.com/find-a-domain?url=https%3A%2F%2Fapi.findadomain.dev%2Fmcp) |
+| GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) | [Install](https://installthismcp.com/github?url=https%3A%2F%2Fapi.githubcopilot.com%2Fmcp) |
+| Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) | [Install](https://installthismcp.com/globalping?url=https%3A%2F%2Fmcp.globalping.dev%2Fsse) |
+| Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) | [Install](https://installthismcp.com/grafbase?url=https%3A%2F%2Fapi.grafbase.com%2Fmcp) |
+| Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) | [Install](https://installthismcp.com/hive-intelligence?url=https%3A%2F%2Fhiveintelligence.xyz%2Fmcp) |
+| Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) | [Install](https://installthismcp.com/instant?url=https%3A%2F%2Fmcp.instantdb.com%2Fmcp) |
+| Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) | [Install](https://installthismcp.com/intercom?url=https%3A%2F%2Fmcp.intercom.com%2Fsse) |
+| Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) | [Install](https://installthismcp.com/indeed?url=https%3A%2F%2Fmcp.indeed.com%2Fclaude%2Fmcp) |
+| Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) | [Install](https://installthismcp.com/invideo?url=https%3A%2F%2Fmcp.invideo.io%2Fsse) |
+| Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) | [Install](https://installthismcp.com/jam?url=https%3A%2F%2Fmcp.jam.dev%2Fmcp) |
+| Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) | [Install](https://installthismcp.com/kollektiv?url=https%3A%2F%2Fmcp.thekollektiv.ai%2Fsse) |
+| Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) | [Install](https://installthismcp.com/linear?url=https%3A%2F%2Fmcp.linear.app%2Fsse) |
+| Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) | [Install](https://installthismcp.com/listenetic?url=https%3A%2F%2Fmcp.listenetic.com%2Fv1%2Fmcp) |
+| Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) | [Install](https://installthismcp.com/meta-ads-pipeboard?url=https%3A%2F%2Fmcp.pipeboard.co%2Fmeta-ads-mcp) |
+| MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) | [Install](https://installthismcp.com/morningstar?url=https%3A%2F%2Fmcp.morningstar.com%2Fmcp) |
+| monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) | [Install](https://installthismcp.com/monday?url=https%3A%2F%2Fmcp.monday.com%2Fsse) |
+| Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) | [Install](https://installthismcp.com/neon?url=https%3A%2F%2Fmcp.neon.tech%2Fsse) |
+| Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) | [Install](https://installthismcp.com/netlify?url=https%3A%2F%2Fnetlify-mcp.netlify.app%2Fmcp) |
+| Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) | [Install](https://installthismcp.com/notion?url=https%3A%2F%2Fmcp.notion.com%2Fsse) |
+| Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) | [Install](https://installthismcp.com/octagon?url=https%3A%2F%2Fmcp.octagonagents.com%2Fmcp) |
+| OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) | [Install](https://installthismcp.com/onecontext?url=https%3A%2F%2Frag-mcp-2.whatsmcp.workers.dev%2Fsse) |
+| PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) | [Install](https://installthismcp.com/paypal?url=https%3A%2F%2Fmcp.paypal.com%2Fsse) |
+| Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) | [Install](https://installthismcp.com/parallel-task?url=https%3A%2F%2Ftask-mcp.parallel.ai%2Fmcp) |
+| Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) | [Install](https://installthismcp.com/parallel-search?url=https%3A%2F%2Fsearch-mcp.parallel.ai%2Fmcp) |
+| Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) | [Install](https://installthismcp.com/peek?url=https%3A%2F%2Fmcp.peek.com) |
+| Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) | [Install](https://installthismcp.com/plaid?url=https%3A%2F%2Fapi.dashboard.plaid.com%2Fmcp%2Fsse) |
+| Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server) | [Install](https://installthismcp.com/prisma-postgres?url=https%3A%2F%2Fmcp.prisma.io%2Fmcp) |
+| Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) | [Install](https://installthismcp.com/ramp?url=https%3A%2F%2Framp-mcp-remote.ramp.com%2Fmcp) |
+| Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) | [Install](https://installthismcp.com/rube?url=https%3A%2F%2Frube.app%2Fmcp) |
+| Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) | [Install](https://installthismcp.com/scorecard?url=https%3A%2F%2Fscorecard-mcp.dare-d5b.workers.dev%2Fsse) |
+| Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) | [Install](https://installthismcp.com/sentry?url=https%3A%2F%2Fmcp.sentry.dev%2Fsse) |
+| Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) | [Install](https://installthismcp.com/stripe?url=https%3A%2F%2Fmcp.stripe.com%2F) |
+| Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) | [Install](https://installthismcp.com/stytch?url=http%3A%2F%2Fmcp.stytch.dev%2Fmcp) |
+| Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) | [Install](https://installthismcp.com/supabase?url=https%3A%2F%2Fmcp.supabase.com%2Fmcp) |
+| Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) | [Install](https://installthismcp.com/square?url=https%3A%2F%2Fmcp.squareup.com%2Fsse) |
+| ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) | [Install](https://installthismcp.com/thoughtspot?url=https%3A%2F%2Fagent.thoughtspot.app%2Fmcp) |
+| Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) | [Install](https://installthismcp.com/turkish-airlines?url=https%3A%2F%2Fmcp.turkishtechlab.com%2Fmcp) |
+| Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) | [Install](https://installthismcp.com/vercel?url=https%3A%2F%2Fmcp.vercel.com%2F) |
+| VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) | [Install](https://installthismcp.com/vibemarketing?url=https%3A%2F%2Fvibemarketing.ninja%2Fmcp) |
+| Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) | [Install](https://installthismcp.com/webflow?url=https%3A%2F%2Fmcp.webflow.com%2Fsse) |
+| Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) | [Install](https://installthismcp.com/wix?url=https%3A%2F%2Fmcp.wix.com%2Fsse) |
+| Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) | [Install](https://installthismcp.com/simplescraper?url=https%3A%2F%2Fmcp.simplescraper.io%2Fmcp) |
+| WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) | [Install](https://installthismcp.com/waystation?url=https%3A%2F%2Fwaystation.ai%2Fmcp) |
+| Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) | [Install](https://installthismcp.com/zenable?url=https%3A%2F%2Fmcp.zenable.app%2F) |
+| Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) | [Install](https://installthismcp.com/zine?url=https%3A%2F%2Fwww.zine.ai%2Fmcp) |
+| Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) | [Install](https://installthismcp.com/cloudflare-docs?url=https%3A%2F%2Fdocs.mcp.cloudflare.com%2Fsse) |
+| Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) | [Install](https://installthismcp.com/astro-docs?url=https%3A%2F%2Fmcp.docs.astro.build%2Fmcp) |
+| Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) | [Install](https://installthismcp.com/context-awesome?url=https%3A%2F%2Fwww.context-awesome.com%2Fapi%2Fmcp) |
+| DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) | [Install](https://installthismcp.com/deepwiki?url=https%3A%2F%2Fmcp.deepwiki.com%2Fsse) |
+| Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) | [Install](https://installthismcp.com/huggingface?url=https%3A%2F%2Fhf.co%2Fmcp) |
+| Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) | [Install](https://installthismcp.com/semgrep?url=https%3A%2F%2Fmcp.semgrep.ai%2Fsse) |
+| Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) | [Install](https://installthismcp.com/remote-mcp?url=https%3A%2F%2Fmcp.remote-mcp.com) |
+| OpenMesh | Service Discovery | `https://api.openmesh.dev/mcp` | Open | [OpenMesh](https://openmesh.dev) | [Install](https://installthismcp.com/openmesh?url=https%3A%2F%2Fapi.openmesh.dev%2Fmcp) |
+| OpenZeppelin Cairo Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/cairo/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) | [Install](https://installthismcp.com/openzeppelin-cairo?url=https%3A%2F%2Fmcp.openzeppelin.com%2Fcontracts%2Fcairo%2Fmcp) |
+| OpenZeppelin Solidity Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/solidity/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) | [Install](https://installthismcp.com/openzeppelin-solidity?url=https%3A%2F%2Fmcp.openzeppelin.com%2Fcontracts%2Fsolidity%2Fmcp) |
+| OpenZeppelin Stellar Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stellar/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) | [Install](https://installthismcp.com/openzeppelin-stellar?url=https%3A%2F%2Fmcp.openzeppelin.com%2Fcontracts%2Fstellar%2Fmcp) |
+| OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) | [Install](https://installthismcp.com/openzeppelin-stylus?url=https%3A%2F%2Fmcp.openzeppelin.com%2Fcontracts%2Fstylus%2Fmcp) |
+| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) | [Install](https://installthismcp.com/llm-text?url=https%3A%2F%2Fmcp.llmtxt.dev%2Fsse) |
+| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) | [Install](https://installthismcp.com/gitmcp?url=https%3A%2F%2Fgitmcp.io%2Fdocs) |
+| Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) | [Install](https://installthismcp.com/manifold?url=https%3A%2F%2Fapi.manifold.markets%2Fv0%2Fmcp) |
+| Javadocs | Software Development | `https://www.javadocs.dev/mcp` | Open | [Javadocs.dev](https://javadocs.dev) | [Install](https://installthismcp.com/javadocs?url=https%3A%2F%2Fwww.javadocs.dev%2Fmcp) |
+| Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) | [Install](https://installthismcp.com/ferryhopper?url=https%3A%2F%2Fmcp.ferryhopper.com%2Fmcp) |
+
+### API Key Required MCPs
+
+The following MCPs require API keys and are not included in the install links above:
+
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
-| Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
-| Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
-| Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
-| Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
-| Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
-| Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
-| Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
-| Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
-| Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
-| Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
-| Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
-| Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
-| EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
-| Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
-| Firefly | Productivity | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Firefly](https://fireflies.ai) |
-| Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
-| GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
-| Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
-| Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
-| Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
-| Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
-| Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
-| Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
-| Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
-| Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
-| Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
-| Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
-| Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
-| Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
-| MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
-| monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
-| Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
-| Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
-| Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
-| Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
-| OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
-| PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
-| Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
-| Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
-| Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
-| Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
-| Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
-| Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
-| Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
-| Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
-| Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
-| Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
-| Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
-| Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
-| Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
-| ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
-| Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
-| Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
-| VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
-| Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
-| Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
-| Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
-| WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
-| Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
-| Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
-| Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
-| Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
-| Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
-| DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
-| Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
-| Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
-| Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
-| OpenMesh | Service Discovery | `https://api.openmesh.dev/mcp` | Open | [OpenMesh](https://openmesh.dev) |
-| OpenZeppelin Cairo Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/cairo/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
-| OpenZeppelin Solidity Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/solidity/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
-| OpenZeppelin Stellar Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stellar/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
-| OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
-| LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
-| GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | Close | CRM | `https://mcp.close.com/mcp` | API Key | [Close](https://help.close.com/docs/mcp-server) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
@@ -146,10 +156,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
-| Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
-| Javadocs | Software Development | `https://www.javadocs.dev/mcp` | Open | [Javadocs.dev](https://javadocs.dev) |
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
-| Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 
 ### MCP Clients
 
