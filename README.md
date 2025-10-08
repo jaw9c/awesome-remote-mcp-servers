@@ -11,13 +11,13 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet.
 
-### What are Custom Integrations?
+### What are Connectors?
 
-This is Claude's branding for connecting to remote MCP servers.
+This is OpenAI and Anthropic's branding for connecting to remote MCP servers.
 
-### What are Custom Connectors?
+### What is the ChatGPT Apps SDK
 
-This is OpenAI's branding for connecting to remote MCP servers.
+These are just Remote MCP servers too! They additionally provide UI components as resources that can use displayed inside ChatGPT.
 
 ## Why Remote only?
 
@@ -151,63 +151,145 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 
-### MCP Clients
 
-A complete list of MCP clients can be found [here](https://modelcontextprotocol.io/clients). Here are some examples of installation with Claude.
+# Remote MCP Installation Guide
 
-### Claude
+> Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
 
-#### Custom Integrations
 
-Anthropic has added [native support for Remote MCP into Claude](https://www.anthropic.com/news/integrations). It's currently available on Pro plans.
+## MCP Clients
 
-Add these servers as *Custom Integrations* in the integrations section of your Claude app settings.
+A complete list of MCP clients can be found [here](https://modelcontextprotocol.io/clients)
 
-##### Step-by-Step Instructions
+**Server Name**: `My Awesome MCP Server`  
+**Server URL**: `https://mcp.my-awesome-server.com/sse`
 
-1. Navigate to Settings > Profile
-2. Locate the "Integrations" section
-3. Click "Add more"
-4. Add your integration's remote MCP server URL
-5. Finish configuring your integration by clicking "Add"
+## Cursor
 
-Full instructions can be found [here](https://support.anthropic.com/en/articles/11175166-about-custom-integrations-using-remote-mcp).
+**Instructions:** Add to `~/.cursor/mcp.json` or `.cursor/mcp.json` (project-specific)
 
-### ChatGPT
-
-#### Custom Connectors
-
-OpenAI's support for remote MCP is currently in beta. It's integrated into the Deep Research function.
-
-Full instructions can be found [here](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt#h_d2a53d4230).
-
-##### Step-by-Step Instructions
-
-1. Navigate to Settings > Profile
-2. Locate the "Connectors" section
-3. Click "Add Connector"
-4. Add your connector's remote MCP server URL
-5. Finish configuring your connector by clicking "Save"
-
-### Other MCP Clients
-
-Note: As the MCP spec is still in development, not all clients may support all features. In particular client support of OAUTH is not yet widespread.
-
-For desktop clients the configuration you need to add to your client's config file will be
-
+**Configuration:**
 ```json
 {
   "mcpServers": {
-    "<REMOTE_MCP_SERVER_NAME>": {
-      "command": "npx",
-      "args": [
-        "mcp-remote",
-        "<REMOTE_MCP_SERVER_URL>"
-      ]
+    "test": {
+      "url": "https://mcp.my-awesome-server.com/sse"
     }
   }
 }
 ```
+
+---
+
+## VS Code
+
+**Instructions:** Add to VS Code settings.json
+
+**Configuration:**
+```json
+{
+  "mcp": {
+    "servers": {
+      "test": {
+        "type": "http",
+        "url": "https://mcp.my-awesome-server.com/sse"
+      }
+    }
+  }
+}
+```
+
+---
+
+## Claude Desktop / Claude.ai
+
+**Instructions:** Go to Settings → Connectors → Add Custom Connector and fill in:
+- **Name**: test
+- **URL**: https://mcp.my-awesome-server.com/sse
+
+Please note that if you are part of an organisation, you may not have access to custom connectors at this point. Ask your org administator.
+
+---
+
+## Claude Code
+
+**Command:**
+```bash
+claude mcp add --transport http "test" https://mcp.my-awesome-server.com/sse
+```
+
+**Instructions:** Run the command in your terminal
+
+---
+
+## Windsurf
+
+**Instructions:** Add to your Windsurf MCP configuration
+
+**Configuration:**
+```json
+{
+  "mcpServers": {
+    "test": {
+      "serverUrl": "https://mcp.my-awesome-server.com/sse"
+    }
+  }
+}
+```
+
+---
+
+## Cline
+
+**Instructions:** Go to MCP Servers section → Remote Servers → Edit Configuration
+
+**Configuration:**
+```json
+{
+  "mcpServers": {
+    "test": {
+      "url": "https://mcp.my-awesome-server.com/sse",
+      "type": "streamableHttp"
+    }
+  }
+}
+```
+
+---
+
+## Gemini CLI
+
+**Instructions:** Add to `~/.gemini/settings.json`
+
+**Configuration:**
+```json
+{
+  "mcpServers": {
+    "test": {
+      "httpUrl": "https://mcp.my-awesome-server.com/sse"
+    }
+  }
+}
+```
+
+---
+
+## ChatGPT
+
+**Instructions:** First, go to 'Settings -> Connectors -> Advanced Settings' and turn on 'Developer Mode'.
+
+Then, in connector settings click 'create'.
+      
+Fill in:
+
+- **Name**: test
+- **URL**: https://mcp.my-awesome-server.com/sse
+- **Authentication**: OAuth
+
+In a new chat ensure developer mode is turned on with the connector(s) selected.
+
+Please note that <a href="https://platform.openai.com/docs/guides/developer-mode" target="_blank">Developer Mode</a> must be enabled and this feature may not be available for everyone..
+
 
 ### API Libraries
 
@@ -252,6 +334,7 @@ We welcome contributions! Please follow these guidelines:
 ## Acknowledgments
 
 - Inspired by the [Model Context Protocol](https://modelcontextprotocol.io/)
+- Server install guide [Install This MCP](https://github.com/janwilmake/install-this-mcp)
 
 ## Community
 
