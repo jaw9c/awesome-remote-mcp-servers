@@ -143,6 +143,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
 | Short.io | Link shortener | `https://ai-assistant.short.io/mcp` | API Key | [Short.io](https://short.io) |
+| zip1.io | Link shortener | `https://zip1.io/mcp` | Open | [zip1.io](https://zip1.io) |
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
