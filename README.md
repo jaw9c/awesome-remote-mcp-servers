@@ -126,6 +126,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
+| Exa Search | Search | `https://mcp.exa.ai/mcp` | Open | [Exa](https://exa.ai) |
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
