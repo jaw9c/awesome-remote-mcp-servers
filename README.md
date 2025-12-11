@@ -139,6 +139,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | Close | CRM | `https://mcp.close.com/mcp` | API Key | [Close](https://help.close.com/docs/mcp-server) |
+| Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
+| Google Compute Engine	| Developer Tools | `https://compute.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/compute/docs/reference/mcp) |
+| Google GKE | Developer Tools | `https://container.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/kubernetes-engine/docs/reference/mcp) |
+| Google Maps | Mapping | `https://mapstools.googleapis.com/mcp` | API Key | [Google](https://developers.google.com/maps/ai/grounding-lite/reference/mcp) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
