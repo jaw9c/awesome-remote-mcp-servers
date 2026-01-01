@@ -22,7 +22,7 @@ These are just Remote MCP servers too! They additionally provide UI components a
 ## Why Remote only?
 
 Remote MCP servers are a more secure and easier way to use MCP.
-- Security wise, if you trust the provider's URL, and you are authenticated, then the security model is the same as using the Web.
+- Security wise, MCP servers have the ability to manipulate your input and the ability give malicious outputs. They also have access to whatever data you've granted your agent access to. Only use MCP servers that you trust and have a clear understanding of how they function. Research them thoroughly before putting sensitive data through one. 
 - Ease of use wise, you can copy & paste the server URL and you're away. No installing NPM packages etc.
 - They are the ONLY way to use MCP servers with Web based clients.
 
