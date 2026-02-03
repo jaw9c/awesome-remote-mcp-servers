@@ -161,6 +161,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
+| Vectorize | Agents | `https://agents.vectorize.io/api/agents/<agent-id>/mcp` | API Key | [Vectorize](https://vectorize.io) |
 | Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
 | Javadocs | Software Development | `https://www.javadocs.dev/mcp` | Open | [Javadocs.dev](https://javadocs.dev) |
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
