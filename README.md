@@ -151,6 +151,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
+| SearchAPI | Search | `https://www.searchapi.io/mcp` | API Key | [SearchAPI](https://www.searchapi.io) |
 | Short.io | Link shortener | `https://ai-assistant.short.io/mcp` | API Key | [Short.io](https://short.io) |
 | zip1.io | Link shortener | `https://zip1.io/mcp` | Open | [zip1.io](https://zip1.io) |
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
