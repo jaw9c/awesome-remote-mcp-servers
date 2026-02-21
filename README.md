@@ -128,6 +128,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
 | WebZum | Website Hosting | `https://webzum.com/api/mcp` | Open | [WebZum](https://webzum.com) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
+| Speech AI | Speech & Language | `https://pronunciation-mcp.thankfulfield-a7857897.eastus.azurecontainerapps.io/mcp` | API Key | [Speech AI](https://github.com/fasuizu-br/speech-ai-examples) |
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
