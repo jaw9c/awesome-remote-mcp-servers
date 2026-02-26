@@ -169,6 +169,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
+| Philidor | DeFi Risk Analytics | `https://mcp.philidor.io/api/mcp` | Open | [Philidor Labs](https://philidor.io) |
 
 
 # Remote MCP Installation Guide
