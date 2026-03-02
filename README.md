@@ -169,6 +169,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
+| [OpenClaw MCP Ecosystem](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) | Developer Tools, Utilities | `*.yagami8095.workers.dev` | API Key (Free/Pro) | [@yedanyagamiai-cmd](https://github.com/yedanyagamiai-cmd) |
 
 
 # Remote MCP Installation Guide
