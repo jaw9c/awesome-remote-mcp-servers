@@ -314,6 +314,7 @@ Please note that <a href="https://platform.openai.com/docs/guides/developer-mode
 
 Official support for MCP in API requests is supported by the following LLM providers:
 
+- [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents providing managed Chromium instances via WebSocket/CDP, with built-in anti-detection, CAPTCHA solving, residential proxy rotation, and a native MCP server
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
 - [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
