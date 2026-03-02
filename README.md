@@ -169,6 +169,11 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
+| OpenClaw JSON Toolkit | Developer Tools | `https://json-toolkit-mcp.yagami8095.workers.dev/mcp` | Open | [OpenClaw](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) |
+| OpenClaw Regex Engine | Developer Tools | `https://regex-engine-mcp.yagami8095.workers.dev/mcp` | Open | [OpenClaw](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) |
+| OpenClaw Color Palette | Design | `https://color-palette-mcp.yagami8095.workers.dev/mcp` | Open | [OpenClaw](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) |
+| OpenClaw Timestamp Converter | Developer Tools | `https://timestamp-converter-mcp.yagami8095.workers.dev/mcp` | Open | [OpenClaw](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) |
+| OpenClaw Prompt Enhancer | AI | `https://prompt-enhancer-mcp.yagami8095.workers.dev/mcp` | Open | [OpenClaw](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) |
 
 
 # Remote MCP Installation Guide
