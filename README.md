@@ -157,6 +157,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
 | DeFi MCP | Crypto | `https://github.com/OzorOwn/defi-mcp` | API Key | [OzorOwn](https://github.com/OzorOwn) |
+| Frostbyte | Developer Tools | `https://frostbyte-mcp.167.148.41.86.nip.io/sse` | API Key | [Frostbyte](https://github.com/Robocular/frostbyte-mcp) |
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
 | SearchAPI | Search | `https://www.searchapi.io/mcp` | API Key | [SearchAPI](https://www.searchapi.io) |
