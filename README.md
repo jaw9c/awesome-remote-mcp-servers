@@ -365,3 +365,10 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Content & Writing
+
+#### [Humanizer PRO](https://texthumanizer.pro/mcp)
+
+- **Offers:** AI text humanizer that transforms AI-generated content into natural, human-sounding text with stealth, academic, and SEO modes. Includes AI detection scanning.
+- **Access:** Create an account at https://texthumanizer.pro, use MCP URL `https://texthumanizer.pro/mcp`
