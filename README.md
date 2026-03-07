@@ -101,6 +101,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
+| Omnis Venture Intelligence | Market Intelligence | `https://www.bamboosnow.co/api/v1/mcp` | API Key | [BambooSnow](https://www.bamboosnow.co/venture-intelligence-mcp-server) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
