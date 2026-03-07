@@ -168,6 +168,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Javadocs | Software Development | `https://www.javadocs.dev/mcp` | Open | [Javadocs.dev](https://javadocs.dev) |
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
+| Humanizer PRO | Content / Writing | `https://texthumanizer.pro/mcp` | OAuth2.1 | [Humanizer PRO](https://texthumanizer.pro) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 
 
