@@ -171,6 +171,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
+| Newsletter Commerce MCP | Content Commerce | `https://newsletter-commerce-mcp.sincetoday.workers.dev/mcp` | Open / x402 | [Since Today](https://sincetoday.com) |
+| Podcast Commerce MCP | Content Commerce | `https://podcast-commerce-mcp.sincetoday.workers.dev/mcp` | Open / x402 | [Since Today](https://sincetoday.com) |
+| Recipe Commerce MCP | Content Commerce | `https://recipe-commerce-mcp.sincetoday.workers.dev/mcp` | Open / x402 | [Since Today](https://sincetoday.com) |
 
 
 # Remote MCP Installation Guide
@@ -366,3 +369,4 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
