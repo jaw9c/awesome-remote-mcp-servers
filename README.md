@@ -362,6 +362,7 @@ We welcome contributions! Please follow these guidelines:
 Join the MCP community to stay updated and connect with other developers:
 
 - [Reddit Community](https://www.reddit.com/r/mcp/)
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - Open marketplace for AI agent skills. Search and discover 500+ MCP servers and automation tools.
 
 ## License
 
