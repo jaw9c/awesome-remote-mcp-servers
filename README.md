@@ -71,6 +71,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
+| Clicks Protocol | DeFi / Yield | `https://clicks-mcp.rechnung-613.workers.dev/mcp` | Open | [Clicks Protocol](https://clicksprotocol.xyz) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
