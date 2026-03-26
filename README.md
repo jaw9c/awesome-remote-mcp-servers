@@ -155,6 +155,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Google Maps | Mapping | `https://mapstools.googleapis.com/mcp` | API Key | [Google](https://developers.google.com/maps/ai/grounding-lite/reference/mcp) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
+| Flow Studio | Automation | `https://mcp.flowstudio.app/mcp` | API Key | [Flow Studio](https://flowstudio.app) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
