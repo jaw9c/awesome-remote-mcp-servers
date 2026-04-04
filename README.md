@@ -121,6 +121,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
+| ToolPipe | Developer Tools | `https://troops-submission-what-stays.trycloudflare.com/mcp` | Open | [COSAI Labs](https://github.com/COSAI-Labs/toolpipe-mcp-server) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
