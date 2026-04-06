@@ -7,6 +7,7 @@
 
 A curated, opinionated list of high-quality **remote** Model Context Protocol (MCP) servers. This repository focuses on listing official and well-maintained MCP servers that can be accessed over the internet, helping developers discover reliable and production-ready services for their AI applications.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 specialized agent system prompts for Claude Code leveraging remote MCP servers for orchestration, security, and multi-agent coordination.
 ## What is MCP?
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet.
