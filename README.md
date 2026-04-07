@@ -158,6 +158,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
+| LeadPipe | CRM | `https://leadpipe-mcp.mcpize.run/mcp` | Open | [LeadPipe MCP](https://github.com/enzoemir1/leadpipe-mcp) |
+| InvoiceFlow | Payments | `https://invoiceflow-mcp.mcpize.run/mcp` | Open | [InvoiceFlow MCP](https://github.com/enzoemir1/invoiceflow-mcp) |
+| ShopOps | E-Commerce | `https://shopops-mcp.mcpize.run/mcp` | Open | [ShopOps MCP](https://github.com/enzoemir1/shopops-mcp) |
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
 | SearchAPI | Search | `https://www.searchapi.io/mcp` | API Key | [SearchAPI](https://www.searchapi.io) |
