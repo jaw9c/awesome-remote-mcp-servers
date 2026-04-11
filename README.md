@@ -123,6 +123,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
+| Two Minute Reports | Marketing | `https://mcp.twominutereports.com/mcp` | OAuth2.1 & API Key | [Two Minute Reports](https://twominutereports.com/mcp) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
