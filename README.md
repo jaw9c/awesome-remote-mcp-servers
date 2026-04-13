@@ -362,6 +362,7 @@ We welcome contributions! Please follow these guidelines:
 Join the MCP community to stay updated and connect with other developers:
 
 - [Reddit Community](https://www.reddit.com/r/mcp/)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## License
 
