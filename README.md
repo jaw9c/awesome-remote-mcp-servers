@@ -317,6 +317,7 @@ Please note that <a href="https://platform.openai.com/docs/guides/developer-mode
 Official support for MCP in API requests is supported by the following LLM providers:
 
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator with remote MCP server mode over HTTP. Exposes task management, agent control, and cost tracking tools.
 - [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
 
