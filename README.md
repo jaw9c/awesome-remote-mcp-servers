@@ -60,6 +60,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+| AI Dev Jobs | Job Board | `https://aidevboard.com/mcp` | Open | [AI Dev Jobs](https://aidevboard.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
@@ -101,6 +102,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
+| Not Human Search | Search / MCP Directory | `https://nothumansearch.ai/mcp` | Open | [Not Human Search](https://nothumansearch.ai) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
