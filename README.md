@@ -171,6 +171,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
+| ZIP Code & County | Geographic Data | `https://zipcodeandcounty.com/api/mcp` | Open / API Key | [zipcodeandcounty.com](https://zipcodeandcounty.com) |
 
 
 # Remote MCP Installation Guide
