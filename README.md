@@ -98,6 +98,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
+| MyCarTracks | Fleet Management | `https://mycartracks.com/mcp` | OAuth2.1 | [MyCarTracks](https://mycartracks.com) |
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
