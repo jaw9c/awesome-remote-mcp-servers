@@ -141,6 +141,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
+| OpenClaw Trust Scorer | Blockchain | `https://facilities-radical-advantage-flashers.trycloudflare.com/mcp?src=mcpso` | Open | [OpenClaw Research](https://github.com/baronsengir007/openclaw-trust-scorer) |
 | OpenMesh | Service Discovery | `https://api.openmesh.dev/mcp` | Open | [OpenMesh](https://openmesh.dev) |
 | OpenZeppelin Cairo Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/cairo/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Solidity Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/solidity/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
