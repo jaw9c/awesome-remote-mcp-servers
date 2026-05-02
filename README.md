@@ -109,6 +109,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
+| Pyrimid | Payments | `https://pyrimid.ai/api/mcp` | Open | [Pyrimid](https://pyrimid.ai) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
