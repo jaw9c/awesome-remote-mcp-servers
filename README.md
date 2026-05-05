@@ -80,6 +80,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Firefly | Productivity | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Firefly](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| GetPracticeHelp | Healthcare | `https://gph-mcp-server.pages.dev/mcp` | Open | [GetPracticeHelp](https://getpracticehelp.com) |
+| GetTreatmentHelp | Healthcare | `https://gth-mcp-server.pages.dev/mcp` | Open | [GetTreatmentHelp](https://gettreatmenthelp.com) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
