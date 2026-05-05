@@ -69,6 +69,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
+| CanYouGrab.it | Productivity | `https://api.canyougrab.it/mcp` | OAuth2.1 | [CanYouGrab.it](https://canyougrab.it) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
