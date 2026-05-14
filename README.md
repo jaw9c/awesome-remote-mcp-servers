@@ -58,6 +58,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Remote MCP Server List
 
+| Mengram | Memory | `https://mengram.io/mcp` | API Key | [Mengram](https://mengram.io) |
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
