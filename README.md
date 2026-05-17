@@ -60,6 +60,13 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+| AgentMemory MCP | Memory | `https://agentmemory.space/mcp` | API Key | [clauxel](https://github.com/clauxel/agentmemory-mcp) |
+| SyntheticUser Lab MCP | User Research | `https://syntheticuserlab.space/mcp` | API Key | [clauxel](https://github.com/clauxel/synthetic-user-testing-mcp) |
+| MCP Risk Ledger | Security | `https://mcpriskledger.clauxel.com/mcp` | API Key | [clauxel](https://github.com/clauxel/mcp-risk-ledger) |
+| MCPLoad Budgeter | Developer Tools | `https://mcploadbudgeter.space/mcp` | API Key | [clauxel](https://github.com/clauxel/mcp-load-budgeter) |
+| ServerCard Trust MCP | Security | `https://servercardtrust.space/mcp` | API Key | [clauxel](https://github.com/clauxel/server-card-trust-mcp) |
+| DB Query Guard MCP | Database Security | `https://dbqueryguard.clauxel.com/mcp` | API Key | [clauxel](https://github.com/clauxel/db-query-guard-mcp) |
+| ToolBudget Router MCP | Developer Tools | `https://toolbudgetrouter.clauxel.com/mcp` | API Key | [clauxel](https://github.com/clauxel/tool-budget-router-mcp) |
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
