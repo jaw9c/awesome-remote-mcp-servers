@@ -174,6 +174,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 
 
+
+- [klymax402](https://klymax402.com) - 100 x402 micropayment MCP servers for AI agents (crypto/DeFi, B2B enrichment, SEO, security, utilities). USDC pay-per-call on Base, no signup, composable in 6 use-case bundles.
 # Remote MCP Installation Guide
 
 > Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
