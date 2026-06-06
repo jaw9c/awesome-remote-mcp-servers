@@ -166,6 +166,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | zip1.io | Link shortener | `https://zip1.io/mcp` | Open | [zip1.io](https://zip1.io) |
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
+| TWZRD Agent Intel | Crypto | `https://intel.twzrd.xyz/mcp` | Open / x402 | [TWZRD](https://intel.twzrd.xyz) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
 | Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
 | Javadocs | Software Development | `https://www.javadocs.dev/mcp` | Open | [Javadocs.dev](https://javadocs.dev) |
