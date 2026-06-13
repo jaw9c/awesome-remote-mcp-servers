@@ -102,7 +102,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
-| Mission | Productivity | `https://claude.gomission.io/mcp/` | OAuth2.1 | [Mission](https://claude.gomission.io) |
+| Mission [![gomission/mcp MCP server](https://glama.ai/mcp/servers/gomission/mcp/badges/score.svg)](https://glama.ai/mcp/servers/gomission/mcp) | Productivity | `https://claude.gomission.io/mcp/` | OAuth2.1 | [Mission](https://claude.gomission.io) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
