@@ -108,6 +108,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
+| PainSpotter | Market Research | `https://painspotter.ai/mcp/` | API Key | [PainSpotter](https://painspotter.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
