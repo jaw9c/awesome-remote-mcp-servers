@@ -90,6 +90,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
+| Keenable | Web Search | `https://api.keenable.ai/mcp` | Open / API Key | [Keenable](https://keenable.ai) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
