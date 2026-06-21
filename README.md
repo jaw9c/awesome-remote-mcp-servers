@@ -69,6 +69,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
+| BuyWhere | Product Data | `https://api.buywhere.ai/mcp` | API Key | [BuyWhere](https://buywhere.ai) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
