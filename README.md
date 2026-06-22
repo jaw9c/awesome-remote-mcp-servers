@@ -165,6 +165,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Short.io | Link shortener | `https://ai-assistant.short.io/mcp` | API Key | [Short.io](https://short.io) |
 | zip1.io | Link shortener | `https://zip1.io/mcp` | Open | [zip1.io](https://zip1.io) |
 | Telnyx | Communication | `https://api.telnyx.com/v2/mcp` | API Key | [Telnyx](https://telnyx.com) |
+| Useful AI | Developer Utilities | `https://api.usefulai.fun/mcp` | Open | [Useful AI](https://usefulai.fun) |
 | Dodo Payments | Payments | `https://mcp.dodopayments.com/sse` | API Key | [Dodo Payments](https://dodopayments.com) |
 | Polar Signals | Software Development | `https://api.polarsignals.com/api/mcp/` | API Key | [Polar Signals](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) |
 | Manifold | Forecasting | `https://api.manifold.markets/v0/mcp` | Open | [Manifold](https://manifold.markets) |
