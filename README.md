@@ -368,3 +368,7 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Web3 & Security
+- [MetaVision CVE Oracle & DeFi Signals](https://metavision.click/mcp) - Web3 security scanning (355k+ NVD CVEs), live DeFi arbitrage signals (Uniswap V3 vs Aerodrome on Base), wallet fraud detection. x402 v2 micropayments. ([Agent Card](https://metavision.click/.well-known/agent.json))
