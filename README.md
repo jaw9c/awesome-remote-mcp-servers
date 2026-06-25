@@ -58,6 +58,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Remote MCP Server List
 
+| Mushi Mushi | Debugging / Monitoring | `https://dxptnwrhwsqckaftyymj.supabase.co/functions/v1/mcp?features=triage,fixes,inventory,setup,docs` | API Key | [Mushi Mushi](https://github.com/kensaurus/mushi-mushi) |
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
