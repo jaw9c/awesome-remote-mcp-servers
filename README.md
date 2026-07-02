@@ -174,6 +174,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| Shipyard | Software Development | \https://goshipyard.app/mcp | API Key (optional; anon read-only) | [Shipyard](https://goshipyard.app/?ref=awesome-remote-mcp) |
 
 # Remote MCP Installation Guide
 
