@@ -368,3 +368,5 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 CLAUDE.md PCA templates for persistent personal context across remote MCP sessions. MIT.
