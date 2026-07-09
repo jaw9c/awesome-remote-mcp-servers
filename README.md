@@ -22,7 +22,7 @@ These are just Remote MCP servers too! They additionally provide UI components a
 ## Why Remote only?
 
 Remote MCP servers are a more secure and easier way to use MCP - compared to other methods of using MCP:
-- Legitictacy: Servers can be evaluated by checking the domain in the URL - it should be a familiar and trusted domain.
+- Legitimacy: Servers can be evaluated by checking the domain in the URL - it should be a familiar and trusted domain.
 - Permissioned: Servers should be assumed to have access to whatever data you've granted your agent access to, based on the authentication method used.
 - Ease of use: You can copy & paste the server URL and you're away. No installing NPM packages.
 - They are the ONLY way to use MCP servers with Web based clients.
@@ -68,7 +68,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
-| Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
+| Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
@@ -125,6 +125,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
+| Xquik | Social Media | `https://xquik.com/mcp` | API Key | [Xquik](https://xquik.com) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
@@ -177,7 +178,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 # Remote MCP Installation Guide
 
-> Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
+> Kindly powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
 
 
 ## MCP Clients
@@ -230,7 +231,7 @@ A complete list of MCP clients can be found [here](https://modelcontextprotocol.
 - **Name**: test
 - **URL**: https://mcp.my-awesome-server.com/sse
 
-Please note that if you are part of an organisation, you may not have access to custom connectors at this point. Ask your org administator.
+Please note that if you are part of an organisation, you may not have access to custom connectors at this point. Ask your org administrator.
 
 ---
 
