@@ -150,6 +150,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
+| GateCheck | Security | `https://proofbeforepay.vercel.app/gatecheck/mcp` | Open | [ProofBeforePay](https://github.com/LarryLemonBot/gatecheck) |
+| ResultRail | Web Data Extraction | `https://proofbeforepay.vercel.app/resultrail/mcp` | Open | [ProofBeforePay](https://github.com/LarryLemonBot/resultrail-mcp-server) |
+| Signal Desk | Data Analysis | `https://proofbeforepay.vercel.app/revenue/mcp` | Open | [ProofBeforePay](https://github.com/LarryLemonBot/signal-desk-mcp-server) |
 | Close | CRM | `https://mcp.close.com/mcp` | API Key | [Close](https://help.close.com/docs/mcp-server) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
 | Google Compute Engine	| Developer Tools | `https://compute.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/compute/docs/reference/mcp) |
