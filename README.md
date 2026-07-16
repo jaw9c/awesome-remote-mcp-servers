@@ -22,7 +22,7 @@ These are just Remote MCP servers too! They additionally provide UI components a
 ## Why Remote only?
 
 Remote MCP servers are a more secure and easier way to use MCP - compared to other methods of using MCP:
-- Legitimacy: Servers can be evaluated by checking the domain in the URL - it should be a familiar and trusted domain.
+- Legitictacy: Servers can be evaluated by checking the domain in the URL - it should be a familiar and trusted domain.
 - Permissioned: Servers should be assumed to have access to whatever data you've granted your agent access to, based on the authentication method used.
 - Ease of use: You can copy & paste the server URL and you're away. No installing NPM packages.
 - They are the ONLY way to use MCP servers with Web based clients.
@@ -60,7 +60,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
-| Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
@@ -68,7 +67,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
-| Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
+| Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
@@ -125,7 +124,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
-| Xquik | Social Media | `https://xquik.com/mcp` | API Key | [Xquik](https://xquik.com) |
+| Xquik | Social Media | `https://xquik.com/mcp` | OAuth2.1 / API Key | [Xquik](https://xquik.com) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
@@ -138,7 +137,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
-| Resemble AI | Documentation | `https://mcp.resemble.ai/sse` | Open | [Resemble AI](https://resemble.ai) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Exa Search | Search | `https://mcp.exa.ai/mcp` | Open | [Exa](https://exa.ai) |
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
@@ -174,11 +172,11 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | CustomGPT.ai | RAG-as-a-service | `https://mcp.customgpt.ai` | API | [CustomGPT.ai](https://customgpt.ai) |
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
-| Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+
 
 # Remote MCP Installation Guide
 
-> Kindly powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
+> Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
 
 
 ## MCP Clients
@@ -231,7 +229,7 @@ A complete list of MCP clients can be found [here](https://modelcontextprotocol.
 - **Name**: test
 - **URL**: https://mcp.my-awesome-server.com/sse
 
-Please note that if you are part of an organisation, you may not have access to custom connectors at this point. Ask your org administrator.
+Please note that if you are part of an organisation, you may not have access to custom connectors at this point. Ask your org administator.
 
 ---
 
