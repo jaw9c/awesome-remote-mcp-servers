@@ -174,6 +174,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| MCP Schema Audit | Software Development | `https://mcp-schema-audit-mcp.mcpize.run/mcp` | API Key | [tylerscomic-lab](https://github.com/tylerscomic-lab/mcp-schema-audit-mcp) |
+| Cron Schedule Audit | Software Development | `https://cron-schedule-audit-mcp.mcpize.run/mcp` | API Key | [tylerscomic-lab](https://github.com/tylerscomic-lab/cron-schedule-audit-mcp) |
+| Regex Safety Audit | Security | `https://regex-safety-audit-mcp.mcpize.run/mcp` | API Key | [tylerscomic-lab](https://github.com/tylerscomic-lab/regex-safety-audit-mcp) |
+| Claude Cost Audit | Software Development | `https://claude-cost-audit-mcp.mcpize.run/mcp` | API Key | [tylerscomic-lab](https://github.com/tylerscomic-lab/claude-cost-audit-mcp) |
 
 # Remote MCP Installation Guide
 
