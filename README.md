@@ -117,6 +117,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
+| StatCite | Data Analysis | `https://statcite.com/mcp` | Open | [StatCite](https://statcite.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
