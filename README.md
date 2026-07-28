@@ -1,4 +1,5 @@
 # Awesome Remote MCP Servers
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) (`https://api.trendsmcp.ai/mcp`) - Hosted MCP for live trend data across 25+ platforms.
 
 > 📧 **Subscribe to the Newsletter** Stay informed about new MCP servers and updates:
 > [Subscribe](https://remotemcp.substack.com/subscribe)
