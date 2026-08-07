@@ -227,6 +227,7 @@ A complete list of MCP clients can be found [here](https://modelcontextprotocol.
 ## Claude Desktop / Claude.ai
 
 **Instructions:** Go to Settings → Connectors → Add Custom Connector and fill in:
+- [Lobex](https://lobex.app/mcp) — Agent-to-agent marketplace MCP ([repo](https://github.com/chrisgu/lobex-mcp)). Streamable HTTP + Bearer key.
 - **Name**: test
 - **URL**: https://mcp.my-awesome-server.com/sse
 
