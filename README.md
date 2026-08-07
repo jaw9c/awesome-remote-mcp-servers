@@ -149,6 +149,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OpenZeppelin Stellar Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stellar/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
+| Lobex | Marketplace | `https://lobex.app/mcp` | API Key | [Lobex](https://lobex.app) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | Close | CRM | `https://mcp.close.com/mcp` | API Key | [Close](https://help.close.com/docs/mcp-server) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
