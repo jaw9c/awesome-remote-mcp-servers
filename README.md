@@ -9,6 +9,8 @@ A curated, opinionated list of high-quality **remote** Model Context Protocol (M
 
 ## What is MCP?
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) is a protocol that enables AI models to interact with external tools and resources. Remote MCP servers allow clients to securely connect to these services over the internet.
 
 ### What are Connectors?
