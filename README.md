@@ -87,7 +87,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
-| Worklittle Jobs | Job search | `https://mcp.worklittle.com/` | OAuth2.1 | [Worklittle](https://worklittle.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
@@ -130,6 +129,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
+| Worklittle Jobs | Job search | `https://mcp.worklittle.com/` | OAuth2.1 | [Worklittle](https://worklittle.com) |
 | WebZum | Website Hosting | `https://webzum.com/api/mcp` | Open | [WebZum](https://webzum.com) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
