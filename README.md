@@ -175,7 +175,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 
-- [CapsteraSupport/worthune-sdk](https://github.com/CapsteraSupport/worthune-sdk) 🐍 📇 - 55 Concordance-tested financial planning models (retirement, tax, loans, business) with published specs and per-run audit records. Free tier, no signup. [![CapsteraSupport/worthune-sdk MCP server](https://glama.ai/mcp/servers/CapsteraSupport/worthune-sdk/badges/score.svg)](https://glama.ai/mcp/servers/CapsteraSupport/worthune-sdk)
+Worthune | Finance | `https://worthune.com/api/mcp/mcp` | Open / API Key | [Worthune](https://worthune.com)
 
 # Remote MCP Installation Guide
 
