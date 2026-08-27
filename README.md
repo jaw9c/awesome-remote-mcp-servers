@@ -121,7 +121,17 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
+| SocialDataX Bilibili | Social Media | `https://mcp.socialdatax.com/bilibili/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX Douyin | Social Media | `https://mcp.socialdatax.com/douyin/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX Instagram | Social Media | `https://mcp.socialdatax.com/instagram/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
 | SocialDataX Kuaishou | Social Media | `https://mcp.socialdatax.com/kuaishou/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX TikTok | Social Media | `https://mcp.socialdatax.com/tiktok/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX WeChat Channels | Social Media | `https://mcp.socialdatax.com/wechat/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX Weibo | Social Media | `https://mcp.socialdatax.com/weibo/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX X / Twitter | Social Media | `https://mcp.socialdatax.com/x/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX Xiaohongshu / XHS / RedNote | Social Media | `https://mcp.socialdatax.com/xhs/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX YouTube | Social Media | `https://mcp.socialdatax.com/youtube/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
+| SocialDataX Zhihu | Social Media | `https://mcp.socialdatax.com/zhihu/mcp` | API Key | [SocialDataX](https://socialdatax.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
