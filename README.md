@@ -68,6 +68,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
+| BotPhone | Communication | `https://auth.botphone.tel/mcp` | OAuth2.1 | [BotPhone](https://www.botphone.tel/products/muse-receptionist) |` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
