@@ -174,6 +174,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| GTD Brain | Productivity | `https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp` | OAuth2.1 | [GTD Brain](https://gtdbrain.com/connect?source=awesome-remote-mcp-servers-jaw9c) |
 
 # Remote MCP Installation Guide
 
