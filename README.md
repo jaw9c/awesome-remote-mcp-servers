@@ -115,6 +115,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
+| Scout7 | Marketing | `https://mcp.scout7.ai/mcp` | OAuth2.1 | [Scout7](https://scout7.ai/?utm_source=awesome-remote-mcp-jaw9c&utm_medium=listing&utm_campaign=mcp-directories&ref=awesome-remote-mcp-jaw9c) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
