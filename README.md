@@ -381,3 +381,4 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+| Vectle | AI Agents | `https://vectle.com/mcp` | Open / API Key | [Vectle](https://vectle.com) |
