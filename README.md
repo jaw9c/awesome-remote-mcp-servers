@@ -187,6 +187,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| TableJourney | Travel | `https://tablejourney.com/mcp` | Open | [TableJourney](https://tablejourney.com/agents/) |
+| Cork & Curve | Travel | `https://corkandcurve.com/mcp` | Open | [Cork & Curve](https://corkandcurve.com/agents/) |
 
 # Remote MCP Installation Guide
 
