@@ -188,6 +188,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 
+| Shopify Change Intelligence | Other | `https://shopify-intel.contentforge-press.workers.dev/mcp` | x402 (free snapshot, paid tools) | [contentforge-press](https://github.com/contentforge-press/shopify-change-intelligence) |
 # Remote MCP Installation Guide
 
 > Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
