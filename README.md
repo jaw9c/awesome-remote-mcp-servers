@@ -124,6 +124,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
+| Revnu | Growth & Marketing | `https://revnu.com/api/mcp` | OAuth2.1 | [Revnu](https://revnu.com/mcp) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
