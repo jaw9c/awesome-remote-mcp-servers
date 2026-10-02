@@ -70,6 +70,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
+| Calorie MCP | Developer Tools | `https://calorieapiadmin.com/mcp` | API Key | [Calorie API](https://calorieapi.com/mcp) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
