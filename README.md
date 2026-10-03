@@ -58,6 +58,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Remote MCP Server List
 
+
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
@@ -187,6 +188,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| CUQU找搭子 | Events & Activities | `https://agent.cuqu.net/mcp` | Optional API key (`cq-sk-`) | [CUQU](https://cuqu.net) |
 
 # Remote MCP Installation Guide
 
