@@ -61,6 +61,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
+| AppSkyline | Data Analysis | `https://mcp.appskyline.com/mcp` | OAuth2.1 | [AppSkyline](https://www.appskyline.com/developers/#claude-mcp) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
@@ -79,7 +80,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
+| Croncool | Software Development | `https://mcp.cron.cool/mcp` | OAuth2.1 | [Croncool](https://www.cron.cool/developers/#mcp) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
+| DoctoFam | Data Analysis | `https://mcp.doctofam.com/mcp` | OAuth2.1 | [DoctoFam](https://www.doctofam.com/developers/#mcp) |
+| DodoDentist | Data Analysis | `https://mcp.dododentist.com/mcp` | OAuth2.1 | [DodoDentist](https://www.dododentist.com/developers/#mcp) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
@@ -91,11 +95,16 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
+| GymFlexa | Data Analysis | `https://mcp.gymflexa.com/mcp` | OAuth2.1 | [GymFlexa](https://www.gymflexa.com/developers/#mcp) |
+| HairDora | Data Analysis | `https://mcp.hairdora.com/mcp` | OAuth2.1 | [HairDora](https://www.hairdora.com/developers/#mcp) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
+| Hotelumo | Data Analysis | `https://mcp.hotelumo.com/mcp` | OAuth2.1 | [Hotelumo](https://www.hotelumo.com/developers/#mcp) |
+| Imagelato | Software Development | `https://mcp.imagelato.com/mcp` | OAuth2.1 | [Imagelato](https://www.imagelato.com/developers/#claude-mcp) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
+| InvoiceVista | Data Analysis | `https://mcp.invoicevista.com/mcp` | OAuth2.1 | [InvoiceVista](https://www.invoicevista.com/developers/#mcp) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
@@ -107,6 +116,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
+| Multilocale | Software Development | `https://mcp.multilocale.com/mcp` | OAuth2.1 | [Multilocale](https://www.multilocale.com/integrations/mcp-server/) |
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
@@ -119,6 +129,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
+| Polyblog | Other | `https://mcp.polyblog.io/mcp` | OAuth2.1 | [Polyblog](https://www.polyblog.io/developers/#mcp) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
@@ -132,14 +143,18 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
+| Supovia | Other | `https://mcp.supovia.com/mcp` | OAuth2.1 | [Supovia](https://www.supovia.com/developers/#mcp) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
+| Tutorializer | Other | `https://mcp.tutorializer.com/mcp` | OAuth2.1 | [Tutorializer](https://www.tutorializer.com/developers/#mcp) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
+| Veterical | Data Analysis | `https://mcp.veterical.com/mcp` | OAuth2.1 | [Veterical](https://www.veterical.com/developers/#mcp) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
+| Wapiworld | Other | `https://mcp.wapiworld.com/mcp` | OAuth2.1 | [Wapiworld](https://app.wapiworld.com/developers#mcp) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
 | Wix | CMS | `https://mcp.wix.com/sse` | OAuth2.1 | [Wix](https://wix.com) |
 | WebZum | Website Hosting | `https://webzum.com/api/mcp` | Open | [WebZum](https://webzum.com) |
