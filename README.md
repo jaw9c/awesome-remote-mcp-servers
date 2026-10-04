@@ -187,6 +187,14 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| Meisa | Other | `https://mcp.meisa.io/mcp` | OAuth2.1 | [Meisa](https://meisa.io) |
+| Testimonials.ltd | Other | `https://testimonials.ltd/mcp` | OAuth2.1 | [Testimonials.ltd](https://testimonials.ltd) |
+| LigoSocial | Other | `https://ligosocial.com/mcp` | OAuth2.1 | [LigoSocial](https://ligosocial.com) |
+| Contextli | Other | `https://mcp.contextli.com/mcp` | OAuth2.1 | [Contextli](https://contextli.com) |
+| Murkuz | Data Analysis | `https://murkuz.com/mcp` | OAuth2.1 | [Murkuz](https://murkuz.com) |
+| Hydori | Other | `https://hydori.io/mcp` | OAuth2.1 | [Hydori](https://hydori.io) |
+| Kamaan | Other | `https://kamaan.io/mcp` | OAuth2.1 | [Kamaan](https://kamaan.io) |
+| Locul | RAG-as-a-Service | `https://team-api.locul.ai/mcp` | OAuth2.1 | [Locul](https://locul.ai) |
 
 # Remote MCP Installation Guide
 
