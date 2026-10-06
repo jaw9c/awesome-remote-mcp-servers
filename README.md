@@ -147,6 +147,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
+| WhiteMagic | Memory | `https://mcp.whitemagic.dev/mcp` | Open / API Key | [WhiteMagic](https://www.whitemagic.dev) |
 | Zoom | Communication | `https://mcp.zoom.us/mcp/zoom/streamable` | OAuth2.1 | [Zoom](https://zoom.us) |
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
