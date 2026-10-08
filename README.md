@@ -68,10 +68,13 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
-| Buildkite | Software Developmenr | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
+| Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
+| Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
-| Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 | [Close](https://close.com/) |
+| Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
+| ClickUp | Project Management | `https://mcp.clickup.com/mcp` | OAuth2.1 🔐 | [ClickUp](https://clickup.com) |
+| Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 & API Key | [Close](https://close.com/) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
@@ -80,11 +83,15 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Equibles | Finance | `https://mcp.equibles.com/mcp` | OAuth2.1 & API Key | [Equibles](https://www.equibles.com) |
-| Firefly | Productivity | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Firefly](https://fireflies.ai) |
+| Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
+| Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
+| Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
+| Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
@@ -98,6 +105,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
+| Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
@@ -106,6 +114,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
+| Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
@@ -114,15 +123,19 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
+| Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
+| Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
+| tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
+| Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
@@ -135,6 +148,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
+| Zoom | Communication | `https://mcp.zoom.us/mcp/zoom/streamable` | OAuth2.1 | [Zoom](https://zoom.us) |
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
@@ -151,7 +165,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
-| Close | CRM | `https://mcp.close.com/mcp` | API Key | [Close](https://help.close.com/docs/mcp-server) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
 | Google Compute Engine	| Developer Tools | `https://compute.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/compute/docs/reference/mcp) |
 | Google GKE | Developer Tools | `https://container.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/kubernetes-engine/docs/reference/mcp) |
