@@ -135,6 +135,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
+| TubeText Labs (via Apify) | Video & E-commerce Data | `https://mcp.apify.com/?tools=tubetext/youtube-transcript-fast,tubetext/tiktok-transcript,tubetext/instagram-reels-transcript,tubetext/video-breakdown-ai,tubetext/video-ad-analyzer,tubetext/youtube-channel-analytics,tubetext/tiktok-shop-product-scraper,tubetext/aliexpress-search-scraper,tubetext/google-hotels-scraper` | OAuth2.1 & API Key | [TubeText Labs](https://apify.com/tubetext) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
