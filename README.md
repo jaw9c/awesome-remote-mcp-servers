@@ -172,6 +172,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
+| Data Gleaner | Data Analysis | `https://mcp.apify.com/?tools=datagleaner/website-contact-details-scraper,datagleaner/google-hotels-scraper,datagleaner/weibo-scraper,datagleaner/bilibili-scraper,datagleaner/sitemap-extractor,datagleaner/youtube-channel-contacts,datagleaner/app-developer-email-finder,datagleaner/team-page-contacts,datagleaner/shopify-partner-contacts,datagleaner/researcher-email-finder` | OAuth2.1 | [Data Gleaner](https://apify.com/datagleaner) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
