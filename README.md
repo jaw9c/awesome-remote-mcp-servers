@@ -730,6 +730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Keelen](https://keelen.ai/mcp-server/) `https://keelen.ai/mcp`
   [![Keelen MCP connector](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen)
   🔓 - Steer GitHub coding from chat: requests, roadmaps and PR review. Tokenless signup; bearer key for workspace tools.
+- [Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent) `https://latchkey.dev/mcp`
+  [![Latchkey MCP connector](https://glama.ai/mcp/connectors/io.github.that-developer-kaveh/latchkey/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.that-developer-kaveh/latchkey)
+  🔑 - Read the GitHub Actions failures self-heal could not fix, check run status, dispatch workflows, and run commands on fresh ephemeral runners.
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
