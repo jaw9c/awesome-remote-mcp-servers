@@ -381,3 +381,5 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- [QWK ($QWK) Autonomous MEV & Seed Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - WebMCP (`https://chase-tqg.github.io/QWIK-MEV-Core/.well-known/mcp.json`), A2A v1.0, and x402 endpoints for verifying $400,000+ enterprise infrastructure commitments and funding `QWKResourceEscrow.sol`.
