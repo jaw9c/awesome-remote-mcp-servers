@@ -79,6 +79,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
+| Data Galactica | Company & People Data | `https://api.datagalactica.com/mcp` | OAuth2.1 🔐 | [Data Galactica](https://datagalactica.com) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
@@ -92,6 +93,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
+| IndiaCos | Company & GST Data | `https://indiacos.com/mcp` | OAuth2.1 🔐 | [IndiaCos](https://indiacos.com) |
+| IndiaInsurances | Insurance | `https://indiainsurances.com/mcp` | Open | [IndiaInsurances](https://indiainsurances.com) |
+| India Property Register | Real Estate | `https://indiapropertyregister.com/mcp` | OAuth2.1 🔐 | [India Property Register](https://indiapropertyregister.com) |
+| IndiaRestros | Food & Dining | `https://indiarestros.com/mcp` | Open | [IndiaRestros](https://indiarestros.com) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
@@ -145,6 +150,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | WebZum | Website Hosting | `https://webzum.com/api/mcp` | Open | [WebZum](https://webzum.com) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
+| Youth4work | Jobs & Recruitment | `https://mcp.youth4work.com/mcp` | OAuth2.1 🔐 | [Youth4work](https://www.youth4work.com) |
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
 | Zoom | Communication | `https://mcp.zoom.us/mcp/zoom/streamable` | OAuth2.1 | [Zoom](https://zoom.us) |
