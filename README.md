@@ -70,6 +70,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
+| CanaryGuard 402 | Security | `https://canaryguard-402.onrender.com/mcp` | Open / x402 | [CanaryGuard](https://canaryguard-402.onrender.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
@@ -124,6 +125,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
+| RugShield 402 | Security & DeFi | `https://rugshield-402.onrender.com/mcp` | Open / x402 | [RugShield](https://rugshield-402.onrender.com) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
