@@ -93,6 +93,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
+| IndiaCos | Company & GST Data | `https://indiacos.com/mcp` | OAuth2.1 🔐 | [IndiaCos](https://indiacos.com) |
+| IndiaInsurances | Insurance | `https://indiainsurances.com/mcp` | Open | [IndiaInsurances](https://indiainsurances.com) |
+| India Property Register | Real Estate | `https://indiapropertyregister.com/mcp` | OAuth2.1 🔐 | [India Property Register](https://indiapropertyregister.com) |
 | IndiaRestros | Food & Dining | `https://indiarestros.com/mcp` | Open | [IndiaRestros](https://indiarestros.com) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
