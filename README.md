@@ -59,6 +59,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 ## Remote MCP Server List
 
 | Name | Category | URL | Authentication | Maintainer |
+| [AgentDiet](https://github.com/robertoyanguas-ops/agentdiet) | Developer Tools | `https://agentdiet-72343955726.us-central1.run.app/mcp` | Open (Free Tier + x402/Stripe) | [robertoyanguas-ops](https://github.com/robertoyanguas-ops) |
+| [Assay](https://github.com/robertoyanguas-ops/assay) | Security | `https://assay-207908449630.us-central1.run.app/mcp` | Open (Free Tier + x402/Stripe) | [robertoyanguas-ops](https://github.com/robertoyanguas-ops) |
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
