@@ -1,4 +1,4 @@
-143# Awesome Remote MCP Servers
+# Awesome Remote MCP Servers
 
 > 📧 **Subscribe to the Newsletter** Stay informed about new MCP servers and updates:
 > [Subscribe](https://remotemcp.substack.com/subscribe)
