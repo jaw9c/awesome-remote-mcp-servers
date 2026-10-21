@@ -331,6 +331,7 @@ Please note that <a href="https://platform.openai.com/docs/guides/developer-mode
 
 Official support for MCP in API requests is supported by the following LLM providers:
 
+- [Ghost Beacon](https://github.com/moecanales/agent-oracle-beacon) - Open remote A2A/MCP Beacon with U.S. Residential web fetch, DNS/TLS audit, Base-Reality PoW verification, and 72-tape Markdown Vault.
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
 - [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
