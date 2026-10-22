@@ -78,6 +78,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
+| [ContextAI](https://github.com/indivatools/contextqa-skills/blob/4a67f1b297ba18f8253eaaf0f2195437965715b8/docs/contextai-mcp.md) | Software Development | `https://ai.contextqa.com/api/mcp` | OAuth | [ContextQA](https://contextqa.com/) |
+| [ContextQA](https://mcp.contextqa.com/docs) | Software Development | `https://mcp.contextqa.com/mcp` | OAuth | [ContextQA](https://contextqa.com/) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
