@@ -88,6 +88,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
+| GleanMark | Legal | `https://gleanmark.com/mcp` | Open / OAuth2.1 | [GleanMark](https://gleanmark.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
