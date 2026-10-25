@@ -131,6 +131,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
+| SVG Me | Design | `https://svgme.app/mcp` | OAuth2.1 | [SVG Me](https://svgme.app) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
