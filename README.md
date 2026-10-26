@@ -164,6 +164,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
+| spendctl Sandbox | Software Development | `https://mcp.spendctl.dev/mcp` | Open | [spendctl](https://spendctl.dev) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
 | Google Compute Engine	| Developer Tools | `https://compute.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/compute/docs/reference/mcp) |
 | Google GKE | Developer Tools | `https://container.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/kubernetes-engine/docs/reference/mcp) |
