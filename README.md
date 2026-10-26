@@ -98,6 +98,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
 | Just Domain | Productivity | `https://mcp.justdomain.ai/` | Open | [Just Domain](https://justdomain.ai) |
+| Just Publish | Productivity | `https://mcp.justpublish.ai/` | OAuth2.1 | [Just Publish](https://justpublish.ai) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
