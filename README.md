@@ -158,6 +158,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
 | Remote MCP | MCP Directory | `https://mcp.remote-mcp.com` | Open | [Remote MCP](https://remote-mcp.com/) |
 | OpenMesh | Service Discovery | `https://api.openmesh.dev/mcp` | Open | [OpenMesh](https://openmesh.dev) |
+| allagents | Service Discovery | `https://allagents.app/mcp` | Open | [allagents](https://allagents.app) |
 | OpenZeppelin Cairo Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/cairo/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Solidity Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/solidity/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Stellar Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stellar/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
