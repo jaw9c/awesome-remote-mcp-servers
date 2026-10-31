@@ -110,6 +110,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
+| Nitrozen | Documentation | `https://mcp.nitrozen.io/mcp` | OAuth2.1 & API Key | [Nitrozen](https://nitrozen.io) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
@@ -123,6 +124,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
+| RenewRoster | Monitoring | `https://app.renewroster.com/mcp` | OAuth2.1 & API Key | [RenewRoster](https://renewroster.com) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
