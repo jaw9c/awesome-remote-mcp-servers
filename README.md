@@ -126,6 +126,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
+| ShopAIReady | E-commerce | `https://mcp.shopaiready.com/mcp` | Open | [ShopAIReady](https://shopaiready.com/?utm_source=github&utm_medium=directory&utm_campaign=shopai_dir&utm_content=dir_awesome_jaw9c) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
