@@ -165,6 +165,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
+| MacroDataAPI | Data Analysis | `https://macrodataapi.com/mcp` | API Key (optional, free) | [MacroDataAPI](https://macrodataapi.com) |
 | Google Compute Engine	| Developer Tools | `https://compute.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/compute/docs/reference/mcp) |
 | Google GKE | Developer Tools | `https://container.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/kubernetes-engine/docs/reference/mcp) |
 | Google Maps | Mapping | `https://mapstools.googleapis.com/mcp` | API Key | [Google](https://developers.google.com/maps/ai/grounding-lite/reference/mcp) |
