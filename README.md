@@ -86,6 +86,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| Flaghand | Social Media | `https://app.flaghand.com/mcp` | OAuth2.1 | [Flaghand](https://flaghand.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=listing_nov2026) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
@@ -132,6 +133,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
+| SystemSculpt | Productivity | `https://systemsculpt.com/mcp` | OAuth2.1 | [SystemSculpt](https://systemsculpt.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=listing_nov2026) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
