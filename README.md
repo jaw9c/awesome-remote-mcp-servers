@@ -111,6 +111,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
+| NOVA amoCRM | CRM | `https://sp1-nova.ru/api/mcp-server/mcp/` | OAuth2.1 | [NOVA](https://nova-amocrm.ru/widgets/mcp_server) |
+| NOVA Kommo | CRM | `https://sp1-nova.com/api/mcp-server/mcp/` | OAuth2.1 | [NOVA](https://nova-kommo.com/widgets/mcp_server) |
+
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
