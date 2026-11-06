@@ -1646,6 +1646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
+- [ROVE Snow Forecast](https://rove-ski.com/en/ai) `https://rove-ski.com/mcp`
+  [![ROVE Snow Forecast MCP connector](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast)
+  🔐 - Free 15-day snow forecasts and conditions for 667 ski resorts in North America and Japan.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
