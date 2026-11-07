@@ -190,6 +190,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Unmerge | Design | `https://unmerge.app/mcp` | API Key | [Unmerge](https://unmerge.app) |
 | MakeItSay | Design | `https://makeitsay.com/mcp` | API Key | [MakeItSay](https://makeitsay.com) |
 | Local AI Picks | Software Development | `https://localaipicks.com/mcp` | Open | [Local AI Picks](https://localaipicks.com) |
+| fotosize | Productivity | `https://fotosize.com/mcp` | Open | [fotosize](https://fotosize.com) |
 
 # Remote MCP Installation Guide
 
