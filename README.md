@@ -60,6 +60,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+|A1 Lane|Social Media|`https://a1lane.ai/mcp/v1`|OAuth2.1|[A1 Lane](https://a1lane.ai)|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
