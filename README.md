@@ -72,6 +72,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
+| CentsCheck | Personal Finance | `https://mcp.centscheck.com/mcp` | OAuth2.1 | [CentsCheck](https://centscheck.com) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
 | ClickUp | Project Management | `https://mcp.clickup.com/mcp` | OAuth2.1 🔐 | [ClickUp](https://clickup.com) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 & API Key | [Close](https://close.com/) |
