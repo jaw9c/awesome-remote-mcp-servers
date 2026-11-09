@@ -383,3 +383,6 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+- [CanaryGuard 402](https://github.com/ak10082247-max/canaryguard-402) - Deterministic prompt-injection firewall and security proxy for AI agents via dual-chain x402 on Base and Solana. Endpoint: `https://canaryguard-402.onrender.com/mcp`
