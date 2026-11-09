@@ -127,6 +127,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
+| Skylit | Market Intelligence | `https://mcp.skylit.ai/mcp` | OAuth2.1 & API Key | [Skylit](https://www.skylit.ai/?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=api_distribution&utm_content=listing) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
