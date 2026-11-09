@@ -118,6 +118,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
+| PlaceCall | Outbound Phone Calls | `https://api.voygr.tech/mcp` | OAuth2.1 & API Key | [VOYGR](https://voygr.tech/placecall/) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
