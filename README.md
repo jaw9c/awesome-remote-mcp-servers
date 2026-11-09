@@ -111,6 +111,14 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
+| Nova BrowserGPT (CIVAI) | Web Scraping | `https://nova.civai.co/mcp/agents/browsergpt-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Code Interpreter (CIVAI) | Developer Tools | `https://nova.civai.co/mcp/agents/code-interpreter-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Gmail (CIVAI) | Communication | `https://nova.civai.co/mcp/agents/gmail-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Google Sheets (CIVAI) | Data Analysis | `https://nova.civai.co/mcp/agents/google-sheets-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Leads Discovery (CIVAI) | CRM | `https://nova.civai.co/mcp/agents/leads-discovery-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova PDF (CIVAI) | Document Management | `https://nova.civai.co/mcp/agents/pdf-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Research (CIVAI) | Web Research | `https://nova.civai.co/mcp/agents/research-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
+| Nova Slidegen (CIVAI) | Design | `https://nova.civai.co/mcp/agents/slidegen-agent` | OAuth2.1 | [Nova by CIVAI](https://nova.civai.co) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
