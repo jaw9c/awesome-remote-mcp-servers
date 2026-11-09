@@ -133,6 +133,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
+| MCP Server By TestMu AI | Software Development | `https://mcp.lambdatest.com/mcp` | OAuth2.1 | [TestMu AI](https://www.testmuai.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
