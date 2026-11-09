@@ -171,6 +171,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Google Maps | Mapping | `https://mapstools.googleapis.com/mcp` | API Key | [Google](https://developers.google.com/maps/ai/grounding-lite/reference/mcp) |
 | HubSpot | CRM | `https://app.hubspot.com/mcp/v1/http` | API Key | [HubSpot](https://hubspot.com) |
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
+| MCPKit — Yandex Direct MCP | Other | `https://mcpkit.ru/mcp-yandex-direct/mcp` | OAuth | [MCPKit](https://mcpkit.ru/mcp-yandex-direct?utm_source=jaw9c_awesome_remote_mcp&utm_medium=github_collection&utm_campaign=yandex_direct) |
+| MCPKit — Yandex Metrica MCP | Data Analysis | `https://mcpkit.ru/mcp-yandex-metrica/mcp` | OAuth | [MCPKit](https://mcpkit.ru/mcp-yandex-metrica?utm_source=jaw9c_awesome_remote_mcp&utm_medium=github_collection&utm_campaign=yandex_metrica) |
+| MCPKit — Yandex Wordstat MCP | Data Analysis | `https://mcpkit.ru/mcp-wordstat/mcp` | OAuth | [MCPKit](https://mcpkit.ru/mcp-wordstat?utm_source=jaw9c_awesome_remote_mcp&utm_medium=github_collection&utm_campaign=yandex_wordstat) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
