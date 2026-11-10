@@ -333,6 +333,7 @@ Please note that <a href="https://platform.openai.com/docs/guides/developer-mode
 
 Official support for MCP in API requests is supported by the following LLM providers:
 
+- [agent-fleet](https://agent-fleet-ppqpwu.camelai.app/mcp) - Iranian and Persian verification and data tools for agents (national code, bank card and Sheba checks, mobile number to operator, postal code, licence plate, passport MRZ check digits, Jalali and Hijri dates). Remote MCP over streamable HTTP, no key, 76 tools, 59 free; an unpaid priced call returns 402 in USDC on Solana or Base. [Repo](https://github.com/Elviro2658/agent-fleet-mcp)
 - [Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp-connector)
 - [OpenAI](https://platform.openai.com/docs/guides/tools-remote-mcp)
 - [Gemini](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#model_context_protocol_mcp)
