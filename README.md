@@ -80,6 +80,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
+| Dollea Beauty Coworking | Other | `https://coworking.dollea.de/mcp/coworking` | OAuth2.1 | [Dollea](https://coworking.dollea.de/) |
+| Dollea Salon | Other | `https://www.dollea.de/mcp/salon` | OAuth2.1 | [Dollea](https://www.dollea.de/) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
