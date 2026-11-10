@@ -103,6 +103,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
+| Meridian | Software Development | `https://mcp.the-meridian.ai/mcp` | OAuth2.1 | [Meridian](https://www.the-meridian.ai) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
@@ -188,7 +189,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
-| Meridian | Software Development | `https://mcp.the-meridian.ai/mcp` | OAuth2.1 | [Meridian](https://www.the-meridian.ai) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
 
 # Remote MCP Installation Guide
