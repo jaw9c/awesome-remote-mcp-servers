@@ -154,6 +154,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
 | Resemble AI | Documentation | `https://mcp.resemble.ai/sse` | Open | [Resemble AI](https://resemble.ai) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
+| Dispola | Scheduling | `https://dispola.ca/mcp` | Open | [Dispola](https://dispola.ca/en) |
 | Exa Search | Search | `https://mcp.exa.ai/mcp` | Open | [Exa](https://exa.ai) |
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
 | Semgrep | Software Development | `https://mcp.semgrep.ai/sse` | Open | [Semgrep](https://semgrep.dev/) |
