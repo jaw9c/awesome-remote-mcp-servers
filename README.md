@@ -146,6 +146,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | WebZum | Website Hosting | `https://webzum.com/api/mcp` | Open | [WebZum](https://webzum.com) |
 | Simplescraper | Web Scraping | `https://mcp.simplescraper.io/mcp` | OAuth2.1 | [Simplescraper](https://simplescraper.io) |
 | WayStation | Productivity | `https://waystation.ai/mcp` | OAuth2.1 | [WayStation](https://waystation.ai) |
+| ZapX by ZAP-Hosting | Hosting | `https://zap-hosting.com/api/mcp` | OAuth2.1 | [ZAP-Hosting](https://zap-hosting.com) |
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
 | Zoom | Communication | `https://mcp.zoom.us/mcp/zoom/streamable` | OAuth2.1 | [Zoom](https://zoom.us) |
