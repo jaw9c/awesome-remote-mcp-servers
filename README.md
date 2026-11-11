@@ -114,6 +114,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
+| PandaDoc | Document Management | `https://mcp.pandadoc.com/v1/mcp` | OAuth2.1 | [PandaDoc](https://www.pandadoc.com) |
+| PandaDoc (EU) | Document Management | `https://mcp.pandadoc.eu/v1/mcp` | OAuth2.1 | [PandaDoc](https://www.pandadoc.com) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
