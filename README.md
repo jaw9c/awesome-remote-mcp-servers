@@ -122,6 +122,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
+| Talo Pay | Payments | `https://talo.com.ar/mcp` | OAuth2.1 | [Talo Pay](https://talopay.com) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Reeve | Agent Productivity | `https://api.reeve.fyi/mcp` | OAuth2.1 | [Reeve](https://www.reeve.fyi) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
