@@ -60,6 +60,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+| 4OVER4 | E-Commerce | `https://www.4over4.com/appsapi/mcp` | OAuth2.1 | [4OVER4](https://www.4over4.com) |
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
