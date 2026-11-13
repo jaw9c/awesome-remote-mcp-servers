@@ -3475,6 +3475,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mureka MCP Server by useapi.net](https://useapi.net/docs/api-mureka-v1/mcp) `https://api.useapi.net/v1/mureka/mcp`
   [![Mureka MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/mureka/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/mureka)
   🔐 - Mureka songs in your own voice, stems, sheet music and speech on your Mureka account. Not affiliated with Mureka.
+- [OTOY Studio](https://otoy.studio/mcp) `https://canvas-mcp.otoy.studio/mcp`
+  [![OTOY Studio MCP connector](https://glama.ai/mcp/connectors/studio.otoy/studio/badges/score.svg)](https://glama.ai/mcp/connectors/studio.otoy/studio)
+  🔐 - Generate images, video, 3D models, Gaussian splats and voice from 100+ models, with prices, balance and job status.
 - [Phoenix Labs](https://phoenixlabs.space/developers) `https://api.phoenixlabs.space/mcp`
   [![Phoenix Labs MCP connector](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs)
   🔐 - Restore old video and turn stills into clips with sound; you approve a spending limit, top-ups by card or USDC.
