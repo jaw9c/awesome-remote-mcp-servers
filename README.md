@@ -188,6 +188,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| Vector Abyss | Gaming | `https://usocial.space/vector-abyss/mcp.php` | Open | [usocial.space](https://usocial.space/) |
+| Vector Defence | Gaming | `https://usocial.space/vector-defence/mcp.php` | Open | [usocial.space](https://usocial.space/) |
+| Vector Alienspace | Gaming | `https://usocial.space/vector-alienspace/mcp.php` | Open | [usocial.space](https://usocial.space/) |
+| Vectoroids | Gaming | `https://usocial.space/vectoroids/mcp.php` | Open | [usocial.space](https://usocial.space/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
 
 # Remote MCP Installation Guide
