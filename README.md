@@ -1835,6 +1835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Base Web3 M2M Hub](https://auditor-x402.onrender.com) `https://auditor-x402.onrender.com/mcp/v1`
   [![Base Web3 M2M Hub MCP connector](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub)
   🔓 - Live Base Mainnet data: gas, DEX arbitrage, whale tracking, Aave loans, token security; pay per call via x402.
+- [Before the Lot](https://beforethelot.com/connect) `https://beforethelot.com/mcp`
+  [![Before the Lot MCP connector](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot/badges/score.svg)](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot)
+  🔓 - Car-buying math and state rules: out-the-door prices, dealer quote checks, leases, trade-ins and local tax in 50 states.
 - [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
   [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
   🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
