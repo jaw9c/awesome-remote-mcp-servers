@@ -156,6 +156,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
   [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
   🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
+- [CorpusIQ](https://www.corpusiq.io/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers) `https://mcp2.corpusiq.io/mcp`
+  [![CorpusIQ MCP connector](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp)
+  🔓 - One MCP endpoint for 40+ business systems; tools list without a key, per-connector sign-in for cited answers.
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
   🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
