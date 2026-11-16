@@ -3025,6 +3025,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cite42](https://www.cite42.dev) `https://mcp.cite42.dev`
   [![Cite42 MCP connector](https://glama.ai/mcp/connectors/dev.cite42/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.cite42/mcp)
   🔐 - Check whether ChatGPT, Claude, Perplexity and Gemini mention your brand and what they cite; keyword and trend data.
+- [CitedBy](https://citedby.eu/mcp-server) `https://citedby.eu/mcp`
+  [![CitedBy MCP connector](https://glama.ai/mcp/connectors/eu.citedby/citedby/badges/score.svg)](https://glama.ai/mcp/connectors/eu.citedby/citedby)
+  🔓 - Check a page, AI-crawler access in robots.txt, llms.txt and a domain's backlinks; read-only, no account.
+
 - [CiteLadder](https://citeladder.com) `https://api.citeladder.com/mcp`
   [![CiteLadder MCP connector](https://glama.ai/mcp/connectors/com.citeladder/citeladder/badges/score.svg)](https://glama.ai/mcp/connectors/com.citeladder/citeladder)
   🔐 - Track how ChatGPT, Gemini and Claude answer buyer questions, which brands they name and sources cited.
