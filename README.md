@@ -4347,6 +4347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
   [![TerraLab MCP connector](https://glama.ai/mcp/connectors/ai.terra-lab/terralab/badges/score.svg)](https://glama.ai/mcp/connectors/ai.terra-lab/terralab)
   🔓 - Extract open map data, convert GIS files and coordinates, and retrieve elevation and French cadastral parcels.
+- [tgden](https://tgden.com) `https://tgden.com/api/mcp`
+  [![tgden MCP connector](https://glama.ai/mcp/connectors/io.github.JustJuice55/telegram-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JustJuice55/telegram-catalog)
+  🔓 - Search Telegram's public catalog of channels, group chats and bots with live stats, categories and recent posts.
 - [Tollkit](https://tollkit.dev) `https://api.tollkit.dev/mcp`
   [![Tollkit MCP connector](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract)
   🔓 - Web pages and PDFs read in a real browser, token checks, SEC and US data; x402 pay-per-call, 3 free calls a day.
