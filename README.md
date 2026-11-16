@@ -4124,6 +4124,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
+- [ListHub](https://tsukuyomi-list.com/ai) `https://tsukuyomi-list.com/api/mcp`
+  [![ListHub MCP connector](https://glama.ai/mcp/connectors/com.tsukuyomi-list/listhub-quote/badges/score.svg)](https://glama.ai/mcp/connectors/com.tsukuyomi-list/listhub-quote)
+  🔓 - Count Japanese companies by area and industry and get a tax-included sales list quote and order link; no contacts.
 - [MailBeast.ai](https://mailbeast.ai) `https://mcp.mailbeast.ai/mcp`
   [![MailBeast.ai MCP connector](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast)
   🔐 - Cold email outreach: campaigns with A/B sequences, leads, mailboxes and warmup, reply inbox and campaign analytics.
