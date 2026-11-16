@@ -1775,6 +1775,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
+  [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
+  🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
 - [Asiento Uno](https://asientouno.com/mcp) `https://mcp.asientouno.com/mcp`
   [![Asiento Uno MCP connector](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana/badges/score.svg)](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana)
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
