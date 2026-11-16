@@ -4748,6 +4748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
+- [SnapWidget](https://snapwidget.com/ai-agents) `https://snapwidget.com/mcp`
+  [![SnapWidget MCP connector](https://glama.ai/mcp/connectors/com.snapwidget/snapwidget/badges/score.svg)](https://glama.ai/mcp/connectors/com.snapwidget/snapwidget)
+  🔐 - Ask your AI agent to add your Instagram feed or your Google reviews to your website.
 - [SocialAPIs](https://socialapis.io) `https://mcp.socialapis.io/mcp`
   [![SocialAPIs MCP connector](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api)
   🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.
