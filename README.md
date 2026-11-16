@@ -3238,6 +3238,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Hermoso MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso)
   🔓 - Research competitor ads, generate image and video ads, schedule social posts and run paid ad campaigns.
 
+- [Honeyfield Marketing MCP](https://marketing-mcp.honeyfield.at) `https://mcp.ads.honeyfield.at/mcp`
+  [![Honeyfield Marketing MCP MCP connector](https://glama.ai/mcp/connectors/at.honeyfield/marketing-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/at.honeyfield/marketing-mcp)
+  🔐 - Google Ads, GA4, Search Console, Meta and LinkedIn Ads for agencies, one workspace per client, writes after approval.
+
 - [How It Spread](https://howitspread.com/mcp) `https://howitspread.com/api/mcp`
   [![How It Spread MCP connector](https://glama.ai/mcp/connectors/com.howitspread/howitspread/badges/score.svg)](https://glama.ai/mcp/connectors/com.howitspread/howitspread)
   🔓 - Viral marketing precedents with dated, sourced spread timelines and a Spread Score. No sign-in.
