@@ -1218,6 +1218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
+- [McpStamp Check](https://www.mcpstamp.com/check/) `https://mcp.zovo.one/stamp/mcp`
+  [![McpStamp Check MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/mcpstamp-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/mcpstamp-check)
+  🔓 - Scores any remote MCP server for Claude, ChatGPT, Gemini and MCP Registry readiness, with a fix per failed check.
 - [MemorySync Documentation](https://docs.memorysync.io/mcp/overview) `https://docs.memorysync.io/mcp`
   [![MemorySync Docs MCP connector](https://glama.ai/mcp/connectors/io.memorysync/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/docs)
   🔓 - Search and read MemorySync's API, SDK and integration docs.
