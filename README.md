@@ -3203,6 +3203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PageLens](https://pagelens.io/docs/api) `https://app.pagelens.io/mcp`
   [![PageLens MCP connector](https://glama.ai/mcp/connectors/io.pagelens/pagelens/badges/score.svg)](https://glama.ai/mcp/connectors/io.pagelens/pagelens)
   🔓 - Web analytics for your site and which AI crawlers and assistants read it; tool calls need an API key.
+- [Pageree](https://pageree.com) `https://mcp.pageree.com/`
+  [![Pageree MCP connector](https://glama.ai/mcp/connectors/com.pageree/landing-pages/badges/score.svg)](https://glama.ai/mcp/connectors/com.pageree/landing-pages)
+  🔐 - Publish landing pages from your assistant with a working lead form, then improve them from per-section visitor data.
 - [Peak Answer](https://peakanswer.com) `https://peakanswer.com/api/mcp`
   [![Peak Answer MCP connector](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer/badges/score.svg)](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer)
   🔐 - Whether AI search recommends your brand, which buying questions competitors win, and the technical faults stopping engines reading you.
