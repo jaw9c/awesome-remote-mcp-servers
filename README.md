@@ -3973,6 +3973,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Building Permits API](https://apify.com/gaelasao/planning-data-au-nz-fr) `https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr`
   [![Building Permits API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api)
   🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
+- [Buzzedin](https://buzzedin.com) `https://buzzedin.com/mcp`
+  [![Buzzedin MCP connector](https://glama.ai/mcp/connectors/com.buzzedin/nyc-apartments/badges/score.svg)](https://glama.ai/mcp/connectors/com.buzzedin/nyc-apartments)
+  🔓 - Search NYC rental listings and lease takeovers by price, neighborhood, commute and amenities, and start an alert.
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
