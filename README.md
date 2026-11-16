@@ -1021,6 +1021,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aeon](https://www.aeon.fun/connect) `https://www.aeon.fun/connect/mcp`
   [![Aeon MCP connector](https://glama.ai/mcp/connectors/fun.aeon/aeon/badges/score.svg)](https://glama.ai/mcp/connectors/fun.aeon/aeon)
   🔐 - Run and manage your Aeon autonomous agent on GitHub Actions: skills, runs, memory, strategy and settings.
+- [Agent Stack Directory](https://agentstackdirectory.com) `https://agentstackdirectory.com/mcp`
+  [![Agent Stack Directory MCP connector](https://glama.ai/mcp/connectors/com.agentstackdirectory/agent-stack-directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentstackdirectory/agent-stack-directory)
+  🔓 - Search, inspect and compare infrastructure tools for AI agents: browsers, sandboxes, memory, search APIs and more.
 - [agent-manager Docs](https://agent-manager.dev) `https://agent-manager.dev/mcp`
   [![agent-manager Docs MCP connector](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs)
   🔓 - Search and read the agent-manager docs, list its supported coding CLIs, and get the latest release.
