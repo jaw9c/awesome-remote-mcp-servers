@@ -5308,6 +5308,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VoyageHacks](https://voyagehacks.com/en/mcp-server/) `https://voyagehacks.com/mcp`
   [![VoyageHacks MCP connector](https://glama.ai/mcp/connectors/com.voyagehacks/travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.voyagehacks/travel)
   🔓 - Search fact-checked travel guides in 11 languages, build packing kits, and get booking links.
+- [What's On Miami](https://whatsonmiami.com/ai/) `https://whatsonmiami.com/mcp`
+  [![What's On Miami MCP connector](https://glama.ai/mcp/connectors/com.whatsonmiami/whats-on-miami/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatsonmiami/whats-on-miami)
+  🔓 - Miami events, hotel prices by night against a quiet night, Art Basel week, nightlife, things to do and planes overhead.
 - [What's Up In](https://whatsupin.ai/agents/) `https://whatsupin.ai/mcp`
   [![What's Up In MCP connector](https://glama.ai/mcp/connectors/ai.whatsupin/events/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whatsupin/events)
   🔓 - Upcoming local events in 14 US cities by date, topic, neighborhood or artist, each linked to its source.
