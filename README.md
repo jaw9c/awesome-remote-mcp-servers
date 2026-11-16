@@ -833,6 +833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docs MD](https://docs-md.com/agents) `https://docs-md.com/api/mcp`
   [![Docs MD MCP connector](https://glama.ai/mcp/connectors/com.docs-md/markdown-share/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs-md/markdown-share)
   🔓 - Publish markdown as a rendered link with an expiry, read shares back as markdown, update or delete them.
+- [Fantasma](https://www.fantasma.io/mcp) `https://www.fantasma.io/api/mcp`
+  [![Fantasma MCP connector](https://glama.ai/mcp/connectors/io.fantasma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fantasma/mcp)
+  🔐 - Design Ghost themes from chat: pages, styles, patterns and previews, then publish to your Ghost site.
 - [Foliade](https://foliade.gekkode.com/en/) `https://foliade.gekkode.com/mcp`
   [![Foliade MCP connector](https://glama.ai/mcp/connectors/com.gekkode/foliade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gekkode/foliade)
   🔓 - Turn a PDF into a mobile flipbook catalogue, customise its reader and publish it.
