@@ -2548,6 +2548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
+- [KinToolkit](https://kintoolkit.com/developers) `https://kintoolkit.com/api/mcp`
+  [![KinToolkit MCP connector](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference/badges/score.svg)](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference)
+  🔓 - Educational US medicine label references and sourced guides; no patient inputs or personalized prescriptions.
 - [Leki PL (leki-mcp)](https://leki.compabase.com) `https://leki.compabase.com/mcp`
   [![Leki PL (leki-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp)
   🔓 - Polish medicines: official refunded drug prices, patient co-payment, cheaper equivalents and leaflets.
