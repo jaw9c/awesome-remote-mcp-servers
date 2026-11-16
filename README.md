@@ -4585,6 +4585,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
+- [CVE Ledger](https://cveledger.app/mcp) `https://api.cveledger.app/v1/mcp`
+  [![CVE Ledger MCP connector](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker)
+  🔓 - Search public CVEs and read one in full, with CVSS, CISA KEV and EPSS, and profile vendors.
 - [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
