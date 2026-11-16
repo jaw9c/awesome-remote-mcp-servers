@@ -3823,6 +3823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
+- [Paxiom](https://paxiom.org) `https://api.paxiom.org/mcp`
+  [![Paxiom MCP connector](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts)
+  🔓 - Verify, issue, and explain Ed25519 proof-bound receipts and preflight x402 APIs before payment.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
