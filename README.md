@@ -2044,6 +2044,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HKEx Filings](https://hkex-listco-updates.ascent-partners.com/live-mcp/) `https://hkex-listco-updates.ascent-partners.com/api/mcp`
   [![HKEx Filings MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings)
   🔓 - Search 25+ years of Hong Kong Stock Exchange filings, browse facets and extract document text; read-only.
+- [HOLD!](https://whohold.com/en) `https://whohold.com/mcp`
+  [![HOLD! MCP connector](https://glama.ai/mcp/connectors/com.whohold/hold-korea-stock-ownership-and-insider-trades/badges/score.svg)](https://glama.ai/mcp/connectors/com.whohold/hold-korea-stock-ownership-and-insider-trades)
+  🔓 - Who owns Korean listed stocks: 5%+ holders, insider trades, NPS moves and average cost, from DART filings.
 - [Hong Kong Insurance Connect](https://buyhongkonginsurance.com) `https://buyhongkonginsurance.com/mcp`
   [![Hong Kong Insurance Connect MCP connector](https://glama.ai/mcp/connectors/com.buyhongkonginsurance/neutral-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.buyhongkonginsurance/neutral-data)
   🔓 - Sourced Hong Kong insurance facts: fulfillment ratios, VHIS plans, savings and critical illness product data.
