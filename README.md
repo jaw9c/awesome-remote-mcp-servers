@@ -4578,6 +4578,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TrustyData](https://trustydata.fr/usecases/mcp-qualite-donnees) `https://mcp.trustydata.app/mcp`
   [![TrustyData MCP connector](https://glama.ai/mcp/connectors/app.trustydata/trustydata/badges/score.svg)](https://glama.ai/mcp/connectors/app.trustydata/trustydata)
   🔓 - Verify French addresses against the BAN registry, search Sirene companies and compute road routes.
+- [Unique Domains](https://unique.domains/api/mcp) `https://mcp.unique.domains/mcp`
+  [![Unique Domains MCP connector](https://glama.ai/mcp/connectors/domains.unique/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/domains.unique/mcp-server)
+  🔓 - Is a domain name taken, what nine registrars charge for it, and its renewal traps, from 37 million names read daily.
 - [URLpipe](https://urlpipe.dev/mcp-server) `https://urlpipe.dev/mcp`
   [![URLpipe MCP connector](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe)
   🔓 - Read any page after its JavaScript runs: Markdown, screenshots, metadata and Lighthouse. Tool calls need a free API key.
