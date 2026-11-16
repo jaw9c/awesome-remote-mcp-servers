@@ -4674,6 +4674,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [SyncBooster](https://syncbooster.pl/en/mcp) `https://api.syncbooster.pl/mcp`
+  [![SyncBooster MCP connector](https://glama.ai/mcp/connectors/pl.syncbooster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/pl.syncbooster/mcp)
+  🔐 - Draft, schedule and publish social media posts to many platforms, with a separate text for each.
 - [Tailwind](https://www.tailwindapp.com/mcp?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-directories) `https://mcp.tailwind.ai`
   [![Tailwind MCP connector](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp)
   🔐 - Create, schedule, and analyze Pinterest Pins across your connected Pinterest accounts.
