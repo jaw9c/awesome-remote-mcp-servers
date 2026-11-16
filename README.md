@@ -4230,6 +4230,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
+- [API Plan Finder](https://plans.intoperson.com/guide) `https://plans.intoperson.com/mcp`
+  [![API Plan Finder MCP connector](https://glama.ai/mcp/connectors/io.github.scraping-api-plans/web-data-plan-finder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.scraping-api-plans/web-data-plan-finder)
+  🔓 - Compare API plans in 8 fields against a monthly workload: cost, met or unmet conditions, the provider's own sentence.
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
