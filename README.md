@@ -5479,6 +5479,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [TakeMeUp.cv](https://takemeup.cv/en/ai-assistants) `https://takemeup.cv/api/mcp`
+  [![TakeMeUp.cv MCP connector](https://glama.ai/mcp/connectors/cv.takemeup/takemeup/badges/score.svg)](https://glama.ai/mcp/connectors/cv.takemeup/takemeup)
+  🔓 - CV & resume builder for Europe: country formats in 14 languages, ATS checks, cover letters, job tracker; needs sign-in.
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
   [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
   🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
