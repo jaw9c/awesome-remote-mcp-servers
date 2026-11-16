@@ -2560,6 +2560,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperDuperBundle](https://superduperbundle.com/tools/api/) `https://superduperbundle.com/mcp`
   [![SuperDuperBundle MCP connector](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices)
   🔓 - Lowest listed PC game key prices across Steam, GOG and key stores, by name, Steam ID or URL.
+- [Tavern](https://gettavern.app/developers) `https://gettavern.app/mcp`
+  [![Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.jakehandy/tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jakehandy/tavern)
+  🔐 - Tabletop RPG campaigns: session journals, a wiki, maps, character sheets and a combat tracker for your TTRPG group.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
