@@ -517,6 +517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [Soleil Clusters](https://clusters.soleilpictures.com) `https://clusters.soleilpictures.com/api/v1/mcp`
+  [![Soleil Clusters MCP connector](https://glama.ai/mcp/connectors/com.soleilpictures/clusters/badges/score.svg)](https://glama.ai/mcp/connectors/com.soleilpictures/clusters)
+  🔐 - Make and read visual mood boards: import pictures from links, add notes, palettes and docs, and draw the board inline.
 - [SpriteForge](https://www.spriteforge.tech) `https://www.spriteforge.tech/mcp`
   [![SpriteForge MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge)
   🔐 - Generate pixel-art sprites, animations and 16-tile Wang tilesets on a fixed grid, saved to your SpriteForge library.
