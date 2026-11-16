@@ -3147,6 +3147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LinkBunny Placement Checker](https://getlinkbunny.com/tools/backlink-placement-checker?ref=awesome-remote-mcp) `https://mcp.getlinkbunny.com/mcp`
   [![LinkBunny Placement Checker MCP connector](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker/badges/score.svg)](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker)
   🔓 - Checks whether a public page links to an expected URL and reports the anchor, rel attributes and canonical.
+- [LinkGPT](https://www.linkgpt.app) `https://www.linkgpt.app/mcp`
+  [![LinkGPT MCP connector](https://glama.ai/mcp/connectors/app.linkgpt/linkgpt/badges/score.svg)](https://glama.ai/mcp/connectors/app.linkgpt/linkgpt)
+  🔑 - SEO and AI search visibility: Search Console data, keyword research, AI visibility audits and fixes.
 - [LocationLists](https://locationlists.com) `https://locationlists.com/mcp`
   [![LocationLists MCP connector](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists)
   🔓 - Search 725 US business-location datasets (dealers, contractors, chains), preview real rows, and buy CSVs.
