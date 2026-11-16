@@ -3813,6 +3813,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GlaziersEdge Knowledge](https://glazing-mcp.glazingkb.workers.dev/) `https://glazing-mcp.glazingkb.workers.dev/mcp`
   [![GlaziersEdge Knowledge MCP connector](https://glama.ai/mcp/connectors/io.github.shanethelion/glazing-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shanethelion/glazing-mcp)
   🔓 - US commercial glass and glazing reference: code topics, IGU performance data, glass and framing or-equals, budgets.
+- [GUTHMANN® Berlin Real Estate](https://guthmann.estate/en/market-intelligence/) `https://mcp.guthmann.estate/mcp`
+  [![GUTHMANN® Berlin Real Estate MCP connector](https://glama.ai/mcp/connectors/estate.guthmann/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/estate.guthmann/mcp)
+  🔓 - Berlin real estate: market prices down to neighbourhood level, socio-demographics, macro data and listings.
 - [Haulest](https://haulest.com/developers/mcp) `https://haulest.com/mcp`
   [![Haulest MCP connector](https://glama.ai/mcp/connectors/com.haulest/haulest/badges/score.svg)](https://glama.ai/mcp/connectors/com.haulest/haulest)
   🔓 - Moving cost ranges, reviewed movers, USDOT and Companies House licence checks, guides, and quote requests.
