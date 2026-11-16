@@ -179,6 +179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
+- [Hydracept](https://hydracept.com) `https://api.hydracept.com/mcp/compact`
+  [![Hydracept MCP connector](https://glama.ai/mcp/connectors/com.hydracept/hydracept/badges/score.svg)](https://glama.ai/mcp/connectors/com.hydracept/hydracept)
+  🔓 - Discover capabilities without a key; an API key is needed to run jobs, with quotes, receipts, artifacts and BYOK.
 - [Index Agentica](https://indexagentica.com/?utm_source=awesome-list&utm_medium=pr&utm_campaign=launch-2026q4) `https://mcp.indexagentica.com/mcp`
   [![Index Agentica MCP connector](https://glama.ai/mcp/connectors/com.indexagentica/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.indexagentica/mcp)
   🔓 - Search an agent-first directory of agent tools, MCP servers, skills, protocols and APIs; no key needed.
