@@ -1860,6 +1860,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Beyond Payday](https://beyondpayday.com/mcp) `https://beyondpayday.com/api/mcp`
   [![Beyond Payday MCP connector](https://glama.ai/mcp/connectors/com.beyondpayday/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyondpayday/mcp)
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
+- [Billstride](https://billstride.com/mcp) `https://billstride.com/api/mcp`
+  [![Billstride MCP connector](https://glama.ai/mcp/connectors/com.billstride/billstride/badges/score.svg)](https://glama.ai/mcp/connectors/com.billstride/billstride)
+  🔐 - Create, send and track invoices, chase overdue payments, see revenue, and export ZUGFeRD, XRechnung and DATEV.
 - [BillWatch](https://getbillwatchdog.com) `https://getbillwatchdog.com/mcp`
   [![BillWatch MCP connector](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch)
   🔓 - Search current US streaming and VPN plan prices and price history, with links to each provider.
