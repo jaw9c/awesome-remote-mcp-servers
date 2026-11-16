@@ -3358,6 +3358,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tracetify](https://tracetify.com/mcp) `https://tracetify.com/api/mcp`
   [![Tracetify MCP connector](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp)
   🔓 - Find competitors, trace how they grew from dated public sources, and see their ads; tools need an account.
+- [twelvebit](https://twelvebit.app/mcp) `https://twelvebit.app/api/mcp`
+  [![twelvebit MCP connector](https://glama.ai/mcp/connectors/app.twelvebit/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/app.twelvebit/analytics)
+  🔐 - Web and revenue analytics: traffic, goals, funnels, visitor journeys and revenue by source.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
