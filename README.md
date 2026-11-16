@@ -4923,6 +4923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Realtime Sports API](https://www.realtimesportsapi.com/docs/mcp?utm_source=awesome-remote-mcp-servers) `https://www.realtimesportsapi.com/api/mcp`
   [![Realtime Sports API MCP connector](https://glama.ai/mcp/connectors/io.github.ahunter135/realtime-sports-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ahunter135/realtime-sports-api)
   🔓 - Live scores, play-by-play, schedules and odds for NFL, NCAA football, NBA, MLB, NHL and soccer; calls need a free key.
+- [Slabline](https://slabline.ai) `https://slabline.ai/mcp`
+  [![Slabline MCP connector](https://glama.ai/mcp/connectors/ai.slabline/slabline/badges/score.svg)](https://glama.ai/mcp/connectors/ai.slabline/slabline)
+  🔓 - Current market value of graded sports cards and Pokémon/TCG slabs by grade, from real recorded sales.
 - [SportAPI](https://sportapi.ai/mcp-server) `https://sportapi.ai/mcp`
   [![SportAPI MCP connector](https://glama.ai/mcp/connectors/ai.sportapi/football/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sportapi/football)
   🔓 - Football fixtures, live scores, standings, lineups, teams and players for 117 leagues; tool calls need a free API key.
