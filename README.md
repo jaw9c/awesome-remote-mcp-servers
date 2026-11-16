@@ -1059,6 +1059,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
+- [Atlantic Agentic Labs](https://docs.atlanticagenticlabs.com/mcp/public/) `https://ask.atlanticagenticlabs.com/mcp`
+  [![Atlantic Agentic Labs MCP connector](https://glama.ai/mcp/connectors/com.atlanticagenticlabs/ask/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlanticagenticlabs/ask)
+  🔓 - Searches and reads LightHouse™ documentation and Atlantic's published items, with quoted passages and links.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
