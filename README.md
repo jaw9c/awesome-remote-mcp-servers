@@ -3402,6 +3402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
+- [Cardboard](https://www.cardboard.ai/mcp) `https://mcp.cardboard.ai/mcp`
+  [![Cardboard MCP connector](https://glama.ai/mcp/connectors/ai.cardboard/cardboard/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cardboard/cardboard)
+  🔐 - Edit videos in chat: cut, caption, add titles, music and voiceover, then preview and export.
 - [Cast](https://cast.katechon.technology/agents) `https://cast.katechon.technology/mcp`
   [![Cast MCP connector](https://glama.ai/mcp/connectors/technology.katechon/cast/badges/score.svg)](https://glama.ai/mcp/connectors/technology.katechon/cast)
   🔓 - Turn one line into a one-tap link for a short vertical AI character video; first video free.
