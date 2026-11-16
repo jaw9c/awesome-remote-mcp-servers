@@ -401,6 +401,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [BeautySpark](https://beautyspark.me) `https://mcp.beautyspark.me/mcp`
+  [![BeautySpark MCP connector](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp)
+  🔓 - Makeup and colour-season guidance sourced from BeautySpark's articles, plus saved looks for signed-in users.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
