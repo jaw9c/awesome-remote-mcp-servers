@@ -3386,6 +3386,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
+- [RoboDebut](https://robodebut.com) `https://robodebut.com/api/mcp`
+  [![RoboDebut MCP connector](https://glama.ai/mcp/connectors/com.robodebut/submissions/badges/score.svg)](https://glama.ai/mcp/connectors/com.robodebut/submissions)
+  🔓 - Submit projects for manual review; homepage badge and private email required; built by LinkBunny's founder.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
