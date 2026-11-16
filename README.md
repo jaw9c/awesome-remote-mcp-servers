@@ -2845,6 +2845,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
 
 ### ⚖️ <a name="legal"></a>Legal
+- [Abmahnexperte.de](https://abmahnexperte.de/) `https://mein.abmahnexperte.de/mcp`
+  [![Abmahnexperte.de MCP connector](https://glama.ai/mcp/connectors/de.abmahnexperte/abmahnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.abmahnexperte/abmahnung)
+  🔓 - Guides on German Abmahnungen (cease and desist letters); a form passes yours to a lawyer for a free first assessment.
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
