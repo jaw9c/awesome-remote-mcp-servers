@@ -3502,6 +3502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Uptimepage](https://uptimepage.dev/mcp-server) `https://mcp.uptimepage.dev/mcp`
   [![Uptimepage MCP connector](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage)
   🔓 - Read monitors and incidents, run checks, create monitors and status pages, post incident updates. Calls need OAuth.
+- [Visual Sentinel](https://visualsentinel.com/mcp) `https://visualsentinel.com/api/mcp`
+  [![Visual Sentinel MCP connector](https://glama.ai/mcp/connectors/com.visualsentinel/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.visualsentinel/mcp-server)
+  🔐 - Manage website monitors, incidents, status pages and visual checks; uptime, SSL, DNS and content in one place.
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
