@@ -1611,6 +1611,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [Polidict](https://polidict.com) `https://api.polidict.com/mcp`
+  [![Polidict MCP connector](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict)
+  🔓 - Save words to your vocabulary, look up meanings and images, and practice them with spaced repetition.
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
