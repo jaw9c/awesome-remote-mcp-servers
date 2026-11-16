@@ -4707,6 +4707,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
   [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
   🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
+- [Leash](https://openleash.com) `https://secure.openleash.com/mcp`
+  [![Leash MCP connector](https://glama.ai/mcp/connectors/io.github.open-leash/leash/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-leash/leash)
+  🔐 - Protected personal account access with configurable checks, activity history and undo for supported actions.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
