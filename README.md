@@ -2103,6 +2103,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiquidVision](https://liquidvision.app) `https://liquidvision.app/mcp`
   [![LiquidVision MCP connector](https://glama.ai/mcp/connectors/app.liquidvision/derivatives/badges/score.svg)](https://glama.ai/mcp/connectors/app.liquidvision/derivatives)
   🔓 - Crypto derivatives across 13 venues: open interest, funding, liquidations, Hyperliquid whale positions.
+- [Liqwall](https://liqwall.com) `https://liqwall.com/mcp`
+  [![Liqwall MCP connector](https://glama.ai/mcp/connectors/com.liqwall/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.liqwall/market-data)
+  🔓 - Crypto liquidation maps by price on Hyperliquid and large exchanges, liquidations, funding, OI, Fear and Greed.
 - [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
   [![LitVM TCG Oracle MCP connector](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle)
   🔓 - TCG price oracle for LitecoinVM: Merkle-proven prices, calibrated forecasts and fantasy souls; 13 free tools.
