@@ -4111,6 +4111,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [GetSales](https://getsales.io/blog/outreach-mcp-server/) `https://mcp2.getsales.io/mcp/public`
+  [![GetSales MCP connector](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp)
+  🔐 - Drive a GetSales workspace: tables, people, companies, enrichment, workflows, inbox, tasks, signals.
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
