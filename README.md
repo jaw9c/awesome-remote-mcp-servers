@@ -1552,6 +1552,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
+- [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
+  [![Store Canary MCP connector](https://glama.ai/mcp/connectors/io.github.erikras/store-canary/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.erikras/store-canary)
+  🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
