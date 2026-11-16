@@ -4147,6 +4147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovContractScout](https://scout.govbidportals.com) `https://scout.govbidportals.com/mcp`
   [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout)
   🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1.
+- [Headcount Labs](https://headcountlabs.com/mcp/) `https://api.headcountlabs.com/mcp/public`
+  [![Headcount Labs MCP connector](https://glama.ai/mcp/connectors/com.headcountlabs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.headcountlabs/jobs)
+  🔓 - Search and count 8 million+ open jobs from employer career sites, with published pay and a link to each posting.
 - [High Signal](https://highsignal.app) `https://mcp.highsignal.app/high-signal/mcp`
   [![High Signal MCP connector](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal/badges/score.svg)](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal)
   🔓 - Read published High Signal daily briefs, signals and their linked evidence through a bounded, read-only public feed.
