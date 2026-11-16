@@ -1963,6 +1963,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
+- [CryptoKeyhole](https://cryptokeyhole.com/mcp/) `https://cryptokeyhole.com/api/v1/mcp`
+  [![CryptoKeyhole MCP connector](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics)
+  🔓 - On-chain and market metrics for Bitcoin, Ethereum and more from its own nodes, as exact values with provenance.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
