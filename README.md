@@ -1156,6 +1156,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
+- [Gluo](https://gluo.dev) `https://gluo.dev/mcp`
+  [![Gluo MCP connector](https://glama.ai/mcp/connectors/dev.gluo/gluo/badges/score.svg)](https://glama.ai/mcp/connectors/dev.gluo/gluo)
+  🔓 - Free agent tools: click through apps in a real browser, extract web pages, check sites, domains and dependencies.
 - [GO AI Tools](https://goaichat.app/mcp-tools) `https://goaichat.app/mcp-tools/mcp`
   [![GO AI Tools MCP connector](https://glama.ai/mcp/connectors/app.goaichat/tools/badges/score.svg)](https://glama.ai/mcp/connectors/app.goaichat/tools)
   🔓 - 31 deterministic tools: image conversion, EXIF stripping, App Store assets, colour maths.
