@@ -3144,6 +3144,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
 
+- [Ballast](https://ballast.to) `https://ballast.to/api/mcp`
+  [![Ballast MCP connector](https://glama.ai/mcp/connectors/to.ballast/ballast-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/to.ballast/ballast-mcp)
+  🔐 - Cold email outreach: manage sequences, lead lists, mailbox warmup, and unified inbox replies.
+
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
