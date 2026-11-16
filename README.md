@@ -5303,6 +5303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
+- [Strike a Block](https://strikeablock.com) `https://strikeablock.com/mcp`
+  [![Strike a Block MCP connector](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block/badges/score.svg)](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block)
+  🔓 - Preview a one-line inscription as a keepsake block, browse the public vault and verify a block's proof of work.
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
