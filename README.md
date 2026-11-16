@@ -443,6 +443,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Framevine](https://framevine.com/integrations) `https://mcp.framevine.com/mcp`
+  [![Framevine MCP connector](https://glama.ai/mcp/connectors/com.framevine/framevine/badges/score.svg)](https://glama.ai/mcp/connectors/com.framevine/framevine)
+  🔐 - Generate, extend and edit AI videos and images, then assemble them on a timeline.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
