@@ -5234,6 +5234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [Nunify](https://www.nunify.com) `https://app.nunify.com/mcp`
+  [![Nunify MCP connector](https://glama.ai/mcp/connectors/com.nunify.app/nunify/badges/score.svg)](https://glama.ai/mcp/connectors/com.nunify.app/nunify)
+  🔐 - Connects AI assistants to Nunify for event-data retrieval and event-management operations through MCP.
 - [Offpeak](https://offpeak.fyi) `https://offpeak.fyi/mcp`
   [![Offpeak MCP connector](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak)
   🔓 - Search US jobs by driving commute, pay and seniority; optional OAuth sign-in saves jobs and searches.
