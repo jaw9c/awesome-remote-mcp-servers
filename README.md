@@ -2618,6 +2618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vice City Hub](https://vicecityhub.github.io/vicecityhub/agents.html) `https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp`
   [![Vice City Hub MCP connector](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub)
   🔓 - GTA VI news, GTA RP servers, Web3 domains, merch and crypto donations for AI agents.
+- [Voidless](https://voidless.dev) `https://mcp.voidless.dev/mcp`
+  [![Voidless MCP connector](https://glama.ai/mcp/connectors/dev.voidless/voidless/badges/score.svg)](https://glama.ai/mcp/connectors/dev.voidless/voidless)
+  🔐 - Game art for coding agents: pixel art sprites, sprite animation, 8-direction sprites, tilesets, 3D, sound and music.
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
