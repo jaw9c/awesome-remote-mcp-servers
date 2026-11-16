@@ -789,6 +789,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signatoro](https://signatoro.com) `https://signatoro.com/mcp`
   [![Signatoro MCP connector](https://glama.ai/mcp/connectors/com.signatoro/signatoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.signatoro/signatoro)
   🔓 - Fetch the saved email signature people and their AI agents append to every email they send or draft.
+- [Skysay](https://skysay.ai/docs/mcp) `https://api.skysay.ai/mcp`
+  [![Skysay MCP connector](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay)
+  🔐 - Phone numbers, AI voice calls, SMS and campaigns; country availability varies. 100+ countries covered.
 - [SofortFax](https://sofortfax.de/ki-fax.html) `https://sofortfax.de/api/mcp.php`
   [![SofortFax MCP connector](https://glama.ai/mcp/connectors/de.sofortfax/fax/badges/score.svg)](https://glama.ai/mcp/connectors/de.sofortfax/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to Germany, Austria and 40+ countries; pay per fax or prepaid credits.
