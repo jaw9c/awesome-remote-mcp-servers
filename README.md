@@ -1496,6 +1496,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Context Window Supply](https://contextwindowsupply.com) `https://contextwindowsupply.com/mcp`
   [![Context Window Supply MCP connector](https://glama.ai/mcp/connectors/com.contextwindowsupply/store/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextwindowsupply/store)
   🔓 - Search 8 merch items for AI builders (tees, hoodies, a sticker sheet), read sizes and prices, and quote US shipping.
+- [Coupossum](https://coupossum.com) `https://coupossum.com/mcp`
+  [![Coupossum MCP connector](https://glama.ai/mcp/connectors/com.coupossum/coupossum/badges/score.svg)](https://glama.ai/mcp/connectors/com.coupossum/coupossum)
+  🔓 - Find current coupon codes, deals and products on sale from thousands of online stores, with end dates and countries.
 - [datawebot](https://www.datawebot.com) `https://mcp.datawebot.com/mcp`
   [![datawebot MCP connector](https://glama.ai/mcp/connectors/com.datawebot/datawebot/badges/score.svg)](https://glama.ai/mcp/connectors/com.datawebot/datawebot)
   🔐 - Product search across online shops worldwide, with every seller's price and a direct link to the product page.
