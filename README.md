@@ -2446,6 +2446,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
+- [Mon Batch Cooking](https://monbatchcooking.fr/assistant-ia) `https://api.monbatchcooking.fr/mcp`
+  [![Mon Batch Cooking MCP connector](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking/badges/score.svg)](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking)
+  🔓 - Search and read French batch cooking recipes, find dishes from pantry items and plan a cooking session.
 - [Pour Picks](https://pourpicks.app/mcp) `https://mcp.pourpicks.app`
   [![Pour Picks MCP connector](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks)
   🔓 - Bourbon and American whiskey catalog: search, compare, and find similar or cheaper bottles.
