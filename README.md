@@ -1128,6 +1128,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Goldsky Docs](https://docs.goldsky.com/mcp-server) `https://docs.goldsky.com/mcp`
   [![Goldsky Docs MCP connector](https://glama.ai/mcp/connectors/com.goldsky/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.goldsky/docs)
   🔓 - Search and read Goldsky docs: wallet Feeds APIs, prebuilt onchain datasets, Turbo pipelines, subgraphs, Edge RPC.
+- [Grandet](https://grandet.ai) `https://grandet.ai/mcp`
+  [![Grandet MCP connector](https://glama.ai/mcp/connectors/io.github.hanzohanzhe/grandet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hanzohanzhe/grandet)
+  🔓 - Finds the cheapest API relay or provider for any model from a weekly price directory, plus free credits.
 - [GreatWait](https://greatwait.dev/) `https://api.greatwait.dev/mcp`
   [![GreatWait MCP connector](https://glama.ai/mcp/connectors/dev.greatwait/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.greatwait/mcp)
   🔐 - Schedule one-off or recurring HTTPS callbacks, inspect delivery history, and cancel scheduled work.
