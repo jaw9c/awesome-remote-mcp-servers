@@ -1465,6 +1465,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [Artemis pour pharmacies](https://sydera.ai/artemis) `https://artemis.sydera.ai/mcp`
+  [![Artemis pour pharmacies MCP connector](https://glama.ai/mcp/connectors/ai.sydera/artemis/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sydera/artemis)
+  🔐 - Read-only access to a French pharmacy's own sales, stock and margins, by product and month. No patient data.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
