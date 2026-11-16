@@ -2474,6 +2474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedMyCart](https://feedmycart.com/en/claude-chatgpt/) `https://www.feedmycart.nl/boodschappen/api/v1/mcp`
   [![FeedMyCart MCP connector](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart/badges/score.svg)](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart)
   🔐 - Shared household grocery list with pantry and weekly supermarket deals in 15 countries.
+- [Fast Food Index](https://fastfoodindex.com/api/) `https://api.fastfoodindex.com/mcp`
+  [![Fast Food Index MCP connector](https://glama.ai/mcp/connectors/com.fastfoodindex/fast-food-index/badges/score.svg)](https://glama.ai/mcp/connectors/com.fastfoodindex/fast-food-index)
+  🔓 - Real menu prices from 10 US chains — Big Mac Index by state, medians, price changes. Free, no key.
 - [G-Guest](https://g-guest.app/developers) `https://g-guest.app/api/mcp`
   [![G-Guest MCP connector](https://glama.ai/mcp/connectors/app.g-guest/g-guest/badges/score.svg)](https://glama.ai/mcp/connectors/app.g-guest/g-guest)
   🔓 - Check live availability and book, look up or cancel a table at real restaurants and local businesses.
