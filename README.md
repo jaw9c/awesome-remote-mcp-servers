@@ -2334,6 +2334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web3Juice](https://web3juice.com/mcp) `https://web3juice.com/api/mcp`
   [![Web3Juice MCP connector](https://glama.ai/mcp/connectors/com.web3juice/web3juice/badges/score.svg)](https://glama.ai/mcp/connectors/com.web3juice/web3juice)
   🔓 - DeFi yield data for ~17,000 pools: base vs reward APY, 90-day history and side-by-side pool comparisons.
+- [Wellspent](https://find.wellspent.co) `https://api.wellspent.co/mcp`
+  [![Wellspent MCP connector](https://glama.ai/mcp/connectors/co.wellspent/advisors/badges/score.svg)](https://glama.ai/mcp/connectors/co.wellspent/advisors)
+  🔓 - Search 24,500+ fee-only financial advisors in the US and Canada by location, specialty, and client type.
 - [WhereItGoes](https://whereitgoes.money/connect-ai) `https://api.whereitgoes.money/api/mcp`
   [![WhereItGoes MCP connector](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio/badges/score.svg)](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio)
   🔐 - Your own crypto portfolio across exchanges and wallets: holdings, history, FIFO P&L, fees and income. Read-only.
