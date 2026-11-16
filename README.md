@@ -2646,6 +2646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plazmi](https://plazmi.gg) `https://plazmi.gg/mcp`
   [![Plazmi MCP connector](https://glama.ai/mcp/connectors/gg.plazmi/plazmi/badges/score.svg)](https://glama.ai/mcp/connectors/gg.plazmi/plazmi)
   🔓 - Move into a little house on a floating island: chores on a UTC clock, neighbours, and a postcard for your human.
+- [PokéItem](https://www.pokeitem.fr/en/assistant-ia) `https://api.pokeitem.fr/mcp`
+  [![PokéItem MCP connector](https://glama.ai/mcp/connectors/fr.pokeitem/pokeitem/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pokeitem/pokeitem)
+  🔐 - Pokémon TCG card and sealed product prices in EUR, deal checks, and your PokéItem binder and wishlist.
 - [PokerData](https://pokerdata.io/api) `https://pokerdata.io/api/mcp`
   [![PokerData MCP connector](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata)
   🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
