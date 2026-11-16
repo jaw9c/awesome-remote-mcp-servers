@@ -2340,6 +2340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TronOrb](https://tronorb.com/developers/mcp) `https://tronorb.com/mcp`
   [![TronOrb MCP connector](https://glama.ai/mcp/connectors/com.tronorb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tronorb/mcp)
   🔓 - Live TRON data: USDT TRC-20 fees with and without energy, address checks, Tether freezes, dApp and exchange rankings.
+- [TronSave](https://tronsave.io) `https://mcp.tronsave.io/mcp`
+  [![TronSave MCP connector](https://glama.ai/mcp/connectors/io.github.tronsave/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tronsave/mcp)
+  🔓 - Rent TRON energy and bandwidth: live quotes, wallet-signed or balance-paid orders, auto-buy. Quotes need no login.
 - [TroyStack](https://troystack.com) `https://api.troystack.ai/mcp`
   [![TroyStack MCP connector](https://glama.ai/mcp/connectors/io.github.kingleosgold/troystack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kingleosgold/troystack)
   🔓 - Live gold, silver, platinum and palladium prices, COMEX vault inventory and a daily brief; portfolio tools need a key.
