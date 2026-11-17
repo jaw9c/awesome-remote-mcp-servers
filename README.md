@@ -2555,6 +2555,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
+- [Mangrove AI](https://mangrove.ai/agents/) `https://api.mangrovedeveloper.ai/mcp/`
+  [![Mangrove AI MCP connector](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai)
+  🔓 - Guardrails for trading agents. Built-in risk management, 100+ tools for strategy R&D, 12+ venues; x402 or API key.
 - [Marcel Retraite](https://marcel-retraite.fr) `https://marcel-retraite.fr/mcp`
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
