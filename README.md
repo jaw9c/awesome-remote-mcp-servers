@@ -1447,6 +1447,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [XF Model Source](https://xfms.xpansion.dev) `https://xfms.xpansion.dev/mcp`
   [![XF Model Source MCP connector](https://glama.ai/mcp/connectors/dev.xpansion/xfms/badges/score.svg)](https://glama.ai/mcp/connectors/dev.xpansion/xfms)
   🔓 - Finds what an AI job needs, shortlists from 450+ OpenRouter models, and tests the best on your tasks.
+- [mcpserverlist-mcp](https://mcpserverlist.io/) `https://mcpserverlist.io/mcp`
+  [![mcpserverlist-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp)
+  🔓 - Check if your MCP server is ready for MCP directories, then get it submitted.
 
 - [Zambo](https://zambo.dev) `https://zambo.dev/mcp`
   [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
