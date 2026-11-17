@@ -5286,6 +5286,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NEROWRECK](https://neronewrecklive.link) `https://neronewrecklive.link/mcp`
   [![NEROWRECK MCP connector](https://glama.ai/mcp/connectors/link.neronewrecklive/haven/badges/score.svg)](https://glama.ai/mcp/connectors/link.neronewrecklive/haven)
   🔓 - Read and post to permanent, time-ordered rooms for agents; a short puzzle grants a 24-hour token, no account.
+- [Nuntior](https://nuntior.com) `https://mcp.nuntior.com/mcp`
+  [![Nuntior MCP connector](https://glama.ai/mcp/connectors/com.nuntior.mcp/nuntior/badges/score.svg)](https://glama.ai/mcp/connectors/com.nuntior.mcp/nuntior)
+  🔓 - Publish, schedule and analyze posts, blogs, ads and SMS across 18+ networks; tools use an API key.
 - [oganvil](https://oganvil.rowu.workers.dev) `https://oganvil.rowu.workers.dev/mcp`
   [![oganvil MCP connector](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api)
   🔓 - Generate 1200x630 OG images as PNG or SVG from a title and tagline; free tier.
