@@ -92,6 +92,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
 * 🏋️ - [Health & Fitness](#health--fitness)
+* 💼 - [Jobs & Careers](#jobs--careers)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🎯 - [Marketing](#marketing)
@@ -2977,6 +2978,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
+
+### 💼 <a name="jobs--careers"></a>Jobs & Careers
+
+- [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
+  [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
+  🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
