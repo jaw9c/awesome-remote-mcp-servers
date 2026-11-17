@@ -690,6 +690,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
   🔓 - Publish static sites to a free HTTPS link or your own domain and check domain prices; account tools need a token.
+- [ElfHosted](https://docs.elfhosted.com/ai-agents/) `https://mcp.elfhosted.com/mcp`
+  [![ElfHosted MCP connector](https://glama.ai/mcp/connectors/com.elfhosted/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.elfhosted/public)
+  🔓 - Browse hosted AIOStreams, Immich, OpenClaw, Hermes and more: prices, savings, the trial, docs and platform status.
 - [Eurobase](https://eurobase.dev/docs/agents) `https://api.eurobase.dev/mcp`
   [![Eurobase MCP connector](https://glama.ai/mcp/connectors/dev.eurobase/eurobase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.eurobase/eurobase)
   🔐 - Create projects from GitHub repositories, deploy them, and read build, runtime and HTTP logs on a European cloud.
