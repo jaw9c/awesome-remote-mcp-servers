@@ -2411,6 +2411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [Paidnice](https://www.paidnice.com/mcp) `https://api.paidnice.com/mcp`
+  [![Paidnice MCP connector](https://glama.ai/mcp/connectors/com.paidnice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.paidnice/mcp)
+  🔐 - Read customer replies, contacts, invoices and notes from Paidnice accounts receivable for Xero and QuickBooks Online.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
