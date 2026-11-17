@@ -1400,6 +1400,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Goldsky Docs](https://docs.goldsky.com/mcp-server) `https://docs.goldsky.com/mcp`
   [![Goldsky Docs MCP connector](https://glama.ai/mcp/connectors/com.goldsky/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.goldsky/docs)
   🔓 - Search and read Goldsky docs: wallet Feeds APIs, prebuilt onchain datasets, Turbo pipelines, subgraphs, Edge RPC.
+- [GradeAtlas MCP](https://gradeatlas.org) `https://zhitmyoghxfwqcprrqjf.supabase.co/functions/v1/mcp`
+  [![GradeAtlas MCP MCP connector](https://glama.ai/mcp/connectors/io.github.Aziz0346/gradeatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Aziz0346/gradeatlas)
+  🔓 - Convert grades between 1,159 grading systems in 246 countries to the US 4.0 GPA scale, plus university search.
 - [Grandet](https://grandet.ai) `https://grandet.ai/mcp`
   [![Grandet MCP connector](https://glama.ai/mcp/connectors/io.github.hanzohanzhe/grandet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hanzohanzhe/grandet)
   🔓 - Finds the cheapest API relay or provider for any model from a weekly price directory, plus free credits.
