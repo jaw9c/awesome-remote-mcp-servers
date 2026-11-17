@@ -4699,6 +4699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
   [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
   🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
+- [StatOrigin](https://statorigin.org) `https://statorigin.org/mcp`
+  [![StatOrigin MCP connector](https://glama.ai/mcp/connectors/org.statorigin/statorigin/badges/score.svg)](https://glama.ai/mcp/connectors/org.statorigin/statorigin)
+  🔓 - Verified industry statistics: search indicators, fetch values with publisher, report and source quote.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
