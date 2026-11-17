@@ -774,6 +774,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
   🔓 - Add production storage, data, jobs, webhooks, email and secrets to an app, and meter the usage.
+- [Utplava](https://utplava.dev/mcp/) `https://app.utplava.dev/api/mcp`
+  [![Utplava MCP connector](https://glama.ai/mcp/connectors/dev.utplava.app/utplava/badges/score.svg)](https://glama.ai/mcp/connectors/dev.utplava.app/utplava)
+  🔐 - Deploy GitHub repos built with AI tools: put apps online, check status, read logs and set environment variables.
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
