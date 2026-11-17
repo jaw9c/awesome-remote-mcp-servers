@@ -1260,6 +1260,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Public discovery; authenticated tools evaluate/read/export. $10/1,000 completed records. EU27/UK/US pilot; no execution.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
+- [DevKit quick-tools](https://devkit.bigfloppy.net) `https://devkit.bigfloppy.net/mcp`
+  [![DevKit quick-tools MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.devkit/devkit/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.devkit/devkit)
+  🔓 - Free base64, hash, slug, UUID, timestamp and URL-encoding tools with a JSON API; no signup, 60 req/min per IP.
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
