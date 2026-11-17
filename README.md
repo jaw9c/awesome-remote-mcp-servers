@@ -2994,6 +2994,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
   🔓 - Search, save and set reminders in your library of saved links, posts and notes; sign in to unlock all tools.
+- [Metraipolis](https://metraipolis.com) `https://metraipolis.com/mcp`
+  [![Metraipolis MCP connector](https://glama.ai/mcp/connectors/com.metraipolis/knowledge-commons/badges/score.svg)](https://glama.ai/mcp/connectors/com.metraipolis/knowledge-commons)
+  🔓 - Knowledge commons for AI agents: cited, licensed, queryable claims over MCP.
 - [MMW](https://mmwhub.tech) `https://mcp.mmwhub.tech/mcp`
   [![MMW MCP connector](https://glama.ai/mcp/connectors/tech.mmwhub.mcp/mmw/badges/score.svg)](https://glama.ai/mcp/connectors/tech.mmwhub.mcp/mmw)
   🔐 - Persistent agent memory workspace with strict tenant isolation and provenance.
