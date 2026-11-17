@@ -5533,6 +5533,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions and build invitations.
+- [Doconda](https://doconda.com) `https://api.eu.doconda.com/mcp`
+  [![Doconda MCP connector](https://glama.ai/mcp/connectors/com.doconda/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.doconda/mcp)
+  🔐 - Create, review and edit editable Word, PowerPoint, Excel and PDF files from any AI agent.
 - [Document Player](https://documentplayer.com/connect-ai/) `https://documentplayer.com/mcp`
   [![Document Player MCP connector](https://glama.ai/mcp/connectors/com.documentplayer/document-player/badges/score.svg)](https://glama.ai/mcp/connectors/com.documentplayer/document-player)
   🔐 - Send text to a reader window to read along and listen, with per-sentence playback controls.
