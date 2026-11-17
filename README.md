@@ -4903,6 +4903,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NeuralVerge](https://docs.neuralverge.ai/mcp-server) `https://mcp.neuralverge.ai/mcp`
   [![NeuralVerge MCP connector](https://glama.ai/mcp/connectors/ai.neuralverge.api/neural-verge-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.neuralverge.api/neural-verge-business-intelligence)
   🔓 - Web search, URL-to-JSON extraction and structured data from 300+ company, marketplace and registry sources.
+- [NeverApply](https://neverapply.co/features/mcp) `https://neverapply.co/mcp`
+  [![NeverApply MCP connector](https://glama.ai/mcp/connectors/co.neverapply/neverapply/badges/score.svg)](https://glama.ai/mcp/connectors/co.neverapply/neverapply)
+  🔓 - Search jobs, explore explained matches, and manage applications with your AI assistant.
 - [Ni Biashara Shelves](https://agents.nibiashara.biz/docs?ref=dir-awesome-remote) `https://agents.nibiashara.biz/mcp`
   [![Ni Biashara Shelves MCP connector](https://glama.ai/mcp/connectors/biz.nibiashara/shelves/badges/score.svg)](https://glama.ai/mcp/connectors/biz.nibiashara/shelves)
   🔓 - Pay-per-call data checks over x402: FMCSA carrier/broker authority, load vetting, OFAC screens and African FX rates.
