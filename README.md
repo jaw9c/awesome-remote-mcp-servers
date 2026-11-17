@@ -5650,6 +5650,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Car Rental Brain](https://carrentalbrain.com/ai/) `https://app.carrentalbrain.com/mcp`
   [![Car Rental Brain MCP connector](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain)
   🔓 - Real car-hire costs at 120+ airports: second-driver fees, deposits, debit cards, desk hours and desk excess cover.
+- [Cartagena Trip Planner](https://cartagena.info/ai-assistants/) `https://cartagena.info/mcp`
+  [![Cartagena Trip Planner MCP connector](https://glama.ai/mcp/connectors/info.cartagena/cartagena-trip-planner/badges/score.svg)](https://glama.ai/mcp/connectors/info.cartagena/cartagena-trip-planner)
+  🔓 - Cartagena, Colombia day plans, cruise days ashore, islands, areas, months, fees and transport.
 - [CheapCarRent search](https://cheapcarent.com) `https://cheapcarent.com/mcp`
   [![CheapCarRent search MCP connector](https://glama.ai/mcp/connectors/com.cheapcarent/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapcarent/search)
   🔓 - Search car rental offers by city or airport and dates, with live prices and a link to each offer.
