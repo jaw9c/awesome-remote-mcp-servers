@@ -1463,6 +1463,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offline Protocol](https://www.offlineprotocol.com/docs/tools/overview) `https://mcp.offlineprotocol.com/public/mcp`
   [![Offline Protocol MCP connector](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted)
   🔓 - Find Offline Protocol SDK packages, integration guides and workflows for apps that keep working without the internet.
+- [Olbrain Alchemist](https://docs.olbrain.com/alchemist) `https://alchemist.olbrain.com/mcp/`
+  [![Olbrain Alchemist MCP connector](https://glama.ai/mcp/connectors/com.olbrain/alchemist/badges/score.svg)](https://glama.ai/mcp/connectors/com.olbrain/alchemist)
+  🔐 - Build, test and publish Olbrain AI agents (chat agents, jobs, teams), with an approval card before anything goes live.
 - [Omnara](https://www.omnara.com) `https://app.omnara.com/mcp`
   [![Omnara MCP connector](https://glama.ai/mcp/connectors/com.omnara/omnara/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnara/omnara)
   🔐 - Launch AI agents on any model and machine, message them, read their events, and approve their tool calls.
