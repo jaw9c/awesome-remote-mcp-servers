@@ -5961,6 +5961,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
+- [Zodiacs](https://zodiacs.org/developers/ai/) `https://zodiacs.org/mcp`
+  [![Zodiacs MCP connector](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs)
+  🔓 - Explore your birth chart, compatibility, horoscopes and the sky on days that matter.
 
 ## Community
 
