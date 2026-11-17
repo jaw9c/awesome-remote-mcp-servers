@@ -1526,6 +1526,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Watermelon UI](https://ui.watermelon.sh/developers/mcp) `https://mcp.watermelon.sh/mcp`
   [![Watermelon UI MCP connector](https://glama.ai/mcp/connectors/sh.watermelon/ui/badges/score.svg)](https://glama.ai/mcp/connectors/sh.watermelon/ui)
   🔓 - Search free React, Tailwind and shadcn components, blocks and dashboards and get source plus install commands.
+- [WBX Sandbox](https://sandbox.wbx.cz) `https://sandbox.wbx.cz/mcp`
+  [![WBX Sandbox MCP connector](https://glama.ai/mcp/connectors/cz.wbx/sandbox/badges/score.svg)](https://glama.ai/mcp/connectors/cz.wbx/sandbox)
+  🔐 - Run code in isolated Linux microVMs: commands, files, background jobs and batches with price limits, HTTPS app links.
 - [wealth-agent](https://wealth-agent.wealthagent-app.workers.dev) `https://wealth-agent.wealthagent-app.workers.dev/mcp`
   [![wealth-agent MCP connector](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent)
   🔓 - Pay-per-call utility tools over x402 plus a free tier: research briefs, CSV cleanup, code review, regex.
