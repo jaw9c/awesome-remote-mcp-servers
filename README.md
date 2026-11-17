@@ -506,6 +506,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moodmark](https://moodmark.design/agents) `https://app.moodmark.design/mcp`
   [![Moodmark MCP connector](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark)
   🔓 - Save websites with screenshots, palettes and fonts into a design reference library, then search and share it.
+- [Muro Paint Colors](https://usemuro.com/en/developers) `https://mcp.usemuro.com/mcp`
+  [![Muro Paint Colors MCP connector](https://glama.ai/mcp/connectors/com.usemuro/paint-colors/badges/score.svg)](https://glama.ai/mcp/connectors/com.usemuro/paint-colors)
+  🔓 - Search 51,000 real paint colors from 35 brands, look up codes and find cross-brand equivalents.
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
   [![Nano Studio Pro MCP connector](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro/badges/score.svg)](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro)
   🔐 - Find any photo or video you own by what is inside it; generate, restyle, cut out, and build sprite sheets.
