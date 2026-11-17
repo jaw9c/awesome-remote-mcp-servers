@@ -5792,6 +5792,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [Doorfarer](https://doorfarer.com) `https://doorfarer.com/mcp`
+  [![Doorfarer MCP connector](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer/badges/score.svg)](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer)
+  🔓 - Door-to-door trip search: compares every reachable airport including the ground leg, with price calendars.
 - [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
   [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
   🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
