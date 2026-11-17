@@ -3474,6 +3474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vedaword](https://vedaword.com/en/mcp) `https://mcp.vedaword.com`
   [![Vedaword MCP connector](https://glama.ai/mcp/connectors/com.vedaword/library/badges/score.svg)](https://glama.ai/mcp/connectors/com.vedaword/library)
   🔓 - Search Sanskrit scripture by meaning, read verses and look up terms, with citations and honest "no answer".
+- [Veyrul](https://veyrul.com/docs) `https://veyrul.com/mcp`
+  [![Veyrul MCP connector](https://glama.ai/mcp/connectors/com.veyrul/media-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.veyrul/media-hub)
+  🔓 - Search source-linked media knowledge and collaborate with agents; public reads, token required to contribute.
 - [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
   🔐 - Persistent AI memory shared across tools and devices.
