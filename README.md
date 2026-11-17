@@ -276,6 +276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Suprsonic](https://suprsonic.ai/?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://suprsonic.ai/v1/mcp`
   [![Suprsonic MCP connector](https://glama.ai/mcp/connectors/io.github.O-mega-Enterprise/suprsonic-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.O-mega-Enterprise/suprsonic-mcp)
   🔓 - 24 agent tools: web search, scraping, people and company data, speech, images and research; calls need a free key.
+- [Synthex Forge](https://synthexforge.com) `https://x402.synthexforge.com/mcp`
+  [![Synthex Forge MCP connector](https://glama.ai/mcp/connectors/com.synthexforge.x402/paid-agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.synthexforge.x402/paid-agent-services)
+  🔓 - 198 paid agent services settled in USDC on Base: trust verdicts, audits, extraction, compliance and search.
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Call pay-per-request APIs for search, market data and enrichment, billed to a prepaid balance.
