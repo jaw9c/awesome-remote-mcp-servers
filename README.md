@@ -618,6 +618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
+- [Clearcrawl](https://agentreader.onrender.com/llms.txt) `https://agentreader.onrender.com/clearcrawl/mcp`
+  [![Clearcrawl MCP connector](https://glama.ai/mcp/connectors/io.github.clearcrawl/clearcrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clearcrawl/clearcrawl)
+  🔓 - URL→clean markdown/JSON plus PDF/XLSX/CSV/DOCX→text; 100 free calls/day, then prepaid credits (optional API key).
 - [CurlShot](https://curlshot.com/docs?utm_source=awesome-mcp&utm_medium=listing&utm_campaign=dist-q4) `https://curlshot.com/api/mcp`
   [![CurlShot MCP connector](https://glama.ai/mcp/connectors/io.github.SergiuPogor/curlshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SergiuPogor/curlshot)
   🔓 - Screenshot any URL to PNG, JPEG, WebP, PDF or scrolling video, full page or dark mode; needs a free API key.
