@@ -1412,6 +1412,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GreatWait](https://greatwait.dev/) `https://api.greatwait.dev/mcp`
   [![GreatWait MCP connector](https://glama.ai/mcp/connectors/dev.greatwait/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.greatwait/mcp)
   🔐 - Schedule one-off or recurring HTTPS callbacks, inspect delivery history, and cancel scheduled work.
+- [Gydmation](https://gydmation.com/mcp-server) `https://gydmation-relay.gydmationai.workers.dev/mcp`
+  [![Gydmation MCP connector](https://glama.ai/mcp/connectors/io.github.hacrootechnologies/gydmation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hacrootechnologies/gydmation)
+  🔐 - Build, check and fix n8n workflows: 1,100+ node definitions, curated templates and a validator.
 - [HALLUX](https://blvkware.dev/hallux/) `https://api.blvkware.dev/hallux/mcp`
   [![HALLUX MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/hallux/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/hallux)
   🔓 - Check that a package, module or DOI exists in its registry before an agent installs, imports or cites it.
