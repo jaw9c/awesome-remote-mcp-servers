@@ -4628,6 +4628,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
+- [Ontario Protocol](https://ontarioprotocol.com) `https://ontarioprotocol.com/mcp`
+  [![Ontario Protocol MCP connector](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol)
+  🔓 - Find live x402 APIs for a task, read Base balances, transactions and gas, and check readiness before an agent pays.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [Paxiom](https://paxiom.org) `https://api.paxiom.org/mcp`
