@@ -778,6 +778,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PlaceCall](https://voygr.tech/placecall/) `https://api.voygr.tech/mcp`
   [![PlaceCall MCP connector](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall)
   🔐 - Place real phone calls to US businesses to book, ask questions or get quotes, then read the outcome and transcript.
+- [Pondchat](https://pondchat.com) `https://pondchat.com/api/mcp`
+  [![Pondchat MCP connector](https://glama.ai/mcp/connectors/com.pondchat/pondchat/badges/score.svg)](https://glama.ai/mcp/connectors/com.pondchat/pondchat)
+  🔓 - Ephemeral, no-signup P2P video/text chat rooms: agents mint shareable links and read/write room chat.
 - [Poofbox](https://poofboxmail.com) `https://poofboxmail.com/mcp`
   [![Poofbox MCP connector](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox)
   🔐 - Disposable receive-only inboxes for agents: create an address, wait for the email, get the code or verify link.
