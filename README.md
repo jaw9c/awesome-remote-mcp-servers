@@ -2921,6 +2921,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
+- [Psychologie & Sérénité](https://psychologieetserenite.com/?via=awesome-remote-mcp-servers) `https://psychologieetserenite.com/mcp`
+  [![Psychologie & Sérénité MCP connector](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue)
+  🔓 - Read-only catalogue of psychology tests, books, articles and services, with EUR prices and purchase links (FR/EN).
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
