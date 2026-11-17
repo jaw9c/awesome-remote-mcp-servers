@@ -5398,6 +5398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [HypeFox](https://hypefox.app/?ref=awesome-remote-mcp) `https://mcp.hypefox.app/mcp`
+  [![HypeFox MCP connector](https://glama.ai/mcp/connectors/app.hypefox/hypefox/badges/score.svg)](https://glama.ai/mcp/connectors/app.hypefox/hypefox)
+  🔐 - Makes and posts Shorts, Reels and TikToks on autopilot, with or without your face, and drafts comment replies.
 - [Ignix](https://ignix.social) `https://ignix.social/api/mcp`
   [![Ignix MCP connector](https://glama.ai/mcp/connectors/social.ignix/ignix/badges/score.svg)](https://glama.ai/mcp/connectors/social.ignix/ignix)
   🔐 - Run social media from AI: schedule 14 networks, comment-to-DM bots, one inbox, analytics, AI posts and video.
