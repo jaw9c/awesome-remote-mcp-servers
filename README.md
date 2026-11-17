@@ -2427,6 +2427,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [InvoiceParser Pro](https://invoiceparserpro.com/ai-assistants) `https://api.invoiceparserpro.com/mcp`
   [![InvoiceParser Pro MCP connector](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp)
   🔓 - Read invoices into line items, check the math, and get Excel, CSV or JSON; free trial, no account.
+- [Invoices to Spreadsheets](https://invoicestospreadsheets.com/mcp) `https://invoicestospreadsheets.com/api/mcp`
+  [![Invoices to Spreadsheets MCP connector](https://glama.ai/mcp/connectors/com.invoicestospreadsheets/invoice-spreadsheets/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoicestospreadsheets/invoice-spreadsheets)
+  🔓 - Turn invoice details into a checked Excel workbook: totals, VAT, line items and duplicates verified.
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
