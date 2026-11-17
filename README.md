@@ -5354,6 +5354,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TubeGrade](https://www.tubegrade.com/mcp/) `https://api.tubegrade.com/mcp`
   [![TubeGrade MCP connector](https://glama.ai/mcp/connectors/com.tubegrade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubegrade/mcp)
   🔐 - YouTube research: channel and video stats, transcripts, outlier videos, viral title formats and competitor tracking.
+- [TweetAPI](https://tweetapi.com/mcp) `https://mcp.tweetapi.com/mcp`
+  [![TweetAPI MCP connector](https://glama.ai/mcp/connectors/com.tweetapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tweetapi/mcp)
+  🔐 - Read-only Twitter data: search tweets, profiles, followers, lists, communities and Spaces.
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
