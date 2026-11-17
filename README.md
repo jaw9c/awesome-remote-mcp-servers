@@ -1509,6 +1509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
+- [TweakThis](https://tweakthis.io/docs/mcp) `https://tweakthis.io/mcp`
+  [![TweakThis MCP connector](https://glama.ai/mcp/connectors/io.tweakthis/tweak-this/badges/score.svg)](https://glama.ai/mcp/connectors/io.tweakthis/tweak-this)
+  🔐 - Read, claim and resolve UI feedback left on your website: the note, element selectors and a screenshot.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
