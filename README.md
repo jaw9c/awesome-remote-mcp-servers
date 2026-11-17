@@ -5297,6 +5297,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [WCS Points](https://wcspoints.com) `https://wcspoints.com/mcp`
+  [![WCS Points MCP connector](https://glama.ai/mcp/connectors/com.wcspoints/wsdc-points/badges/score.svg)](https://glama.ai/mcp/connectors/com.wcspoints/wsdc-points)
+  🔓 - West Coast Swing WSDC points registry: dancer divisions, points, results, finals partners and the rules.
 - [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
   [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
