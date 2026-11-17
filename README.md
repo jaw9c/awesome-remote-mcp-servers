@@ -1129,6 +1129,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
+- [amCharts 5](https://docs.amcharts.com/v5/ai/mcp/) `https://mcp.amcharts.com/mcp`
+  [![amCharts 5 MCP connector](https://glama.ai/mcp/connectors/io.github.amcharts/amcharts5/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.amcharts/amcharts5)
+  🔓 - Docs, 350+ code examples and API reference for amCharts 5 charts and maps, so agents write working code.
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
