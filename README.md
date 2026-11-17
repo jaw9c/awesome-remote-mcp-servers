@@ -1153,6 +1153,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teable](https://teable.ai) `https://mcp.teable.ai/mcp`
   [![Teable MCP connector](https://glama.ai/mcp/connectors/ai.teable.mcp/teable/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teable.mcp/teable)
   🔐 - Inspect tables and read or update business records in Teable, an AI spreadsheet for business.
+- [Vericto](https://vericto.com/docs/mcp) `https://mcp.vericto.com/mcp`
+  [![Vericto MCP connector](https://glama.ai/mcp/connectors/com.vericto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vericto/mcp)
+  🔑 - Database guardrails for AI agents: check SQL against your Vericto rules before it runs, with a suggested fix.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
