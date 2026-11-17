@@ -2439,6 +2439,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [Hunter Killer](https://hunterkiller.io/for-agents) `https://agents.hunterkiller.io/mcp`
+  [![Hunter Killer MCP connector](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer)
+  🔐 - Liquidation walls, snapshot age, evidence labels and a public record for crypto perpetual pairs.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
