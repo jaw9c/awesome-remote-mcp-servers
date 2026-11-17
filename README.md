@@ -2109,6 +2109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
   🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
+- [ExitValue.ai](https://exitvalue.ai/ai-connector) `https://exitvalue.ai/api/mcp`
+  [![ExitValue.ai MCP connector](https://glama.ai/mcp/connectors/ai.exitvalue/ma-multiples/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exitvalue/ma-multiples)
+  🔓 - Median EV/EBITDA and EV/Revenue multiples by industry and deal size from closed M&A transactions.
 - [FactIQ](https://www.factiq.com) `https://api.factiq.com/mcp`
   [![FactIQ MCP connector](https://glama.ai/mcp/connectors/com.factiq.api/factiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.factiq.api/factiq)
   🔐 - Official economic statistics, company filings, earnings calls and market data, with sources cited.
