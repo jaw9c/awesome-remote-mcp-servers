@@ -5724,6 +5724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
   [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
   🔓 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
+- [FindLocal Events](https://findlocal.community/mcp) `https://mcp.findlocal.community/mcp`
+  [![FindLocal Events MCP connector](https://glama.ai/mcp/connectors/community.findlocal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/community.findlocal/mcp)
+  🔐 - Local events (gigs, comedy, trivia, readings, storytimes) and venues in US metros and London, by city or distance.
 - [Fitralo](https://fitralo.com/ai) `https://fitralo.com/mcp`
   [![Fitralo MCP connector](https://glama.ai/mcp/connectors/com.fitralo/carriers/badges/score.svg)](https://glama.ai/mcp/connectors/com.fitralo/carriers)
   🔓 - Find European road freight carriers by route, equipment and certificates, with checked contact details.
