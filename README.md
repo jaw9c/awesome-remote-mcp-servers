@@ -5974,6 +5974,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
   [![ORYKSA AI Employees MCP connector](https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg)](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
   🔐 - Add an AI support agent to the site you build: it learns every page and answers visitors by chat and voice.
+- [Replai](https://replai.tw/en/guide/connect-ai-agents) `https://api.replai.tw/mcp`
+  [![Replai MCP connector](https://glama.ai/mcp/connectors/tw.replai/replai/badges/score.svg)](https://glama.ai/mcp/connectors/tw.replai/replai)
+  🔐 - Set up, test and publish an AI customer support Agent for your SaaS product.
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
