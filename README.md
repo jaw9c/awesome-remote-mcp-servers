@@ -1933,6 +1933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
+- [Born Then](https://bornthen.life) `https://bornthen.life/mcp`
+  [![Born Then MCP connector](https://glama.ai/mcp/connectors/life.bornthen/bornthen/badges/score.svg)](https://glama.ai/mcp/connectors/life.bornthen/bornthen)
+  🔓 - Roll random births weighted by human births (1 CE-2025) and query era demographics and events.
 - [Calculator for Grading](https://calculatorforgrading.com/ai-assistants/) `https://calculatorforgrading.com/mcp`
   [![Calculator for Grading MCP connector](https://glama.ai/mcp/connectors/com.calculatorforgrading/calculatorforgrading/badges/score.svg)](https://glama.ai/mcp/connectors/com.calculatorforgrading/calculatorforgrading)
   🔓 - Grade from questions wrong, score needed on a final, weighted grade, GPA, SAT/ACT/MCAT practice scores; read-only.
