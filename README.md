@@ -502,6 +502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Photo Mosaic & AI Collage Maker - Collager.ai](https://collager.ai/developers/) `https://collager.ai/mcp`
   [![Photo Mosaic & AI Collage Maker - Collager.ai MCP connector](https://glama.ai/mcp/connectors/ai.collager/ai-collage-maker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.collager/ai-collage-maker)
   🔓 - Turn your own photos into a photo mosaic or a heart, number or word photo collage with a preview in seconds.
+- [Pixohub](https://pixohub.com/developers) `https://mcp.pixohub.com/mcp`
+  [![Pixohub MCP connector](https://glama.ai/mcp/connectors/io.github.MonsterInstitute/pixohub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MonsterInstitute/pixohub)
+  🔓 - Platform image sizes and upload limits from official sources, image format advice and measured compression tests.
 - [ProfessionalHeadshot.io](https://professionalheadshot.io) `https://professionalheadshot.io/api/mcp`
   [![ProfessionalHeadshot.io MCP connector](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot)
   🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
