@@ -3910,6 +3910,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Subtraq](https://subtraq.co) `https://subtraq.co/api/mcp`
   [![Subtraq MCP connector](https://glama.ai/mcp/connectors/co.subtraq/subtraq/badges/score.svg)](https://glama.ai/mcp/connectors/co.subtraq/subtraq)
   🔓 - Create short links, track clicks and attribute sales to the placement that brought them; tools need a key.
+- [Superdraft](https://app.superdraft.ai/api/mcp/docs) `https://app.superdraft.ai/api/mcp`
+  [![Superdraft MCP connector](https://glama.ai/mcp/connectors/io.github.Superdraft-Technologies/superdraft/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superdraft-Technologies/superdraft)
+  🔓 - Create and read public email and Instagram campaign drafts from a business website.
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility checks: AI crawlability, robots.txt, llms.txt, JSON-LD and social previews.
