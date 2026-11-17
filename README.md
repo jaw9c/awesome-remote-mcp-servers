@@ -2123,6 +2123,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Tollgate](https://skinwinking.com) `https://skinwinking.com/mcp`
   [![Agent Tollgate MCP connector](https://glama.ai/mcp/connectors/com.skinwinking/agent-tollgate/badges/score.svg)](https://glama.ai/mcp/connectors/com.skinwinking/agent-tollgate)
   🔓 - Order book imbalance, token rug-pull audits and swap routes for agents; paid per call in USDC via x402.
+- [AgentForge](https://agentforge-taupe.vercel.app) `https://agentforge-taupe.vercel.app/mcp`
+  [![AgentForge MCP connector](https://glama.ai/mcp/connectors/io.github.acarchidi/agentforge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.acarchidi/agentforge)
+  🔓 - DeFi safety: pre-sign EVM tx simulation, sanctions and scam address checks, risk-scored token launches; x402 USDC.
 - [Agentic Firmenbuch](https://www.agentic-firmenbuch.at) `https://register.agentic-firmenbuch.at/mcp`
   [![Agentic Firmenbuch MCP connector](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister)
   🔓 - Austrian Firmenbuch + German Handelsregister: master data, financials and ratios; free API key for calls.
