@@ -620,6 +620,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
   [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
   🔓 - Six design-review tools that run before a design ships.
+- [Vibesignet](https://vibesignet.com) `https://vibesignet.com/api/mcp`
+  [![Vibesignet MCP connector](https://glama.ai/mcp/connectors/com.vibesignet/templates/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibesignet/templates)
+  🔓 - Search website templates and components, and fetch their build prompts for AI coding agents; full prompts need a key.
 - [Whimsical](https://whimsical.com/mcp) `https://mcp.whimsical.com/mcp`
   [![Whimsical MCP connector](https://glama.ai/mcp/connectors/com.whimsical/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whimsical/mcp)
   🔐 - Turn prompts into editable flowcharts, mind maps, sequence diagrams and wireframes, and search your Whimsical workspace.
