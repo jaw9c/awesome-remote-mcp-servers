@@ -2779,6 +2779,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch)
   🔓 - Track shop prices over time: snapshot pages, keep a watch list, and get alerts when a target price is hit.
 
+- [Cubicle](https://cubicle.algotrada.com) `https://cubicle.algotrada.com/deck/api/mcp`
+  [![Cubicle MCP connector](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle/badges/score.svg)](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle)
+  🔓 - Compile a trading rule into a state machine, rehearse it on real candles, read the tape, open USDG vaults on Robinhood.
+
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
