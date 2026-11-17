@@ -2562,6 +2562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
   [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
   🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
+- [TRON USDT Risk Checker](https://usdt.chikocorp.com/mcp-server) `https://usdt.chikocorp.com/mcp`
+  [![TRON USDT Risk Checker MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp)
+  🔓 - Tether USDT blacklist check for TRON addresses (free), plus OFAC screening and AML reports via x402 or API key.
 - [TronOrb](https://tronorb.com/developers/mcp) `https://tronorb.com/mcp`
   [![TronOrb MCP connector](https://glama.ai/mcp/connectors/com.tronorb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tronorb/mcp)
   🔓 - Live TRON data: USDT TRC-20 fees with and without energy, address checks, Tether freezes, dApp and exchange rankings.
