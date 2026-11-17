@@ -3596,6 +3596,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
+- [SaaSCity](https://saascity.io/mcp) `https://saascity.io/api/mcp`
+  [![SaaSCity MCP connector](https://glama.ai/mcp/connectors/io.saascity/saascity/badges/score.svg)](https://glama.ai/mcp/connectors/io.saascity/saascity)
+  🔓 - Audit a homepage before launch, pick launch directories by DR, link type and price, and list on SaaSCity.
 - [Say It Again](https://sayitagain.ai/docs/api) `https://app.sayitagain.ai/mcp`
   [![Say It Again MCP connector](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain)
   🔐 - Read a store's product page, write 3 scripts and make an AI UGC video with a generated presenter.
