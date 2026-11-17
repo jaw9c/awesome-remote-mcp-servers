@@ -139,6 +139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Nexus](https://agentnexus.app) `https://agentnexus.app/api/public/mcp`
   [![Agent Nexus MCP connector](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus)
   🔓 - Registry of the APIs, MCP servers and CLIs agents call, with live health checks and reliability history.
+- [Agent Stack Data](https://agentstackdata.com) `https://agentstackdata.com/mcp`
+  [![Agent Stack Data MCP connector](https://glama.ai/mcp/connectors/com.agentstackdata/agentstack/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentstackdata/agentstack)
+  🔓 - Curated catalog of 30 AI-agent tools with verified pricing: search, voice, MCP, automation and data APIs.
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - One tool that routes any task to the best of 14,000+ x402 tools; pay per call in USDC on Base.
