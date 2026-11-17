@@ -4191,6 +4191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [send21](https://send21.io) `https://send21.io/mcp`
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
+- [spendctl](https://spendctl.dev) `https://mcp.spendctl.dev/mcp`
+  [![spendctl MCP connector](https://glama.ai/mcp/connectors/dev.spendctl/spendctl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.spendctl/spendctl)
+  🔓 - Login-free sandbox of the spendctl sidecar: budgets, allowlists, human approvals and receipts for mock x402/MPP APIs.
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
   🔓 - Operated by SpendPreflight: sanctions screening and payment preflight, paid via x402 with a free trial.
