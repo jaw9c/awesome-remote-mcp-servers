@@ -3447,6 +3447,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
 
+- [AppTrack Ninja](https://apptrack.ninja/tools/mcp) `https://mcp.apptrack.ninja`
+  [![AppTrack Ninja MCP connector](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja/badges/score.svg)](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja)
+  🔐 - App Store and Google Play data: apps, charts, keyword ranks, version history, ads and icon redesign effects.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
