@@ -1732,6 +1732,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
+- [Zack billiger](https://zack-billiger.com/en/) `https://mcp.zack-billiger.com/mcp`
+  [![Zack billiger MCP connector](https://glama.ai/mcp/connectors/com.zack-billiger/zack-billiger/badges/score.svg)](https://glama.ai/mcp/connectors/com.zack-billiger/zack-billiger)
+  🔓 - Search AliExpress in natural language and compare products by price, rating, variants and pictures.
 - [Zebu Data - Amazon & eBay Product Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/amazon-product-data-scraper,delicious_zebu/amazon-product-details-scraper,delicious_zebu/ebay-product-listing-scraper,delicious_zebu/ebay-product-details-scraper,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters`
   [![Zebu Data - Amazon & eBay Product Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data)
   🔐 - Amazon and eBay search results, product details, prices, variants and seller reviews.
