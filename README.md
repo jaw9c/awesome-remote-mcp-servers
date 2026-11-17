@@ -1560,6 +1560,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synap](https://synap.linkrra.com) `https://pool.linkrra.com/mcp`
   [![Synap MCP connector](https://glama.ai/mcp/connectors/com.linkrra/synap/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkrra/synap)
   🔓 - OpenAI-compatible inference on open models: list models and prices, estimate cost, run chat billed per token.
+- [tealmac UI](https://ui.tealmac.com) `https://ui.tealmac.com/mcp`
+  [![tealmac UI MCP connector](https://glama.ai/mcp/connectors/com.tealmac/ui/badges/score.svg)](https://glama.ai/mcp/connectors/com.tealmac/ui)
+  🔓 - Search the shadcn registry, read props and get install commands for 554 free React components.
 - [TechFabric](https://www.techfabric.com) `https://www.techfabric.com/mcp`
   [![TechFabric MCP connector](https://glama.ai/mcp/connectors/com.techfabric/techfabric/badges/score.svg)](https://glama.ai/mcp/connectors/com.techfabric/techfabric)
   🔓 - Search and read TechFabric's Databricks and AI content: blog posts with FAQs, services, case studies.
