@@ -3799,6 +3799,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pulse](https://pulse.allthepossibles.com) `https://pulse.allthepossibles.com/mcp`
   [![Pulse MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/pulse)
   🔓 - Real Core Web Vitals from the Chrome UX Report for any URL, with a pass or fail verdict.
+- [Pulse Analytics](https://pulse.ciphera.net) `https://pulse-api.ciphera.net/mcp`
+  [![Pulse Analytics MCP connector](https://glama.ai/mcp/connectors/net.ciphera/pulse-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/net.ciphera/pulse-analytics)
+  🔐 - Read your Pulse Analytics web stats: visitors, top pages, sources, countries, campaigns and live visitors.
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
