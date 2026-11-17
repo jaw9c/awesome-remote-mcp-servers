@@ -2334,6 +2334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FxSocket](https://fxsocket.com/docs/mcp) `https://mcp.fxsocket.com/mcp`
   [![FxSocket MCP connector](https://glama.ai/mcp/connectors/com.fxsocket/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fxsocket/mcp)
   🔑 - Read-only MetaTrader 4 and 5 accounts: balances, open positions, trade history, quotes, symbol specs and candles.
+- [GasNow](https://gasnow.tools/mcp.html) `https://mcp.gasnow.tools/mcp`
+  [![GasNow MCP connector](https://glama.ai/mcp/connectors/io.github.j0n777/gasnow/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.j0n777/gasnow)
+  🔓 - Live gas prices, Bitcoin fees, USD cost to send USDT on 12 networks, exchange withdrawal fees.
 - [Gemral Edge](https://www.gemral.com/edge) `https://mcp.gemral.com/mcp`
   [![Gemral Edge MCP connector](https://glama.ai/mcp/connectors/io.github.gemral-edge/gemral-edge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gemral-edge/gemral-edge)
   🔐 - Point-in-time US public records: federal contracts, congressional and insider trades, lobbying, tied to tickers.
