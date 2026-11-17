@@ -5003,6 +5003,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
+- [Viewlify](https://viewlify.app/tiktok-data-api) `https://viewlify.app/api/mcp`
+  [![Viewlify MCP connector](https://glama.ai/mcp/connectors/io.github.benjaminb10/viewlify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.benjaminb10/viewlify)
+  🔓 - Find TikTok videos that beat their creator's usual views, plus rising videos, hashtags and sounds by niche.
 - [ViralDecoder](https://viraldecoder.online/claude) `https://viraldecoder.online/mcp`
   [![ViralDecoder MCP connector](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder/badges/score.svg)](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder)
   🔐 - Breaks down Instagram Reels, Shorts and TikToks: hook score, why it went viral, a script for yours.
