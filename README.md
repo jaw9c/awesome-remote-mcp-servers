@@ -5255,8 +5255,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [withHuman](https://withhuman.ai) `https://app.withhuman.ai/api/mcp/v1`
   [![withHuman MCP connector](https://glama.ai/mcp/connectors/ai.withhuman/withhuman/badges/score.svg)](https://glama.ai/mcp/connectors/ai.withhuman/withhuman)
   🔐 - Configure approval pipelines, escalation paths and teams that decide which agent tool calls need a human.
-
-
+- [ZKStamp Proof-100](https://z-text.org/zkstamp-proof-100-shielded-proof-of-existence/) `https://proof.zketernity.app/mcp`
+  [![ZKStamp Proof-100 MCP connector](https://glama.ai/mcp/connectors/io.github.ZKStamp/proof100/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ZKStamp/proof100)
+  🔓 - Shielded proof-of-existence timestamps on BitcoinZ via zk-SNARKs; stamping needs a free sign-up key.
+  
 ### 📣 <a name="social-media"></a>Social Media
 
 - [0bull](https://0bull.net) `https://0bull.net/mcp`
