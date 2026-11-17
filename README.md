@@ -2919,6 +2919,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
   🔑 - Hybrid search over vectors, full text and structured filters, with auto-embeddings.
+- [Gravity](https://www.gravitynotes.app/connect-ai-apps) `https://mcp.gravitynotes.app/mcp`
+  [![Gravity MCP connector](https://glama.ai/mcp/connectors/app.gravitynotes/gravity/badges/score.svg)](https://glama.ai/mcp/connectors/app.gravitynotes/gravity)
+  🔐 - Save, search and edit notes in your Gravity list, and move old notes back to the top.
 - [Greenlit Books](https://greenlitbooks.com/developers) `https://greenlitbooks.com/api/mcp`
   [![Greenlit Books MCP connector](https://glama.ai/mcp/connectors/com.greenlitbooks/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.greenlitbooks/catalog)
   🔓 - Search a catalog of practical AI books, read free chapters, and check a claim against the source behind it.
