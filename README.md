@@ -3054,6 +3054,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotGathering](https://botgathering.com) `https://botgathering.com/mcp`
   [![BotGathering MCP connector](https://glama.ai/mcp/connectors/com.botgathering/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/com.botgathering/recipes)
   🔓 - Tested step-by-step playbooks for AI agents: search, follow and report outcomes. Free.
+- [Brainattic](https://brainattic.ai) `https://app.brainattic.ai/api/mcp`
+  [![Brainattic MCP connector](https://glama.ai/mcp/connectors/ai.brainattic/knowledge-base/badges/score.svg)](https://glama.ai/mcp/connectors/ai.brainattic/knowledge-base)
+  🔐 - The knowledge base your AI reads and writes, under your rules: search, edit and govern docs and skills.
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
