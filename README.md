@@ -1246,6 +1246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConvertFileFast](https://www.convertfilefast.com) `https://mcp.convertfilefast.com/mcp`
   [![ConvertFileFast MCP connector](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast)
   🔓 - Convert documents, images and data files between formats, and merge, split, compress or protect PDFs.
+- [Cuelark Tools](https://tools.cuelark.com/mcp) `https://tools.cuelark.com/mcp`
+  [![Cuelark Tools MCP connector](https://glama.ai/mcp/connectors/com.cuelark/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.cuelark/tools)
+  🔓 - Exact text and data tools: JSON, tokens, cron, dates, US tax, routing checks, and citations.
 - [Datakoot Package Intel](https://datakoot.com/package-intel) `https://package.datakoot.com/mcp`
   [![Datakoot Package Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages)
   🔓 - npm, PyPI and crates.io package health, versions, downloads, dependencies and advisories.
