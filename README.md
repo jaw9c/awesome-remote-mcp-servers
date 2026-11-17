@@ -5933,7 +5933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Nationwide Data](https://korea-data-mcp.picks-site.workers.dev/) `https://korea-data-mcp.picks-site.workers.dev/mcp`
   [![Korea Nationwide Data MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp)
   🔓 - Korean tourist attractions in Korean and English, bus stops across 138 cities, and 30-year weather normals.
-
+- [localhum](https://localhum.app/assistants) `https://localhum.app/mcp`
+  [![localhum MCP connector](https://glama.ai/mcp/connectors/app.localhum/localhum/badges/score.svg)](https://glama.ai/mcp/connectors/app.localhum/localhum)
+  🔓 - What's on at San Diego's small venues tonight or this week: live music, trivia, comedy, open mics, happy hours.
 - [MAQAMI Travel](https://maqami.co) `https://mcp.maqami.co/`
   [![MAQAMI Travel MCP connector](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel/badges/score.svg)](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel)
   🔓 - Search hotels and flights with live rates and hotel details, then send a secure checkout link on book.maqami.co.
