@@ -5610,6 +5610,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OrionCMD Checks](https://orioncmd.com) `https://api.orioncmd.com/mcp`
   [![OrionCMD Checks MCP connector](https://glama.ai/mcp/connectors/com.orioncmd.api/checks/badges/score.svg)](https://glama.ai/mcp/connectors/com.orioncmd.api/checks)
   🔓 - Domain threat checks, a 30-day domain watch, and TLS, DNS/email-auth and expiry checks; paid per call in USDC via x402.
+- [PatchLabs](https://patchlabs.dev/docs/mcp) `https://api.patchlabs.dev/mcp`
+  [![PatchLabs MCP connector](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs)
+  🔓 - Security checks for apps built with Lovable, Supabase or Bolt: RLS and headers free, app checks with an API key.
 - [PG1 Threat Intelligence](https://pg1-ai-agent.vercel.app/about) `https://pg1-ai-agent.vercel.app/api/mcp`
   [![PG1 Threat Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel)
   🔓 - Agent threat intel: wallet sanctions screening, wallet and domain age, hostname reputation; paid STIX 2.1 feed via x402.
