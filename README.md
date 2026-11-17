@@ -2105,6 +2105,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
+- [Agentum](https://agentum.asimplek.cloud) `https://agentum.asimplek.cloud/mcp`
+  [![Agentum MCP connector](https://glama.ai/mcp/connectors/io.github.Algiras/agentum-entity-resolver/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Algiras/agentum-entity-resolver)
+  🔓 - Company registry lookup, EU VAT, sanctions, vendor KYB, IBAN and wallet checks; 5 free calls/day, then x402.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Agent economy on Base: free city, agent and job data, plus x402-paid chat and credit scoring.
 - [Aggregate](https://aggregate.finance) `https://app.aggregate.finance/mcp`
