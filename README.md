@@ -1840,6 +1840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Modulit Pro AV Finder](https://www.modulit.eu/mcp-guide/) `https://www.modulit.eu/mcp`
   [![Modulit Pro AV Finder MCP connector](https://glama.ai/mcp/connectors/eu.modulit/pro-av-finder/badges/score.svg)](https://glama.ai/mcp/connectors/eu.modulit/pro-av-finder)
   🔓 - Search Modulit EU and PL pro AV equipment and guides, calculate cable runs and configure AV hardware.
+- [MostExpensiveWatches](https://mostexpensivewatches.net) `https://mostexpensivewatches.net/mcp`
+  [![MostExpensiveWatches MCP connector](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp)
+  🔓 - Search luxury-watch listings, reference data, sourced auction records, market estimates and upcoming auctions.
 
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
