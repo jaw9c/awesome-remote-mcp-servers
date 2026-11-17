@@ -539,6 +539,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QR Branding](https://qr-branding.com) `https://qr-branding.com/mcp`
   [![QR Branding MCP connector](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding)
   🔓 - Branded QR codes (manual, AI-styled, 118 templates, Wi-Fi/vCard/geo), each decoded server-side before it is returned.
+- [QRdx](https://qrdx.dev/mcp) `https://mcp.qrdx.dev/mcp`
+  [![QRdx MCP connector](https://glama.ai/mcp/connectors/dev.qrdx/qrdx/badges/score.svg)](https://glama.ai/mcp/connectors/dev.qrdx/qrdx)
+  🔓 - Design styled QR codes and barcodes, check that they scan, and get SVG and PNG back.
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
