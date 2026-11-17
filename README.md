@@ -487,6 +487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicScreenshots](https://www.magicscreenshots.com/agents) `https://www.magicscreenshots.com/api/mcp`
   [![MagicScreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp)
   🔓 - Search App Store screenshots and preview references; generation and Pro tools require a user key.
+- [MiroMiro](https://miromiro.app/api/mcp) `https://miromiro.app/mcp`
+  [![MiroMiro MCP connector](https://glama.ai/mcp/connectors/app.miromiro/miromiro/badges/score.svg)](https://glama.ai/mcp/connectors/app.miromiro/miromiro)
+  🔐 - Rebuild any website section as Elementor, Shopify Liquid or Tailwind/React code, plus brand tokens and assets.
 - [Mobbin](https://mobbin.com/mcp) `https://api.mobbin.com/mcp`
   [![Mobbin MCP connector](https://glama.ai/mcp/connectors/com.mobbin/mobbin/badges/score.svg)](https://glama.ai/mcp/connectors/com.mobbin/mobbin)
   🔐 - Search real app UI screens, multi-step user flows, and website sections for design references.
