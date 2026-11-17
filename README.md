@@ -4125,6 +4125,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
+- [PopNow](https://popnow.ai/mcp) `https://api.popnow.ai/mcp`
+  [![PopNow MCP connector](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp)
+  🔐 - Generate images, videos, music and speech, apply video effects and upscale, with a credit quote before each run.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
