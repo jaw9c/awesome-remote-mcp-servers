@@ -4472,6 +4472,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Street-level Australian property data: price forecasts, crime, sales and zoning; data needs a key.
+- [Miramo](https://www.miramo.fr/outils/mcp) `https://mcp.miramo.fr/mcp`
+  [![Miramo MCP connector](https://glama.ai/mcp/connectors/fr.miramo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fr.miramo/mcp)
+  🔓 - French rental law: rent caps at an address, tense and ABC zones, airport noise zones and unfurnished lease drafts.
 - [NebenkostenPro](https://nebenkostenpro.de/mcp) `https://nebenkostenpro.de/mcp`
   [![NebenkostenPro MCP connector](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten/badges/score.svg)](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten)
   🔓 - German utility costs for 400 cities, property tax rates, housing benefit levels and utility bill deadlines.
