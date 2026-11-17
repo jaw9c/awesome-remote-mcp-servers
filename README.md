@@ -2626,6 +2626,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trust Check](https://trust-check.gm-tools.workers.dev) `https://trust-check.gm-tools.workers.dev/mcp`
   [![Trust Check MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check)
   🔓 - Safety check for a Base token or address before you trade or pay it; USDC per call via x402.
+- [Unlock Pulse](https://billibo6.github.io/unlockpulse/ai.html) `https://unlockpulse-mcp.unlockpulse.workers.dev/mcp`
+  [![Unlock Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse)
+  🔓 - Token unlock calendar for the next 60 days, rated by size vs circulating supply, with past-unlock price history.
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
