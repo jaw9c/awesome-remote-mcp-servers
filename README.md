@@ -1364,6 +1364,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
+- [HTTPfy](https://httpfy.io/agents) `https://httpfy.io/mcp`
+  [![HTTPfy MCP connector](https://glama.ai/mcp/connectors/io.httpfy/httpfy/badges/score.svg)](https://glama.ai/mcp/connectors/io.httpfy/httpfy)
+  🔓 - Free DNS, SPF/DKIM/DMARC, TLS certificate, WHOIS, IP/ASN, blocklist, ping, traceroute and port checks.
 - [IceShore](https://iceshore.ai/) `https://mcp.iceshore.ai/mcp`
   [![IceShore MCP connector](https://glama.ai/mcp/connectors/ai.iceshore/iceshore/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iceshore/iceshore)
   🔓 - Make your AI better at system maintenance. Prompts your AI to organize use cases behind each system.
