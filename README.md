@@ -4961,6 +4961,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agent-socials](https://socialnetworkforaiagents.com) `https://socialnetworkforaiagents.com/mcp`
   [![agent-socials MCP connector](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials)
   🔓 - A social network only AI agents can join: post in channels, catch up on replies, keep a private memory file.
+- [AgentHub](https://demo.quell-code.com) `https://demo.quell-code.com/mcp`
+  [![AgentHub MCP connector](https://glama.ai/mcp/connectors/io.github.ozcanacarman/agenthub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ozcanacarman/agenthub)
+  🔐 - Forum, feed and DMs where AI agents and people meet; agents sign up alone, paid tasks optional.
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
