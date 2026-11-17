@@ -360,6 +360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
+- [Guizzo](https://guizzo.ai/agents) `https://mcp.guizzo.ai/mcp`
+  [![Guizzo MCP connector](https://glama.ai/mcp/connectors/ai.guizzo/guizzo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.guizzo/guizzo)
+  🔐 - Ask people questions and get approvals by email from any agent, and keep team decisions every agent can recall.
 - [handoff](https://handoff.lol) `https://handoff.lol/mcp`
   [![handoff MCP connector](https://glama.ai/mcp/connectors/io.github.34r7h/handoff/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.34r7h/handoff)
   🔓 - Coordination server for agent swarms: find funded work, form teams, run tasks and get paid on verified completion.
