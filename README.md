@@ -1690,6 +1690,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
+- [Sofala](https://sofala.market) `https://sofala.market/mcp`
+  [![Sofala MCP connector](https://glama.ai/mcp/connectors/market.sofala/sofala/badges/score.svg)](https://glama.ai/mcp/connectors/market.sofala/sofala)
+  🔐 - Marketplace for goods, collectibles, real estate and services: list from a photo, search, message, offer, close deals.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
