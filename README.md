@@ -5327,6 +5327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jid](https://jid.com/agents) `https://jid.com/mcp`
   [![Jid MCP connector](https://glama.ai/mcp/connectors/com.jid/jid/badges/score.svg)](https://glama.ai/mcp/connectors/com.jid/jid)
   🔓 - Checks a business against US registries, sanctions and its domain before an agent pays or signs, with signed receipts.
+- [Kestrova Solidity Security Scanner](https://kestrova-api.onrender.com/scanner) `https://kestrova-api.onrender.com/mcp`
+  [![Kestrova Solidity Security Scanner MCP connector](https://glama.ai/mcp/connectors/com.onrender.kestrova-api/kestrova/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.kestrova-api/kestrova)
+  🔓 - Slither static analysis of Solidity contracts: free findings preview, full report for 1 USDC via x402 on Base or Solana.
 - [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
   [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
   🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
