@@ -623,6 +623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
+- [Agentgates Compute](https://agentgates.ai/compute) `https://mcp.agentgates.ai/compute`
+  [![Agentgates Compute MCP connector](https://glama.ai/mcp/connectors/ai.agentgates/compute/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentgates/compute)
+  🔓 - Plans, live prices and quotes for confidential VMs (Intel TDX) rented by the hour in USDC over x402.
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
