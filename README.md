@@ -2356,6 +2356,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NakamotoNotes Bitcoin Barometer](https://nakamotonotes.com/open) `https://nakamotonotes.com/mcp`
   [![NakamotoNotes Bitcoin Barometer MCP connector](https://glama.ai/mcp/connectors/com.nakamotonotes/barometer/badges/score.svg)](https://glama.ai/mcp/connectors/com.nakamotonotes/barometer)
   🔓 - Bitcoin Barometer heat score, BTC price, on-chain and sentiment indicators, and daily history since 2014.
+- [Neumann](https://neumann.kromatic.com/llms.txt?utm_source=awesome-remote-mcp-servers&utm_medium=mcp-directory&utm_campaign=neumann) `https://neumann.kromatic.com/mcp`
+  [![Neumann MCP connector](https://glama.ai/mcp/connectors/io.github.Kromatic-Innovation/neumann/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Kromatic-Innovation/neumann)
+  🔓 - Monte Carlo ranges for uncertain plans: project cost, budget, timeline, capacity, NPV/IRR/payback.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
