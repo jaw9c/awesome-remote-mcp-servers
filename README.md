@@ -1796,6 +1796,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Undercart](https://undercart.co/docs/mcp) `https://undercart.co/api/mcp`
   [![Undercart MCP connector](https://glama.ai/mcp/connectors/co.undercart/undercart/badges/score.svg)](https://glama.ai/mcp/connectors/co.undercart/undercart)
   🔐 - Research Shopify brands: revenue estimates, installed apps, live ads and captured marketing emails.
+- [Usilitel Signala](https://usilitel-signala.ru/) `https://mcp.usilitel-signala.ru/mcp`
+  [![Usilitel Signala MCP connector](https://glama.ai/mcp/connectors/io.github.ostrovit201/usilitel-signala/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ostrovit201/usilitel-signala)
+  🔓 - Cellular signal boosters in Russia: catalog search, live prices and stock, equipment picks and order links.
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
