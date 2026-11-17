@@ -3460,6 +3460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
+- [Best AI Search Agency AEO Report](https://aeoengine.ai) `https://aeoengine.ai/mcp`
+  [![Best AI Search Agency AEO Report MCP connector](https://glama.ai/mcp/connectors/ai.aeoengine/best-ai-search-agency-aeo-report/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aeoengine/best-ai-search-agency-aeo-report)
+  🔓 - Free AEO visibility report MCP — run AI search audits for any domain.
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, detect tech stacks, and find and score local businesses without a website.
