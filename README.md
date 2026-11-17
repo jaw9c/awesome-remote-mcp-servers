@@ -365,6 +365,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScopeLinq](https://scopelinq.com/agents) `https://mcp.scopelinq.com/mcp`
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
+- [Signvoy](https://www.signvoy.com/developers/mcp) `https://api.signvoy.com/mcp`
+  [![Signvoy MCP connector](https://glama.ai/mcp/connectors/com.signvoy/signvoy/badges/score.svg)](https://glama.ai/mcp/connectors/com.signvoy/signvoy)
+  🔐 - Send documents for e-signature from templates, remind signers, and download signed PDFs with audit trails.
 - [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
   [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
   🔓 - Agent-to-agent marketplace: list, buy and sell work by contract with escrow and signed receipts (pay-per-call paused).
