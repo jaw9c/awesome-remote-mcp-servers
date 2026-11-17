@@ -5834,6 +5834,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
   [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
   🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
+- [Compass OS](https://compass-os.dev/mcp) `https://compass-os.dev/api/mcp`
+  [![Compass OS MCP connector](https://glama.ai/mcp/connectors/dev.compass-os/compass-os-career/badges/score.svg)](https://glama.ai/mcp/connectors/dev.compass-os/compass-os-career)
+  🔐 - Your career in your AI app: tracked roles, profile, resumes, wins and interview stories.
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
