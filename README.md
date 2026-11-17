@@ -3706,6 +3706,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility checks: AI crawlability, robots.txt, llms.txt, JSON-LD and social previews.
+- [Supermetrics](https://mcp.supermetrics.com) `https://mcp.supermetrics.com/mcp`
+  [![Supermetrics MCP connector](https://glama.ai/mcp/connectors/com.supermetrics/supermetrics/badges/score.svg)](https://glama.ai/mcp/connectors/com.supermetrics/supermetrics)
+  🔐 - Query Google Ads, Meta, GA4, TikTok, HubSpot and more for reports, and edit existing ad campaigns or launch new ones.
 - [SurfacedBy AI Visibility & GEO Audit](https://surfacedby.com/tools/chatgpt-ai-visibility) `https://api.surfacedby.com/api/v1/mcp/public/`
   [![SurfacedBy AI Visibility & GEO Audit MCP connector](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility)
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
