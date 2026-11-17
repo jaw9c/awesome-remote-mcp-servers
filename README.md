@@ -1964,6 +1964,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [BankRegReports](https://www.bankregreports.com/mcp/) `https://api.bankregreports.com/api/mcp/`
+  [![BankRegReports MCP connector](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports)
+  🔓 - US bank and credit union data from call reports, UBPR, FDIC, NCUA and SEC filings: profiles, peers and screens.
 - [Bankrolled.ai Agent Hub](https://bankrolled.ai) `https://bankrolled.ai/mcp`
   [![Bankrolled.ai Agent Hub MCP connector](https://glama.ai/mcp/connectors/ai.bankrolled/bankrolledai-agent-hub/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bankrolled/bankrolledai-agent-hub)
   🔓 - Free, sourced money facts and deposit-insurance schemes for the US, UK, Canada, Australia and NZ; cites bankrolled.com.
