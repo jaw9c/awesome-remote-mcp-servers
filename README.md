@@ -3245,6 +3245,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Engram - Second Brain](https://engram.rootcause.ro) `https://engram.rootcause.ro/mcp/directory`
   [![Engram - Second Brain MCP connector](https://glama.ai/mcp/connectors/ro.rootcause/engram/badges/score.svg)](https://glama.ai/mcp/connectors/ro.rootcause/engram)
   🔐 - A second brain for Claude: remembers your work, plans your day, encrypted under a key only you hold.
+- [Eremos Thai Bible](https://bible.eremosapp.com) `https://mcp.eremosapp.com/mcp`
+  [![Eremos Thai Bible MCP connector](https://glama.ai/mcp/connectors/com.eremosapp/bible/badges/score.svg)](https://glama.ai/mcp/connectors/com.eremosapp/bible)
+  🔓 - Read and search the CC0 Thai Bible draft, with verse references and published translation decision notes.
 - [FeedNest](https://www.feednest.com) `https://mcp.feednest.com`
   [![FeedNest MCP connector](https://glama.ai/mcp/connectors/com.feednest.mcp/feed-nest/badges/score.svg)](https://glama.ai/mcp/connectors/com.feednest.mcp/feed-nest)
   🔐 - Read and search your RSS feeds and articles, plus save, tag, highlight and add notes on paid plans; OAuth sign-in.
