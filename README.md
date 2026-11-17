@@ -1975,6 +1975,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [47620 Data API](https://47620.xyz/agents) `https://47620.xyz/mcp`
   [![47620 Data API MCP connector](https://glama.ai/mcp/connectors/xyz.47620/solana-data/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.47620/solana-data)
   🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: prices, liquidity, balances, txs and token analytics.
+- [990.tax](https://990.tax/mcp) `https://990.tax/mcp`
+  [![990.tax MCP connector](https://glama.ai/mcp/connectors/tax.990/nonprofit-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/tax.990/nonprofit-lookup)
+  🔓 - IRS records on US nonprofits: exempt status, revocations, Form 990 financials, due dates and statistics.
 
 
 - [Aave](https://aave.com) `https://mcp.aave.com`
