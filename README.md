@@ -1835,6 +1835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [FileFleet](https://filefleet.io/ai-assistants/) `https://mcp.filefleet.io/mcp`
+  [![FileFleet MCP connector](https://glama.ai/mcp/connectors/io.filefleet/filefleet/badges/score.svg)](https://glama.ai/mcp/connectors/io.filefleet/filefleet)
+  🔓 - Passport, visa and exam upload rules with official sources, file checks, and links that fix files to fit.
 - [Link in Seconds](https://linkinseconds.com/docs/mcp) `https://linkinseconds.com/api/mcp`
   [![Link in Seconds MCP connector](https://glama.ai/mcp/connectors/com.linkinseconds/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkinseconds/mcp)
   🔓 - Upload a file and get a shareable link that never expires, plus view stats. Using the tools needs a free API key.
