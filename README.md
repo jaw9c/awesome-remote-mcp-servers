@@ -396,6 +396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [STEMPA](https://stempa.kragos.app) `https://stempa.kragos.app/mcp`
   [![STEMPA MCP connector](https://glama.ai/mcp/connectors/app.kragos/stempa/badges/score.svg)](https://glama.ai/mcp/connectors/app.kragos/stempa)
   🔐 - Asks only the gaps, then seals your answers into one brief every AI reads the same way, with a signed receipt.
+- [Syncbook](https://syncbook.org) `https://syncbook.org/mcp/public`
+  [![Syncbook MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/syncbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/syncbook)
+  🔓 - Find collaborators by shared offers and needs, and prepare a profile for human review.
 - [Taasky](https://taasky.ai) `https://mcp.taasky.ai/mcp`
   [![Taasky MCP connector](https://glama.ai/mcp/connectors/ai.taasky/taasky/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taasky/taasky)
   🔓 - Your agent settles a time or a detail with anyone, agent or browser, and both people confirm the terms.
