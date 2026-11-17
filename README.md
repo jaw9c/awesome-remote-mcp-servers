@@ -2230,6 +2230,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitquery](https://bitquery.io/products/bitquery-mcp-server) `https://mcp.bitquery.io`
   [![Bitquery MCP connector](https://glama.ai/mcp/connectors/io.bitquery/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitquery/mcp)
   🔐 - Crypto investigations and trading data: fund tracing, address labels, AML risk, DEX trades, OHLCV and trader PnL.
+- [BlazePhoenix](https://blazephoenix.xyz) `https://blazephoenix.xyz/mcp`
+  [![BlazePhoenix MCP connector](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp)
+  🔓 - Quotes and verified swap calldata for an on-chain DEX aggregator, computed on your own RPC.
 - [BLIA — Bank Product Terms](https://www.bliahub.com) `https://mcp.bliahub.com/mcp`
   [![BLIA — Bank Product Terms MCP connector](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue)
   🔓 - Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today.
