@@ -1624,6 +1624,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [datawebot](https://www.datawebot.com) `https://mcp.datawebot.com/mcp`
   [![datawebot MCP connector](https://glama.ai/mcp/connectors/com.datawebot/datawebot/badges/score.svg)](https://glama.ai/mcp/connectors/com.datawebot/datawebot)
   🔐 - Product search across online shops worldwide, with every seller's price and a direct link to the product page.
+- [Deal.ai](https://deal.ai/mcp-server) `https://deal.ai/mcp`
+  [![Deal.ai MCP connector](https://glama.ai/mcp/connectors/ai.deal/deal-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deal/deal-ai)
+  🔐 - Compare every US store's price for the same product, check if a deal is real, see price history and watch prices.
 - [Dolphin Industrial Parts](https://dolphinindustrialparts.com/for-ai-agents/) `https://dolphinindustrialparts.com/agent/mcp`
   [![Dolphin Industrial Parts MCP connector](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts/badges/score.svg)](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts)
   🔓 - Look up OEM brands, models and part numbers for compatible marine and industrial spare parts; read-only, no prices.
