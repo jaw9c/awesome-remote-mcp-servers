@@ -4101,6 +4101,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valmera](https://valmera.io) `https://valmera.io/mcp/server`
   [![Valmera MCP connector](https://glama.ai/mcp/connectors/io.valmera/video-editor/badges/score.svg)](https://glama.ai/mcp/connectors/io.valmera/video-editor)
   🔐 - Edit your own footage: cut dead air and filler words, caption, reframe to 9:16, make shorts and export MP4.
+- [Varosity](https://varosity.ai) `https://varosity.ai/api/mcp`
+  [![Varosity MCP connector](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity)
+  🔐 - Generate video, images, voice and music with 60+ models (Veo 3.1, Kling 3.0, Seedance, FLUX, ElevenLabs).
 - [VideoBGRemover](https://videobgremover.net/mcp) `https://videobgremover.net/api/mcp`
   [![VideoBGRemover MCP connector](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover/badges/score.svg)](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover)
   🔐 - Remove video backgrounds, track processing tasks, and download transparent WebM with source audio.
