@@ -249,6 +249,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rokha](https://rokha.ai) `https://rokha.ai/mcp/jsonrpc`
   [![Rokha MCP connector](https://glama.ai/mcp/connectors/ai.rokha/rokha/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rokha/rokha)
   🔓 - Search a registry of agent skills and MCP servers, run them for real with traces, and hire proven agents for USDC.
+- [ScorpTech x402 Tools](https://scorptech.it.com/api/x402/docs) `https://scorptech.it.com/api/x402/mcp`
+  [![ScorpTech x402 Tools MCP connector](https://glama.ai/mcp/connectors/com.it.scorptech/x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.it.scorptech/x402)
+  🔓 - 1,012 pay-per-call tools: web data, SEO, security, OSINT, SEC filings and Solana/EVM lookups; USDC via x402.
 - [SkillTide](https://anclum.com) `https://anclum.com/mcp`
   [![SkillTide MCP connector](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp)
   🔓 - Search 7,500+ MCP servers, agent skills and AI projects with verified official links.
