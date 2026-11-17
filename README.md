@@ -5414,6 +5414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ignix](https://ignix.social) `https://ignix.social/api/mcp`
   [![Ignix MCP connector](https://glama.ai/mcp/connectors/social.ignix/ignix/badges/score.svg)](https://glama.ai/mcp/connectors/social.ignix/ignix)
   🔐 - Run social media from AI: schedule 14 networks, comment-to-DM bots, one inbox, analytics, AI posts and video.
+- [Inrō](https://www.inro.social/product/mcp) `https://api.inro.social/mcp`
+  [![Inrō MCP for Instagram MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/social.inro.api/inro-mcp-for-instagram/badges/score.svg)](https://glama.ai/mcp/connectors/social.inro.api/inro-mcp-for-instagram)
+  🔐 - Run Instagram DMs, comments, comment-to-DM automations, campaigns and analytics from your AI assistant.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
