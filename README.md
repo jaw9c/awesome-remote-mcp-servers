@@ -5537,6 +5537,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelemetry](https://sitelemetry.com/mcp-guide) `https://sitelemetry.com/mcp`
   [![Sitelemetry MCP connector](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry)
   🔐 - Audit sites you own for security, SEO, AI readiness, accessibility, performance and integrations.
+- [SniffPup](https://sniffpup.com/docs/mcp) `https://sniffpup.com/api/mcp`
+  [![SniffPup MCP connector](https://glama.ai/mcp/connectors/io.github.sniffpup/sniffpup/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sniffpup/sniffpup)
+  🔓 - Passive scan of a live site you own for leaked API keys, exposed .env and .git files, open Supabase tables and headers.
 - [Solana Pulse](https://solana-pulse-gateway-1021990235790.us-central1.run.app) `https://solana-pulse-gateway-1021990235790.us-central1.run.app/mcp`
   [![Solana Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway)
   🔓 - Safety checks for AI agents on Solana: transaction preflight, intent matching and token safety verdicts.
