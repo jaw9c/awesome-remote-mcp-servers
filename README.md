@@ -5725,6 +5725,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [Auto.dev](https://www.auto.dev/agents) `https://mcp.auto.dev/mcp`
+  [![Auto.dev MCP connector](https://glama.ai/mcp/connectors/dev.auto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.auto/mcp)
+  🔐 - Decode VINs, search US dealer listings, and look up specs, OEM build data, recalls, payments and taxes.
 - [busik.ch](https://busik.ch) `https://busik.ch/api/mcp`
   [![busik.ch MCP connector](https://glama.ai/mcp/connectors/ch.busik/fahrten/badges/score.svg)](https://glama.ai/mcp/connectors/ch.busik/fahrten)
   🔓 - Minibus trips between Ukraine, Germany and Switzerland: search departures, prices, seats and booking links.
