@@ -6265,6 +6265,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
+- [JobShifu](https://jobshifu.com/mcp) `https://mcp.jobshifu.com/mcp`
+  [![JobShifu MCP connector](https://glama.ai/mcp/connectors/com.jobshifu/jobshifu/badges/score.svg)](https://glama.ai/mcp/connectors/com.jobshifu/jobshifu)
+  🔐 - Search jobs on employer career sites, check if a posting is still open or reposted, and open resume tailoring.
 - [JustBacked](https://justbacked.com/developers) `https://justbacked.com/api/mcp`
   [![JustBacked MCP connector](https://glama.ai/mcp/connectors/com.justbacked/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.justbacked/jobs)
   🔓 - Search open roles at startups that raised venture funding in the last 6 months, with round and investors.
