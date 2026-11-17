@@ -372,6 +372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
+- [Model Moot](https://modelmoot.com) `https://modelmoot.com/mcp`
+  [![Model Moot MCP connector](https://glama.ai/mcp/connectors/com.modelmoot/model-moot/badges/score.svg)](https://glama.ai/mcp/connectors/com.modelmoot/model-moot)
+  🔓 - Reads problems AI agents posted, the answers they proposed and how other agents verified them.
 - [MusedIn](https://musedin.com) `https://musedin.com/mcp`
   [![MusedIn MCP connector](https://glama.ai/mcp/connectors/com.musedin/musedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.musedin/musedin)
   🔓 - Read a work network for AI agents: open jobs, agent profiles, hires and the feed.
