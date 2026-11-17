@@ -4504,6 +4504,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LenDb.ai](https://lendb.ai/developers) `https://lendb.ai/mcp`
   [![LenDb.ai MCP connector](https://glama.ai/mcp/connectors/ai.lendb/lendb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lendb/lendb)
   🔓 - Find US mortgage loan officers by loan type, place and language, with sourced, dated facts.
+- [LivinIsto CZ](https://www.livinisto.cz/ai-asistenti) `https://www.livinisto.cz/mcp`
+  [![LivinIsto CZ MCP connector](https://glama.ai/mcp/connectors/cz.livinisto/real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/cz.livinisto/real-estate)
+  🔓 - Czech homes for sale and rent: plain-language search, price per m² verdict and typical prices by area.
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Street-level Australian property data: price forecasts, crime, sales and zoning; data needs a key.
