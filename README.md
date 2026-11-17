@@ -4429,6 +4429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
+- [Revenue Enablement](https://tools.gtmhelix.com/connectors/) `https://revenue-enablement.gtmhelix.com/mcp`
+  [![Revenue Enablement MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp)
+  🔓 - Twelve deal strategy and sales enablement tools for B2B revenue teams.
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
