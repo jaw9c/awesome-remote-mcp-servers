@@ -5349,6 +5349,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
+- [Salsa Vida](https://www.salsavida.com/developers/mcp/) `https://mcp.salsavida.com/mcp`
+  [![Salsa Vida MCP connector](https://glama.ai/mcp/connectors/com.salsavida.mcp/salsa-vida/badges/score.svg)](https://glama.ai/mcp/connectors/com.salsavida.mcp/salsa-vida)
+  🔓 - Find Salsa and Bachata events, locations and destination guides worldwide with dates and source links.
 - [Samuelz Chauffeur Booking](https://samuelz.com/en/docs) `https://platform-api.samuelz.com/api/v1/mcp/chauffeur/samuelz-chauffeur`
   [![Samuelz Chauffeur Booking MCP connector](https://glama.ai/mcp/connectors/com.samuelz.platform-api/samuelz-chauffeur-booking/badges/score.svg)](https://glama.ai/mcp/connectors/com.samuelz.platform-api/samuelz-chauffeur-booking)
   🔓 - Chauffeur price previews and consent-led unpaid booking offers for the provider's published service areas.
