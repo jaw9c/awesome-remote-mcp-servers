@@ -3034,6 +3034,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
+- [Lumberroom](https://lumberroom.cloud) `https://mcp.lumberroom.cloud/mcp`
+  [![Lumberroom MCP connector](https://glama.ai/mcp/connectors/cloud.lumberroom.mcp/lumberroom/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.lumberroom.mcp/lumberroom)
+  🔐 - Durable shared memory for AI agents: search, write, correct and forget facts across clients.
 - [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
   [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
   🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
