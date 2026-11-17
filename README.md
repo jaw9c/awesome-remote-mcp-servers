@@ -4367,6 +4367,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
+- [Isto Intents](https://istointents.com/assistants/) `https://istointents.com/mcp`
+  [![Isto Intents MCP connector](https://glama.ai/mcp/connectors/com.istointents/intents/badges/score.svg)](https://glama.ai/mcp/connectors/com.istointents/intents)
+  🔓 - Private standing purchase intents: a portal watches used-car and home listings (SK/CZ), notifies you.
 - [Kolmo Construction](https://www.kolmo.io/developers) `https://www.kolmo.io/mcp`
   [![Kolmo Construction MCP connector](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction/badges/score.svg)](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction)
   🔓 - WA permit rules for 80+ cities, parcel zoning, contractor license checks and Seattle cost estimates.
