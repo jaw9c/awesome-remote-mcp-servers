@@ -3351,6 +3351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stele](https://stele-ai.dev) `https://app.stele-ai.dev/api/mcp`
   [![Stele MCP connector](https://glama.ai/mcp/connectors/dev.stele-ai/stele/badges/score.svg)](https://glama.ai/mcp/connectors/dev.stele-ai/stele)
   🔐 - Shared project memory for coding agents: recall and record decisions, lessons and risks, and claim tasks.
+- [Substrate](https://trysubstrate.co/?utm_source=awesome-remote-mcp&utm_medium=listing&utm_campaign=plugin-listings&utm_content=plugin) `https://app.trysubstrate.co/mcp`
+  [![Substrate MCP connector](https://glama.ai/mcp/connectors/co.trysubstrate/memory/badges/score.svg)](https://glama.ai/mcp/connectors/co.trysubstrate/memory)
+  🔐 - Shared memory for your agents: recall cited facts, save and correct them, and forget lines on request.
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
