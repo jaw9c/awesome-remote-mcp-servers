@@ -4882,6 +4882,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+- [pwned.coffee](https://pwned.coffee/) `https://pwned.coffee/mcp`
+  [![pwned.coffee MCP connector](https://glama.ai/mcp/connectors/coffee.pwned/pwnedcoffee/badges/score.svg)](https://glama.ai/mcp/connectors/coffee.pwned/pwnedcoffee)
+  🔓 - Live security incidents, updated hourly, with fix status and fixed versions; checks lockfiles and repos.
 - [satledger](https://satledger.org) `https://api.satledger.org/mcp`
   [![satledger MCP connector](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt/badges/score.svg)](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt)
   🔓 - RFC 3161 timestamp over a digest you supply; USDC per call over x402, no account, verifies offline.
