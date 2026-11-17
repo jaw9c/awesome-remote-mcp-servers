@@ -1285,6 +1285,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CompatLab](https://compatlab.me/) `https://compatlab.me/mcp`
   [![CompatLab MCP connector](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab)
   🔓 - Read recorded npm loading results across pinned Node.js, Bun and Deno versions, with coverage and report links.
+- [ComputeFirst](https://computefirst.net) `https://computefirst.net/mcp`
+  [![ComputeFirst MCP connector](https://glama.ai/mcp/connectors/io.github.321zz321/computefirst/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.321zz321/computefirst)
+  🔓 - Versioned deterministic tools for math, CSV and JSON, dates, text, hashing, identifiers and units; no key.
 - [ContextStream](https://contextstream.io) `https://mcp.contextstream.io/mcp`
   [![ContextStream MCP connector](https://glama.ai/mcp/connectors/io.contextstream/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.contextstream/mcp)
   🔐 - Shared project context for Cursor, Claude Code, Codex, and Grok. Intelligence isn’t the bottleneck. Context is.
