@@ -3952,6 +3952,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [RealUptime](https://docs.realuptime.io/mcp) `https://mcp.realuptime.io/public`
+  [![RealUptime MCP connector](https://glama.ai/mcp/connectors/io.realuptime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.realuptime/mcp)
+  🔓 - Check whether a popular service is down, from multi-region probe readings beside the vendor's own status.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
