@@ -5691,6 +5691,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialToAI](https://socialtoai.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://mcp.socialtoai.com/mcp`
   [![SocialToAI MCP connector](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai)
   🔐 - Read public social media posts, comments, profiles and trends from 18 platforms, billed per call.
+- [Sociro](https://sociro.com/mcp) `https://mcp.sociro.com/mcp`
+  [![Sociro MCP connector](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp)
+  🔐 - Schedule, publish, edit and cancel social posts, and plan a week of posts with an AI planner you approve.
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
