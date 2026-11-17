@@ -1402,6 +1402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlopScore](https://slopscore.org) `https://slopscore.org/mcp`
   [![SlopScore MCP connector](https://glama.ai/mcp/connectors/org.slopscore/slopscore/badges/score.svg)](https://glama.ai/mcp/connectors/org.slopscore/slopscore)
   🔓 - Browse, search and scan a public leaderboard of AI-generated GitHub repos; voting needs a GitHub token.
+- [SMSPVA Documentation](https://smspva.com/) `https://mcp.smspva.com/docs`
+  [![SMSPVA Documentation MCP connector](https://glama.ai/mcp/connectors/com.smspva.mcp/smspva-documentation/badges/score.svg)](https://glama.ai/mcp/connectors/com.smspva.mcp/smspva-documentation)
+  🔓 - Search SMSPVA API guides and code examples for Activation V2, Rental and Private Email in English, Spanish and Chinese.
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
