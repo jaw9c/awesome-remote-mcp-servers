@@ -2295,6 +2295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Grey Ridge](https://x402-data-api.sigrunner.workers.dev) `https://x402-data-api.sigrunner.workers.dev/mcp`
   [![Grey Ridge MCP connector](https://glama.ai/mcp/connectors/ai.greyridgesignals/tech-risk/badges/score.svg)](https://glama.ai/mcp/connectors/ai.greyridgesignals/tech-risk)
   🔓 - Pre-trade safety gate for Base tokens: GO/HOLD/BLOCK verdicts, honeypot and tax checks; pay per call in USDC via x402.
+- [Grok Crypto Quant API](https://grok-backtest-api.fly.dev) `https://grok-backtest-api.fly.dev/mcp`
+  [![Grok Crypto Quant API MCP connector](https://glama.ai/mcp/connectors/dev.fly.grok-backtest-api/crypto-quant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fly.grok-backtest-api/crypto-quant)
+  🔓 - Crypto strategy backtests, parameter optimisation, market regime signals and token scam checks; x402 USDC on Base.
 - [GROUNDTRUTH](https://groundtruths.xyz) `https://api.groundtruths.xyz/mcp`
   [![GROUNDTRUTH MCP connector](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth)
   🔓 - Pump.fun and Robinhood Chain memecoin outcomes and creator records; 5 free calls a day, then x402.
