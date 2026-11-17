@@ -1607,6 +1607,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OneFindMe](https://onefindme.com) `https://onefindme.com/mcp`
   [![OneFindMe MCP connector](https://glama.ai/mcp/connectors/com.onefindme/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.onefindme/search)
   🔓 - Search AliExpress in any language and get listings with price, rating, orders and a link.
+- [OpenRobotKits](https://openrobotkits.com/for-agents/) `https://openrobotkits.com/mcp`
+  [![OpenRobotKits MCP connector](https://glama.ai/mcp/connectors/com.openrobotkits/openrobotkits/badges/score.svg)](https://glama.ai/mcp/connectors/com.openrobotkits/openrobotkits)
+  🔓 - Live prices, stock and sellers for open-source robot kits (SO-101, Reachy Mini, Stringman). Read-only.
 - [OpenShopGraph](https://openshopgraph.com) `https://api.openshopgraph.com/mcp`
   [![OpenShopGraph MCP connector](https://glama.ai/mcp/connectors/com.openshopgraph/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.openshopgraph/mcp)
   🔓 - Source-dated return, shipping and payment facts, trust signals and coupons for about 1,500 online shops.
