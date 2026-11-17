@@ -266,6 +266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [toolgrep](https://toolgrep.com) `https://toolgrep.com/mcp`
   [![toolgrep MCP connector](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep)
   🔓 - Search developer tools, APIs and MCP servers by need, with crawled pricing, free tier and API facts.
+- [Toolfound](https://toolfound.com/?utm_source=awesome-list&utm_medium=pr&utm_campaign=awesome-remote-mcp) `https://toolfound.com/api/mcp`
+  [![Toolfound MCP connector](https://glama.ai/mcp/connectors/com.toolfound/toolfound/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolfound/toolfound)
+  🔓 - Search a directory of software products, compare alternatives and plan a launch; no key needed for discovery.
 - [ToolRouter](https://toolrouter.com) `https://api.toolrouter.com/mcp`
   [![ToolRouter MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter)
   🔓 - Discover tools for research, media and connected accounts; paid operations need account access.
