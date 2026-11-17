@@ -4419,6 +4419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
+- [GMaps Lead Finder](https://gmapsleadfinder.com) `https://gmapsleadfinder.com/mcp`
+  [![GMaps Lead Finder MCP connector](https://glama.ai/mcp/connectors/com.gmapsleadfinder/gmaps-lead-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.gmapsleadfinder/gmaps-lead-finder)
+  🔓 - Google Maps business leads as rows: search, reviews and photos. API key required.
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Government surplus auctions in the US, UK, CA and AU, with sold-price comps and resale scores.
