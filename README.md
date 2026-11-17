@@ -3518,6 +3518,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
+- [Search Scope AI Visibility Auditor](https://mcp.searchscope.com.au/) `https://mcp.searchscope.com.au/mcp`
+  [![Search Scope AI Visibility Auditor MCP connector](https://glama.ai/mcp/connectors/au.com.searchscope/ai-visibility-auditor/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.searchscope/ai-visibility-auditor)
+  🔓 - Free AI search visibility audit for any public website: entities, retrievability, schema gaps and prompts to track.
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
