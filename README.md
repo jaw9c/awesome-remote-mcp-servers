@@ -4540,6 +4540,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Online Web Directory](https://onlinewebdirectory.net) `https://onlinewebdirectory.net/mcp`
   [![Online Web Directory MCP connector](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry/badges/score.svg)](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry)
   🔓 - How websites treat AI agents: bot walls, JavaScript needs, robots rules and llms.txt, before you fetch.
+- [Opedd](https://opedd.com) `https://mcp.opedd.com/mcp`
+  [![Opedd MCP connector](https://glama.ai/mcp/connectors/com.opedd/opedd-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.opedd/opedd-mcp)
+  🔓 - Licensed independent research for AI agents: search, cited passages and a verifiable licence for every use.
 - [OpenCityRecord](https://opencityrecord.org/mcp) `https://mcp.opencityrecord.org/mcp`
   [![OpenCityRecord MCP connector](https://glama.ai/mcp/connectors/org.opencityrecord/opencity/badges/score.svg)](https://glama.ai/mcp/connectors/org.opencityrecord/opencity)
   🔐 - Search U.S. city council meetings, votes, and documents, with citations to the official record.
