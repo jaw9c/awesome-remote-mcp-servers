@@ -5137,6 +5137,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SerpKite](https://serpkite.com/docs/mcp) `https://api.serpkite.com/v1/mcp`
   [![SerpKite MCP connector](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite)
   🔐 - Google web, news, maps, scholar and shopping results, plus public webpages as Markdown, for AI agents. OAuth or API key.
+- [StarProof](https://starproof.bigfloppy.net) `https://starproof.bigfloppy.net/mcp`
+  [![StarProof MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.starproof/starproof/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.starproof/starproof)
+  🔓 - Scores whether a GitHub repo's stars are real: zero forks, hype topics, velocity and more, with evidence.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
