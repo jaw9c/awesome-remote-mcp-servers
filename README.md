@@ -2352,6 +2352,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
   [![LitVM TCG Oracle MCP connector](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle)
   🔓 - TCG price oracle for LitecoinVM: Merkle-proven prices, calibrated forecasts and fantasy souls; 13 free tools.
+- [Livermore](https://livermore.club/en/mcp) `https://livermore.club/mcp`
+  [![Livermore MCP connector](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore)
+  🔓 - US insider trades, 13F, 13D/G, Form 144, Congress trades, financials and shorts from SEC filings, plus Taiwan stocks.
 - [Loophole Tape](https://api.loopholetape.com) `https://api.loopholetape.com/mcp`
   [![Loophole Tape MCP connector](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape)
   🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
