@@ -3146,6 +3146,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Azquo](https://azquo.com) `https://data.azquo.ai/mcp`
   [![Azquo MCP connector](https://glama.ai/mcp/connectors/ai.azquo/azquo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.azquo/azquo)
   🔐 - Shared, auditable memory for multiple agents: hierarchical data whose totals add up and every write is attributed.
+- [Bible by Midvash](https://mcp.midvash.com) `https://mcp.midvash.com/mcp/plugin`
+  [![Bible by Midvash MCP connector](https://glama.ai/mcp/connectors/com.midvash/bible/badges/score.svg)](https://glama.ai/mcp/connectors/com.midvash/bible)
+  🔓 - 119 free Bible translations in 69 languages: passages, search, cross-references, commentary and Strong's.
 - [Bilg](https://app.bilgai.com/docs/connect?ref=mcp-directory) `https://mcp.bilgai.com/mcp`
   [![Bilg MCP connector](https://glama.ai/mcp/connectors/com.bilgai/bilg/badges/score.svg)](https://glama.ai/mcp/connectors/com.bilgai/bilg)
   🔐 - Shared memory for coding agents and their teams: search docs, read and write epics, tasks and decisions.
