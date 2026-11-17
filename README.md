@@ -596,6 +596,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) `https://scorelook.fr/mcp`
   [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
   🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
+- [Shapeweld](https://shapeweld.com/developers) `https://shapeweld.com/mcp`
+  [![Shapeweld MCP connector](https://glama.ai/mcp/connectors/io.github.shapeweld/shapeweld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shapeweld/shapeweld)
+  🔓 - Convert 3D files between FBX, GLB, OBJ, STL, PLY, DAE, USDZ and 3MF and get a download and viewer link.
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
