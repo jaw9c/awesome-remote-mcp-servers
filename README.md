@@ -5765,6 +5765,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Adaga Network — Direct Booking Federation](https://adagasolutions.lu) `https://adagasolutions.lu/network/mcp`
   [![Adaga Network — Direct Booking Federation MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-network/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-network)
   🔓 - Search and book every establishment of the Adaga network at exact direct prices — no OTA commission.
+- [Agent Flights](https://lowest.flights) `https://lowest.flights/mcp`
+  [![Agent Flights MCP connector](https://glama.ai/mcp/connectors/flights.lowest/agent-flights/badges/score.svg)](https://glama.ai/mcp/connectors/flights.lowest/agent-flights)
+  🔓 - Cheapest flights worldwide, strong on Africa: fare search, price calendars, cheap destinations and booking links.
 - [Airfare Brain](https://airfarebrain.com) `https://airfarebrain.com/mcp`
   [![Airfare Brain MCP connector](https://glama.ai/mcp/connectors/com.airfarebrain/airfare-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfarebrain/airfare-brain)
   🔓 - True cost of a flight: bag, seat and fee prices on 19 airlines, each from the airline's own pages, dated.
