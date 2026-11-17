@@ -3886,6 +3886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
+- [Recala](https://recala.co/developers/agents/) `https://recala-production.up.railway.app/mcp`
+  [![Recala MCP connector](https://glama.ai/mcp/connectors/io.github.annamau/recala/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.annamau/recala)
+  🔐 - Manage articles, topics and search visibility with human-approved publishing.
 - [RedirX](https://redirx.dev) `https://redirx-mcp-server.onrender.com/mcp`
   [![RedirX MCP connector](https://glama.ai/mcp/connectors/dev.redirx/redirx/badges/score.svg)](https://glama.ai/mcp/connectors/dev.redirx/redirx)
   🔓 - Map old site URLs to new ones during a migration, review proposals and export approved redirects; calls need sign-in.
