@@ -5644,6 +5644,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuillHub](https://quillhub.ai/en/help/mcp-claude-cursor) `https://mcp.quillhub.ai/mcp`
   [![QuillHub MCP connector](https://glama.ai/mcp/connectors/ai.quillhub/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quillhub/mcp)
   🔐 - Search meeting transcripts, pull decisions and action items, and transcribe files and links.
+- [Remote Impact Jobs](https://remoteimpact.org/developers/) `https://remoteimpact.org/mcp/`
+  [![Remote Impact Jobs MCP connector](https://glama.ai/mcp/connectors/org.remoteimpact/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/org.remoteimpact/jobs)
+  🔓 - Search remote jobs at climate, global health, AI safety and other impact organizations by country, level and pay.
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
