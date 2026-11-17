@@ -6143,6 +6143,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ValorAI MCP](https://www.tryvalor.ai) `https://www.tryvalor.ai/mcp/public`
   [![ValorAI MCP connector](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp)
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
+- [Vibe Manufacturing](https://vibe-manufacturing.com/agents) `https://vibe-manufacturing.com/api/mcp`
+  [![Vibe Manufacturing MCP connector](https://glama.ai/mcp/connectors/com.vibe-manufacturing/manufacturer-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-manufacturing/manufacturer-finder)
+  🔓 - Describe a hardware product, get a sourcing plan per part, matched manufacturers and quote requests.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 - [Zodiacs](https://zodiacs.org/developers/ai/) `https://zodiacs.org/mcp`
