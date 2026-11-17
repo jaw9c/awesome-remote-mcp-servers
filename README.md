@@ -5586,6 +5586,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DatePhotos.AI](https://datephotos.ai) `https://datephotos.ai/api/mcp`
   [![DatePhotos.AI MCP connector](https://glama.ai/mcp/connectors/ai.datephotos/datephotos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.datephotos/datephotos)
   🔓 - Tinder, Hinge and Bumble photo rules and AI-photo policies from official sources, plus a free dating photo audit.
+- [Echoly](https://echoly.2cstudio.app/docs/mcp) `https://echoly.2cstudio.app/mcp`
+  [![Echoly MCP connector](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly)
+  🔐 - Draft and schedule posts to X, Telegram channels, Bluesky, Mastodon and Discord, with human approval.
 - [flayr](https://flayr.social/docs/ai-assistants?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=listings-1029) `https://flayr.social/api/mcp`
   [![flayr MCP connector](https://glama.ai/mcp/connectors/social.flayr/flayr/badges/score.svg)](https://glama.ai/mcp/connectors/social.flayr/flayr)
   🔓 - Draft, schedule and publish posts to 13 social platforms and read analytics; tool calls use OAuth or an API key.
