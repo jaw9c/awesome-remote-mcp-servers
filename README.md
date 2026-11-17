@@ -5327,6 +5327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [AEGIS Events](https://console.int-tech.solutions/docs) `https://mcp.int-tech.solutions`
+  [![AEGIS Events MCP connector](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events/badges/score.svg)](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events)
+  🔐 - Search security events from the news by place, point and radius, category and date.
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
   🔓 - Verifies AI agent artifacts against JSON Schema and catches positional prompt injection.
