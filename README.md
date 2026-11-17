@@ -4448,6 +4448,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atlassian](https://atlassian.com) `https://mcp.atlassian.com/v1/mcp`
   [![Atlassian MCP connector](https://glama.ai/mcp/connectors/com.atlassian/atlassian-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlassian/atlassian-mcp-server)
   🔐 - Work with Jira issues and Confluence pages.
+- [Atwork](https://atwork.so/mcp) `https://mcp.atwork.so/mcp`
+  [![Atwork MCP connector](https://glama.ai/mcp/connectors/so.atwork/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/so.atwork/workspace)
+  🔐 - Work with your Atwork sheets, tasks and pages from Claude, ChatGPT or any MCP client, with one OAuth scope per tool.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
