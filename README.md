@@ -4836,6 +4836,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
+- [JobSweep](https://jobsweep.works/agents) `https://jobsweep.works/mcp`
+  [![JobSweep MCP connector](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep/badges/score.svg)](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep)
+  🔓 - Search 239k open jobs from 3,500 company career sites, deduplicated, with links to the original posting.
 - [jopp](https://getjopp.app) `https://getjopp.app/mcp`
   [![jopp MCP connector](https://glama.ai/mcp/connectors/app.getjopp/jopp/badges/score.svg)](https://glama.ai/mcp/connectors/app.getjopp/jopp)
   🔓 - Search open jobs in Switzerland and Liechtenstein and read job details.
