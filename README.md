@@ -623,6 +623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
+- [AiVikings.ai](https://aivikings.ai/docs/mcp/) `https://mcp.aivikings.ai/mcp`
+  [![AiVikings.ai MCP connector](https://glama.ai/mcp/connectors/ai.aivikings/registrar/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aivikings/registrar)
+  🔓 - Check, register, renew and transfer domains and manage DNS; account tools need OAuth sign-in.
 - [Ankra](https://docs.ankra.ai/platform/mcp-server) `https://platform.ankra.app/api/v1/mcp`
   [![Ankra MCP connector](https://glama.ai/mcp/connectors/ai.ankra/platform/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ankra/platform)
   🔐 - Deploy and operate Kubernetes: build or import clusters, ship apps, read logs and metrics, and triage CVEs.
