@@ -1479,6 +1479,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RepoAlerts](https://repoalerts.com/mcp) `https://repoalerts.com/mcp`
   [![RepoAlerts MCP connector](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts)
   🔓 - Rising GitHub repos with fake stars filtered out: search, trending, repo pages and alternatives.
+- [Resume-effect reconciliation for checkpointed agent runs](https://textforagents.com/products/resume-effect-reconciliation/) `https://textforagents.com/products/resume-effect-reconciliation/mcp`
+  [![Resume-effect reconciliation for checkpointed agent runs MCP connector](https://glama.ai/mcp/connectors/com.textforagents/resume-effect-reconciliation/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/resume-effect-reconciliation)
+  🔑 - Signed resume verdicts that reconcile landed side effects before checkpointed agent runs resume.
 - [Review Times](https://reviewtimes.fyi) `https://reviewtimes.fyi/mcp`
   [![Review Times MCP connector](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times)
   🔓 - Live review times for AI app, connector and plugin stores: ChatGPT, Claude, Muse, Grok, Cursor and more.
