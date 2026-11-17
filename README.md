@@ -5840,6 +5840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Arclight Events](https://arclight.events/mcp) `https://arclight.events/api/mcp`
   [![Arclight Events MCP connector](https://glama.ai/mcp/connectors/events.arclight/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/events.arclight/mcp)
   🔓 - Upcoming events in 50 metros: AI and tech meetups, hackathons, conferences and concerts.
+- [AskMyEV](https://askmyev.com) `https://askmyev.com/mcp`
+  [![AskMyEV MCP connector](https://glama.ai/mcp/connectors/com.askmyev/askmyev/badges/score.svg)](https://glama.ai/mcp/connectors/com.askmyev/askmyev)
+  🔐 - Read-only Tesla data for your AI: battery, range, charging, tires, alerts and history. Not affiliated with Tesla.
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
