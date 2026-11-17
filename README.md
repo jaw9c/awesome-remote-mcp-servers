@@ -2493,6 +2493,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GROUNDTRUTH](https://groundtruths.xyz) `https://api.groundtruths.xyz/mcp`
   [![GROUNDTRUTH MCP connector](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth)
   🔓 - Pump.fun and Robinhood Chain memecoin outcomes and creator records; 5 free calls a day, then x402.
+- [HesapNokta](https://www.hesapnokta.com) `https://www.hesapnokta.com/mcp`
+  [![HesapNokta MCP connector](https://glama.ai/mcp/connectors/io.github.omercebeci/hesapnokta/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.omercebeci/hesapnokta)
+  🔓 - Turkish salary, severance, tax, rent, loan, exam and date calculators using current official rates.
 - [HEY Research Lab](https://heyresearch.xyz/developers/agents) `https://heyresearch.xyz/mcp`
   [![HEY Research Lab MCP connector](https://glama.ai/mcp/connectors/io.github.hey-research-lab/hey-research/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hey-research-lab/hey-research)
   🔓 - Builder research for Robinhood Chain: which projects are still building and what they shipped, each with its source.
