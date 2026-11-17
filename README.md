@@ -1239,6 +1239,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Heard](https://heard.dev) `https://api.heard.dev/v1/mcp/agent`
   [![Heard MCP connector](https://glama.ai/mcp/connectors/dev.heard/heard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.heard/heard)
   🔐 - Cloud agents report progress that Heard speaks on your Mac, and pick up the replies you send back.
+- [Helpful Mods Catalog](https://helpfulmods.com/) `https://account.helpfulmods.com/api/mcp/catalog`
+  [![Helpful Mods Catalog MCP connector](https://glama.ai/mcp/connectors/com.helpfulmods.account/helpful-mods-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.helpfulmods.account/helpful-mods-catalog)
+  🔓 - Search source mods, read setup requirements, and prepare a cart for human checkout.
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
