@@ -1613,6 +1613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RivalSweeper Signals](https://www.rivalsweeper.com/solutions/signals-api) `https://mcp.rivalsweeper.com/mcp`
   [![RivalSweeper Signals MCP connector](https://glama.ai/mcp/connectors/com.rivalsweeper/signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.rivalsweeper/signals)
   🔓 - 35 eCommerce competitor-intel tools: prices, promos, ads, AI visibility, hiring. In RivalSweeper plans or prepaid key.
+- [Santa's Calling](https://santascalling.co.uk/assistants) `https://santascalling.co.uk/mcp`
+  [![Santa's Calling MCP connector](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling)
+  🔓 - Gift a UK child a live phone call from an AI Santa (£6.99); returns a Stripe Checkout link the buyer pays.
 - [ScentVerdict](https://scentverdict.com) `https://scentverdict.com/mcp`
   [![ScentVerdict MCP connector](https://glama.ai/mcp/connectors/com.scentverdict/fragrances/badges/score.svg)](https://glama.ai/mcp/connectors/com.scentverdict/fragrances)
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
