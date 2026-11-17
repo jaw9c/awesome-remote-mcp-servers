@@ -1888,15 +1888,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
-
-### 🎓 <a name="education"></a>Education
-
 - [Rotate Pilot](https://rotatepilot.com/developers/mcp) `https://rotatepilot.com/api/mcp`
   [![Rotate Pilot MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot)
   🔓 - FAA drone (Part 107) and pilot exam prep: practice questions, readiness diagnostic, METAR/TAF, drone airspace.
 - [Szkoły PL (szkoly-mcp)](https://szkoly.compabase.com) `https://szkoly.compabase.com/mcp`
   [![Szkoły PL (szkoly-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/szkoly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/szkoly-mcp)
   🔓 - Polish schools and kindergartens from the official register, with per-school exam and matura results vs averages.
+- [Was ist MCP?](https://was-ist-mcp.ch) `https://mcp.was-ist-mcp.ch/mcp`
+  [![Was ist MCP? MCP connector](https://glama.ai/mcp/connectors/ch.was-ist-mcp.mcp/was-ist-mcp-demo-server/badges/score.svg)](https://glama.ai/mcp/connectors/ch.was-ist-mcp.mcp/was-ist-mcp-demo-server)
+  🔓 - German-language MCP explainer for non-technical readers: search and read was-ist-mcp.ch. Optional OAuth login.
 
 ### 🌳 <a name="environment"></a>Environment
 
