@@ -991,6 +991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [Manulyx](https://manulyx.com/connectors) `https://manulyx.com/api/mcp`
+  [![Manulyx MCP connector](https://glama.ai/mcp/connectors/com.manulyx/manulyx/badges/score.svg)](https://glama.ai/mcp/connectors/com.manulyx/manulyx)
+  🔐 - Online LaTeX editor: start papers in journal templates, edit, cite by DOI and compile to PDF.
 - [Posy](https://posy.page) `https://posy.page/api/mcp`
   [![Posy MCP connector](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy)
   🔐 - Build and edit a hand-made link-in-bio page: add links, pick a look, publish it at posy.page.
