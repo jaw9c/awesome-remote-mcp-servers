@@ -6257,6 +6257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PDFLean](https://pdflean.com) `https://mcp.pdflean.com/mcp`
   [![PDFLean MCP connector](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean)
   🔐 - PDF tools for AI agents: validate, extract, merge, split, compress, OCR, sign and redact PDFs.
+- [Perizent](https://perizent.ir) `https://perizent.ir/api/mcp`
+  [![Perizent MCP connector](https://glama.ai/mcp/connectors/io.github.ablmontazer1997/perizent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ablmontazer1997/perizent)
+  🔓 - Build editable right-to-left Persian (Farsi) PowerPoint decks from a topic or text; tool calls need a Perizent key.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
