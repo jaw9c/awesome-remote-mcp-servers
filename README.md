@@ -4858,6 +4858,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
+- [BOZOS](https://bozos.si) `https://bozos.si/api/mcp`
+  [![BOZOS MCP connector](https://glama.ai/mcp/connectors/si.bozos/bozos/badges/score.svg)](https://glama.ai/mcp/connectors/si.bozos/bozos)
+  🔓 - Read webpages and PDFs, check exact quotations, and review citation batches with passages, offsets, and hashes.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
