@@ -3563,6 +3563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [GSC Magic](https://gscmagic.com) `https://mcp.gscmagic.com/mcp`
+  [![GSC Magic MCP connector](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic)
+  🔐 - Search Console, Bing, GA4, IndexNow and Core Web Vitals with SEO reports: quick wins, drops, decay, index health.
 - [gtm.help](https://gtm.help) `https://gtm.help/mcp`
   [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
   🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
