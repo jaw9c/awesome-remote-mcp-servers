@@ -3808,6 +3808,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [AssemblyAI](https://www.assemblyai.com/docs/mcp-server) `https://mcp.assemblyai.com/mcp`
+  [![AssemblyAI MCP connector](https://glama.ai/mcp/connectors/com.assemblyai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.assemblyai/mcp)
+  🔐 - Transcribe audio and video with speaker labels and timestamps, then summarize, ask questions and pull out insights.
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
