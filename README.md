@@ -6341,6 +6341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
+- [313 Automations](https://313automations.com) `https://313automations.com/mcp`
+  [![313 Automations MCP connector](https://glama.ai/mcp/connectors/com.313automations/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.313automations/site)
+  🔓 - Read-only facts, starting prices, site search and pages as Markdown for 313 Automations, a Lahore AI and web agency.
 - [acdoyle](https://acdoyle.dev) `https://acdoyle.dev/api/mcp`
   [![acdoyle MCP connector](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle)
   🔓 - Three specialists for problem-solving, non-custodial budget execution and business advice; x402 pay-per-call.
