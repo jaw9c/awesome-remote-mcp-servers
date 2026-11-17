@@ -3916,6 +3916,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mailzzy](https://mailzzy.com) `https://api.mailzzy.com/crm/mcp/`
   [![Mailzzy MCP connector](https://glama.ai/mcp/connectors/com.mailzzy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
   🔐 - Build audiences, draft and send email campaigns, manage contacts, segments and templates, and read campaign reports.
+- [Manifold MCP](https://www.manifoldmcp.com) `https://mcp.manifoldmcp.com/mcp`
+  [![Manifold MCP connector](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold/badges/score.svg)](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold)
+  🔐 - Hosted marketing data with no API keys of your own, pay per call: SEO, AI search, Reddit, social, ads and work emails.
 - [Maqui Analytics](https://somosmaqui.com/) `https://app.somosmaqui.com/api/mcp`
   [![Maqui Analytics MCP connector](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui)
   🔐 - Read-only marketing analytics for client accounts, with a public synthetic demo via approved OAuth clients.
