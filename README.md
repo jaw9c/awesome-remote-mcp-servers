@@ -3068,6 +3068,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [emem](https://emem.dev) `https://emem.dev/mcp`
   [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
+- [eudr](https://eudr.dev) `https://eudr.dev/mcp`
+  [![eudr MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/eudr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/eudr)
+  🔓 - Check farm plots against the EU Deforestation Regulation and prepare signed Annex II Due Diligence Statements.
 - [Engram](https://engram.page) `https://mcp.engram.page`
   [![Engram MCP connector](https://glama.ai/mcp/connectors/io.github.engram-app/engram/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.engram-app/engram)
   🔐 - Search, read and edit your Obsidian notes as AI memory, synced to the cloud and reachable with Obsidian closed.
