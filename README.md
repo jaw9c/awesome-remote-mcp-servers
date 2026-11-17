@@ -1948,6 +1948,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
+- [Kevin's Coaching Brain](https://github.com/360tft/coaching-brain-mcp) `https://brain.360tft.com/api/brain/mcp`
+  [![Kevin's Coaching Brain MCP connector](https://glama.ai/mcp/connectors/com.360tft/coaching-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.360tft/coaching-brain)
+  🔓 - Search Kevin Middleton's football coaching writing and get short passages with a link to each source.
 - [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
   [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
   🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
