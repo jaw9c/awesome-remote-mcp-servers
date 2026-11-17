@@ -3310,6 +3310,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
 
+- [d8a.tech](https://d8a.tech) `https://app.d8a.tech/mcp`
+  [![d8a.tech MCP connector](https://glama.ai/mcp/connectors/tech.d8a.app/d8atech/badges/score.svg)](https://glama.ai/mcp/connectors/tech.d8a.app/d8atech)
+  🔐 - Web analytics from your GA4 tracking: traffic, sources, conversions, funnels, user paths and tracking audits.
 - [DABLOCK AI Visibility Index](https://dablock.ai) `https://dablock.ai/mcp`
   [![DABLOCK MCP connector](https://glama.ai/mcp/connectors/ai.dablock/visibility-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dablock/visibility-index)
   🔓 - Weekly share of answer for 24 crypto and Web3 brands in ChatGPT, Perplexity and Gemini.
