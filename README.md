@@ -798,6 +798,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Faivelo](https://faivelo.com/ai-agents) `https://faivelo.com/api/mcp`
   [![Faivelo MCP connector](https://glama.ai/mcp/connectors/com.faivelo/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.faivelo/mail)
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
+- [Fax for Agents](https://faxforagents.com) `https://mcp.faxforagents.com/mcp/`
+  [![Fax for Agents MCP connector](https://glama.ai/mcp/connectors/io.github.faxforagents/faxforagents-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faxforagents/faxforagents-mcp)
+  🔓 - Send and receive faxes from an agent with quotes, human review and delivery evidence, tool calls need a free key.
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
