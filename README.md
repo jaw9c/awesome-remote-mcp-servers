@@ -1198,6 +1198,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [Dockyard](https://dockyard.kim1.ovh) `https://dockyard.kim1.ovh/mcp`
+  [![Dockyard MCP connector](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog)
+  🔓 - Search 790+ one-click Docker/Portainer app templates and prepare a local Docker or Portainer deploy plan.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
