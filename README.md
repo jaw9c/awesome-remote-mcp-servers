@@ -5546,6 +5546,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule and analyze posts across 9 networks, including X, LinkedIn, Instagram, TikTok and Bluesky.
+- [Postmately](https://postmately.com/en/mcp-social-media/) `https://api.postmately.com/mcp`
+  [![Postmately MCP connector](https://glama.ai/mcp/connectors/com.postmately/postmately/badges/score.svg)](https://glama.ai/mcp/connectors/com.postmately/postmately)
+  🔐 - Make carousels and short videos, schedule and publish them to 10 networks, and read post metrics.
 - [PostNext](https://postnext.io/mcp) `https://mcp.postnext.io/api`
   [![PostNext MCP connector](https://glama.ai/mcp/connectors/io.postnext/postnext/badges/score.svg)](https://glama.ai/mcp/connectors/io.postnext/postnext)
   🔐 - Draft, schedule and publish to X, Instagram, LinkedIn, TikTok and more, plus channel analytics.
