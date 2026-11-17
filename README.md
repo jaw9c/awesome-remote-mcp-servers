@@ -2165,6 +2165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Diogenes Web3 Security](https://diogenesgateway.com/#web3-security) `https://diogenesgateway.com/mcp/web3-security`
+  [![Diogenes Web3 Security MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp)
+  🔓 - EIP-712 and Permit2 phishing decoders, Solana priority fee oracle, and token honeypot auditor.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
