@@ -3242,6 +3242,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [coldHat](https://coldhat.f-keys.com) `https://coldhat.f-keys.com/mcp`
   [![coldHat MCP connector](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat)
   🔓 - Wear anyone's AI working rules by GitHub username: returns their hat.md and a hat code proving it was read.
+- [Context Pill](https://contextpill.com) `https://contextpill.com/mcp`
+  [![Context Pill MCP connector](https://glama.ai/mcp/connectors/com.contextpill/context-pill/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextpill/context-pill)
+  🔓 - Daily feed of AI releases, tools and techniques, each item labeled with how it was checked.
 - [Continuity](https://continuitywriter.com) `https://continuitywriter.com/mcp`
   [![Continuity MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity)
   🔓 - Remembers your writing project across chats: story bible, characters, timeline and continuity checks.
