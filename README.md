@@ -3137,6 +3137,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agents Handbook](https://agentshandbook.com/for-agents) `https://agentshandbook.com/mcp`
   [![Agents Handbook MCP connector](https://glama.ai/mcp/connectors/com.agentshandbook/handbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentshandbook/handbook)
   🔓 - Search sourced playbooks for real jobs done with AI agents: prompts, steps, checkpoints, known failures and fixes.
+- [AIAgentCycle](https://aiagentcycle.com) `https://mcp.aiagentcycle.com/mcp`
+  [![AIAgentCycle MCP connector](https://glama.ai/mcp/connectors/com.aiagentcycle/aiagentcycle/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiagentcycle/aiagentcycle)
+  🔓 - Search services, prices, integrations, cases and FAQs in Dutch and English, with source links.
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
