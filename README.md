@@ -4113,6 +4113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Haulest](https://haulest.com/developers/mcp) `https://haulest.com/mcp`
   [![Haulest MCP connector](https://glama.ai/mcp/connectors/com.haulest/haulest/badges/score.svg)](https://glama.ai/mcp/connectors/com.haulest/haulest)
   🔓 - Moving cost ranges, reviewed movers, USDOT and Companies House licence checks, guides, and quote requests.
+- [HomeCalc.ca](https://homecalc.ca/connector) `https://homecalc.ca/api/mcp`
+  [![HomeCalc.ca MCP connector](https://glama.ai/mcp/connectors/ca.homecalc/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/ca.homecalc/calculators)
+  🔓 - 34 read-only Canadian mortgage, tax and home-buying tools, including nationwide land transfer tax coverage.
 - [Hercules](https://hercules.properties/integrations/mcp) `https://app.hercules.properties/mcp`
   [![Hercules MCP connector](https://glama.ai/mcp/connectors/properties.hercules/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/properties.hercules/property-data)
   🔓 - NYC and US property records: owners, LLC lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
