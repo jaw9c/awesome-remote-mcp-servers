@@ -3092,6 +3092,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [AIm Workout Journal](https://aim-journal.com) `https://aim-journal.com/mcp`
+  [![AIm Workout Journal MCP connector](https://glama.ai/mcp/connectors/com.aim-journal/aim/badges/score.svg)](https://glama.ai/mcp/connectors/com.aim-journal/aim)
+  🔐 - Workout journal your assistant writes to: log and correct workouts, plan a program, see records and volume.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
