@@ -3809,6 +3809,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [GEO Audit](https://geo-al6bxcngia-ue.a.run.app) `https://geo-al6bxcngia-ue.a.run.app/mcp`
+  [![GEO Audit MCP connector](https://glama.ai/mcp/connectors/app.run.a.geo-al6bxcngia-ue/geo-audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.a.geo-al6bxcngia-ue/geo-audit)
+  🔓 - Scores any URL's AI-search visibility across 20 weighted checks, with fixes; $1.50/call via x402 plus a free lite tier.
 - [GetAppNiche](https://getappniche.com/mcp) `https://api.getappniche.com/mcp`
   [![GetAppNiche MCP connector](https://glama.ai/mcp/connectors/com.getappniche/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappniche/mcp)
   🔓 - App Store and Google Play data: app search, revenue and download estimates, keywords, reviews; API key for calls.
