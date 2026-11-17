@@ -4962,6 +4962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
   [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
   🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
+- [Moderation API](https://moderationapi.com) `https://mcp.moderationapi.com/mcp`
+  [![Moderation API MCP connector](https://glama.ai/mcp/connectors/com.moderationapi.mcp/moderation-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.moderationapi.mcp/moderation-api)
+  🔐 - Content moderation and trust & safety: triage review queues, check authors, tune policies and report.
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Canadian privacy compliance: enforcement actions, glossary and Law 25 checks.
