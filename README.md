@@ -1081,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prisma](https://prisma.io) `https://mcp.prisma.io/mcp`
   [![Prisma MCP connector](https://glama.ai/mcp/connectors/io.prisma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.prisma/mcp)
   🔐 - Manage Prisma Postgres databases and run migrations.
+- [Refix](https://www.refix.ai/) `https://mcp.refix.ai/mcp`
+  [![Refix MCP connector](https://glama.ai/mcp/connectors/ai.refix.mcp/refix/badges/score.svg)](https://glama.ai/mcp/connectors/ai.refix.mcp/refix)
+  🔐 - Analyze connected company data, watch ongoing business goals, and read findings.
 - [Speak To Your Database](https://speaktoyourdatabase.com) `https://speaktoyourdatabase.com/mcp`
   [![Speak To Your Database MCP connector](https://glama.ai/mcp/connectors/com.speaktoyourdatabase/styd/badges/score.svg)](https://glama.ai/mcp/connectors/com.speaktoyourdatabase/styd)
   🔐 - Ask your Odoo, PostgreSQL or MySQL data in plain words and get real numbers, computed read-only from your data.
