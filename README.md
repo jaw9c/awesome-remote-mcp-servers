@@ -474,6 +474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
+- [InkRoom](https://inkroom.ai/en/solutions/mcp-server) `https://mcp.inkroom.ai`
+  [![InkRoom MCP connector](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom)
+  🔓 - Public model prices and prompt search; image generation and editing require your own InkRoom account and MCP Token.
 - [Jinero](https://jinero.online/dev/mcp) `https://jinero.online/mcp`
   [![Jinero MCP connector](https://glama.ai/mcp/connectors/online.jinero/jinero/badges/score.svg)](https://glama.ai/mcp/connectors/online.jinero/jinero)
   🔓 - Fonts, font recognition from images, palettes, color math and contrast, code and SVG tools for design work.
