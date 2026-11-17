@@ -3310,6 +3310,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [AI Monk Index](https://aniccaai.com/ai-monk-database) `https://aniccaai.com/.netlify/functions/ai-monk-mcp`
+  [![AI Monk Index MCP connector](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index)
+  🔓 - Research AI monk creator accounts: sourced profiles, video formats, offers and published playbooks.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
