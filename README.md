@@ -2672,6 +2672,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signal Band](https://signalband.net/developers?utm_source=github&utm_medium=organic&utm_campaign=dir-punkpeye-remote) `https://signalband.net/mcp`
   [![Signal Band MCP connector](https://glama.ai/mcp/connectors/net.signalband/decision-engines/badges/score.svg)](https://glama.ai/mcp/connectors/net.signalband/decision-engines)
   🔓 - Evidence-weighted decision engines for venture and AI business cases: fund, pilot or stop, by published rules.
+- [SignalForge AI SFConnect](https://www.signalforge-ai.com/sf-connect/) `https://api.signalforge-ai.com/mcp`
+  [![SignalForge AI SFConnect MCP connector](https://glama.ai/mcp/connectors/com.signalforge-ai/sfconnect/badges/score.svg)](https://glama.ai/mcp/connectors/com.signalforge-ai/sfconnect)
+  🔓 - TradingView to MT5 bridge: MT5 accounts, EA status, signal history and dry-run-first signal sending.
 - [Signed](https://mcp.signed.com) `https://mcp.signed.com`
   [![Signed MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed)
   🔐 - An angel investor's portfolio, deal pipeline, and contacts: positions, returns, pitches, notes, and transactions.
