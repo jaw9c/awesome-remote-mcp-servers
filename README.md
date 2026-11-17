@@ -3807,6 +3807,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fixter](https://fixter.dev) `https://mcp.fixter.dev/mcp`
   [![Fixter MCP connector](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter)
   🔐 - Query production logs, traces, metrics and error issues, get the root cause, and open a fix as a pull request.
+- [FlareWarden](https://flarewarden.com/mcp) `https://mcp.flarewarden.com/mcp`
+  [![FlareWarden MCP connector](https://glama.ai/mcp/connectors/com.flarewarden/website-monitoring/badges/score.svg)](https://glama.ai/mcp/connectors/com.flarewarden/website-monitoring)
+  🔓 - Check if a site or service like Stripe is down from six regions, no account; sign in to set up uptime monitoring.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
