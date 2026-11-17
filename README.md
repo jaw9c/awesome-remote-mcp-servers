@@ -4770,6 +4770,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Locate Jobs Network](https://locatejobsnetwork.com) `https://locatejobsnetwork.com/api/mcp`
   [![Locate Jobs Network MCP connector](https://glama.ai/mcp/connectors/com.locatejobsnetwork/search-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.locatejobsnetwork/search-jobs)
   🔓 - Search live U.S. jobs on 20 niche job boards and get checked unemployment answers for 13 states.
+- [Loker Dollar Jobs](https://lokerdollar.com/en/developers) `https://mcp.lokerdollar.com/mcp`
+  [![Loker Dollar Jobs MCP connector](https://glama.ai/mcp/connectors/com.lokerdollar/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.lokerdollar/jobs)
+  🔓 - Search remote and Indonesia-friendly jobs and read job details, free with no sign-up.
 - [looot](https://looot.ai) `https://api.looot.ai/mcp`
   [![looot MCP connector](https://glama.ai/mcp/connectors/ai.looot/looot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.looot/looot)
   🔐 - Search, price and run 2,500+ data endpoints from 90+ providers with one key and a prepaid balance.
