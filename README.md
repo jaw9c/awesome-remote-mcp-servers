@@ -2376,6 +2376,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Knoww](https://knoww.app) `https://mcp.knoww.app/mcp`
   [![Knoww MCP connector](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww/badges/score.svg)](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww)
   🔐 - Read-only Polymarket search, market details, order books, price history, and interactive market cards.
+- [Konverter Pro](https://konverter-pro.de) `https://konverter-pro.de/api/v1/mcp`
+  [![Konverter Pro MCP connector](https://glama.ai/mcp/connectors/de.konverter-pro/konverter-pro/badges/score.svg)](https://glama.ai/mcp/connectors/de.konverter-pro/konverter-pro)
+  🔓 - German bank statements and PayPal, SumUp or Stripe reports to verified DATEV, Lexware or MT940 files; pay per job.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence on Base; x402 pay-per-call in USDC.
 - [Kultranz](https://kultranz.com/pages/api-docs/) `https://api.kultranz.com/mcp`
