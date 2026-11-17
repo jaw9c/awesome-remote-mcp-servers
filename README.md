@@ -270,6 +270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Call pay-per-request APIs for search, market data and enrichment, billed to a prepaid balance.
+- [Terraphim Skills](https://terraphim-skills.md) `https://mcp.terraphim-skills.md/mcp`
+  [![Terraphim Skills MCP connector](https://glama.ai/mcp/connectors/md.terraphim-skills/terraphim-skills/badges/score.svg)](https://glama.ai/mcp/connectors/md.terraphim-skills/terraphim-skills)
+  🔓 - Search, preview and discover SKILL.md packages from an anonymous catalogue of curated agent skills.
 - [toolgrep](https://toolgrep.com) `https://toolgrep.com/mcp`
   [![toolgrep MCP connector](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep)
   🔓 - Search developer tools, APIs and MCP servers by need, with crawled pricing, free tier and API facts.
