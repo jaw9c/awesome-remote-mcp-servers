@@ -2753,6 +2753,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
   [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
+- [CostRail](https://www.food-cost-calculator.com/mcp) `https://www.food-cost-calculator.com/api/mcp`
+  [![CostRail MCP connector](https://glama.ai/mcp/connectors/com.food-cost-calculator/costrail/badges/score.svg)](https://glama.ai/mcp/connectors/com.food-cost-calculator/costrail)
+  🔓 - Restaurant recipe plate cost, butcher trim yield, and bar pour cost calculations with menu pricing.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
