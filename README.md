@@ -834,6 +834,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BumbleBox](https://bumblebox.ai/integrations) `https://api.bumblebox.ai/api/mcp`
   [![BumbleBox MCP connector](https://glama.ai/mcp/connectors/ai.bumblebox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebox/mail)
   🔓 - Search, triage and draft replies across Gmail, Outlook and IMAP mailboxes; sending only at the level you set.
+- [Busymail](https://busymail.app) `https://busymail.app/mcp`
+  [![Busymail MCP connector](https://glama.ai/mcp/connectors/app.busymail/busymail/badges/score.svg)](https://glama.ai/mcp/connectors/app.busymail/busymail)
+  🔑 - Read, search, archive and draft across any IMAP mailbox; the token cannot send and approval needs a signed-in user.
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
