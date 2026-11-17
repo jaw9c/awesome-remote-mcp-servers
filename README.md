@@ -682,6 +682,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
   🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
 
+- [pilotfish](https://pilotfish.gai.ventures) `https://pilotfish-be.gai.ventures/mcp`
+  [![pilotfish MCP connector](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed)
+  🔐 - Run whole web tasks in a cloud browser signed in with your saved logins; returns answers, files and replays.
+
 - [screenshot.com.ar](https://screenshot.com.ar) `https://screenshot.com.ar/mcp`
   [![screenshot.com.ar MCP connector](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot)
   🔐 - Read any public page as clean markdown or capture it as an image in real Chrome; free tier, plans in ARS.
