@@ -2795,6 +2795,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialForex](https://toolforex.xyz) `https://toolforex.xyz/api/mcp`
   [![SocialForex MCP connector](https://glama.ai/mcp/connectors/io.github.namlxuit056/social-forex/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.namlxuit056/social-forex)
   🔓 - Forex, gold and crypto quotes, economic calendar, multi-timeframe screener, currency strength and lot-size calculator.
+- [SODAX](https://docs.sodax.com/builders-mcp) `https://builders.sodax.com/mcp`
+  [![SODAX MCP connector](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp)
+  🔓 - Live cross-network DeFi data: chains, tokens, swap quotes, money market rates, intent lookups and SDK docs.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
