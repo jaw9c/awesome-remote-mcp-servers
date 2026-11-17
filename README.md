@@ -437,6 +437,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [CropDen](https://cropden.com) `https://cropden.com/mcp`
+  [![CropDen MCP connector](https://glama.ai/mcp/connectors/io.github.geektao1024/cropden/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.geektao1024/cropden)
+  🔓 - Image sizes and safe zones for 14 social platforms; AI extend, upscale and background removal need a key.
 - [Delve to Life](https://delvetolife.com/ai/) `https://mcp.delvetolife.com/mcp`
   [![Delve to Life MCP connector](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life/badges/score.svg)](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life)
   🔓 - Dress codes explained, outfit formulas by occasion and weather, and clothing colour combinations.
