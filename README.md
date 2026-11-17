@@ -1886,6 +1886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Trading Signals](https://signals.x70.ai/mcp-docs) `https://signals.x70.ai/mcp`
   [![AI Trading Signals MCP connector](https://glama.ai/mcp/connectors/ai.x70.signals/ai-trading-signals/badges/score.svg)](https://glama.ai/mcp/connectors/ai.x70.signals/ai-trading-signals)
   🔓 - Live crypto trading signals with reasoning and verified outcomes; free key for the full feed, Pro for trade levels.
+- [AIKIT](https://tradingcheckup.com/aikit/) `https://api.tradingcheckup.com/aikit/mcp`
+  [![AIKIT MCP connector](https://glama.ai/mcp/connectors/com.tradingcheckup/aikit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradingcheckup/aikit)
+  🔓 - Dated, sourced exchange rules (tick size, min order, fees) for 8 exchanges, plus a rule checker for trading-bot code.
 - [aikstockdata](https://aikstockdata.com/en) `https://mcp.aikstockdata.com/mcp`
   [![aikstockdata MCP connector](https://glama.ai/mcp/connectors/com.aikstockdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aikstockdata/mcp)
   🔓 - Korean stocks: daily closes, minute-stamped DART filings, earnings and post-filing price paths.
