@@ -5306,6 +5306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Local Business Leads](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-data-scraper,delicious_zebu/yellowpages-usa-business-lead-scraper,delicious_zebu/yellowpages-ca-business-data-scraper,delicious_zebu/yellowpages-australia-lead-generator,delicious_zebu/yelp-advanced-business-scraper-pay-per-result,delicious_zebu/contact-info-scraper,delicious_zebu/contact-info-scraper-pay-per-result`
   [![Zebu Data - Local Business Leads MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads)
   🔐 - Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails and phones from their websites.
+- [Zhiyike](https://zhiyike.cn) `https://zhiyike.cn/mcp`
+  [![Zhiyike MCP connector](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike/badges/score.svg)](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike)
+  🔓 - AI news cards with official publish dates and sources; browse and search recent AI releases.
 
 ### 🔒 <a name="security"></a>Security
 
