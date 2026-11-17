@@ -3911,6 +3911,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klox](https://klox.ai/agent) `https://klox.ai/mcp`
   [![Klox MCP connector](https://glama.ai/mcp/connectors/ai.klox/klox/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klox/klox)
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
+- [Lazybird](https://lazybird.app/chatgpt-claude-connector) `https://api.lazybird.app/mcp`
+  [![Lazybird MCP connector](https://glama.ai/mcp/connectors/io.github.lazybirdai/lazybird/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lazybirdai/lazybird)
+  🔐 - Search 500+ AI voices in 150+ languages, turn scripts into MP3 voiceovers, and design or clone voices.
 - [Lexu](https://www.lexu.io/en/developers) `https://www.lexu.io/mcp`
   [![Lexu MCP connector](https://glama.ai/mcp/connectors/io.lexu/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.lexu/mcp)
   🔐 - Generate images, videos, music and voice-overs on one credit balance, priced before each job.
