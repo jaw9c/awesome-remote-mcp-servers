@@ -5182,6 +5182,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ViralDecoder](https://viraldecoder.online/claude) `https://viraldecoder.online/mcp`
   [![ViralDecoder MCP connector](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder/badges/score.svg)](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder)
   🔐 - Breaks down Instagram Reels, Shorts and TikToks: hook score, why it went viral, a script for yours.
+- [ViralRecast](https://viralrecast.com) `https://viralrecast.com/mcp`
+  [![ViralRecast MCP connector](https://glama.ai/mcp/connectors/com.viralrecast/viralrecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.viralrecast/viralrecast)
+  🔐 - Read any social post by link with transcript, find what is trending in a niche and see competitors' ads.
 - [VoiceMoat](https://voicemoat.com/mcp) `https://app.voicemoat.com/api/mcp`
   [![VoiceMoat MCP connector](https://glama.ai/mcp/connectors/com.voicemoat/voicemoat/badges/score.svg)](https://glama.ai/mcp/connectors/com.voicemoat/voicemoat)
   🔐 - Score drafts against your voice profile, improve them, and schedule or publish posts on Twitter/X and LinkedIn.
