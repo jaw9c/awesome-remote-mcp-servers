@@ -4867,6 +4867,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Diogenes Neural Search](https://diogenesgateway.com/#neural-search-engine) `https://diogenesgateway.com/mcp/neural-search-engine`
+  [![Diogenes Neural Search MCP connector](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-neural-search-engine-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-neural-search-engine-mcp)
+  🔓 - Hybrid sparse-dense neural search, cross-encoder re-ranking, and semantic retrieval over streamable HTTP.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
