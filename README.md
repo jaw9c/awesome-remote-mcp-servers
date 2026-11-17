@@ -3870,6 +3870,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
+- [BudgetPixel](https://budgetpixel.com/mcp) `https://mcp.budgetpixel.com/mcp`
+  [![BudgetPixel MCP connector](https://glama.ai/mcp/connectors/com.budgetpixel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.budgetpixel/mcp)
+  🔓 - Generate images, video, music and sound effects, then upscale them; the tools need a BudgetPixel sign-in (OAuth).
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
