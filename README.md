@@ -6614,6 +6614,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HelpySelf](https://helpyself.com) `https://helpyself.com/mcp`
   [![HelpySelf MCP connector](https://glama.ai/mcp/connectors/com.helpyself/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.helpyself/tools)
   🔓 - Convert, compress and split PDFs and images, redact personal data, and run text utilities.
+- [Homo Universalis — Viveka](https://homouniversalis.ai) `https://homouniversalis.ai/mcp`
+  [![Homo Universalis — Viveka MCP connector](https://glama.ai/mcp/connectors/ai.homouniversalis/viveka-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/ai.homouniversalis/viveka-oracle)
+  🔓 - Swiss Ephemeris natal chart, 3D synastry, family constellations, BaZi, Vedic, Mayan, I-Ching, Tarot and Kabbalah oracle.
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
