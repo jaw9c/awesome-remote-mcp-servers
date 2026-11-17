@@ -4815,6 +4815,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebExtract](https://webextract.dev) `https://api.webextract.dev/mcp`
   [![WebExtract MCP connector](https://glama.ai/mcp/connectors/dev.webextract/extract/badges/score.svg)](https://glama.ai/mcp/connectors/dev.webextract/extract)
   🔓 - Any public URL to clean Markdown plus fixed-schema JSON; 50 free calls/day, then x402 USDC on 7 EVM chains or credits.
+- [WebKnox](https://webknox.com/docs/mcp) `https://mcp.webknox.com/mcp`
+  [![WebKnox MCP connector](https://glama.ai/mcp/connectors/com.webknox/webknox/badges/score.svg)](https://glama.ai/mcp/connectors/com.webknox/webknox)
+  🔓 - Answer cards with sources: comparisons with photos, weather, nutrition, recipes and more; 10 free a day, then sign in.
 - [WebRead](https://api.youraitools.co/webread/) `https://api.youraitools.co/webread/mcp`
   [![WebRead MCP connector](https://glama.ai/mcp/connectors/co.youraitools/webread/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/webread)
   🔓 - Turns a public web page into clean Markdown, respecting robots.txt; 30 free calls/day, then x402 USDC.
