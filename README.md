@@ -3756,6 +3756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HarborRank](https://harborrank.com/features/mcp) `https://app.harborrank.com/mcp`
   [![HarborRank MCP connector](https://glama.ai/mcp/connectors/com.harborrank/harborrank/badges/score.svg)](https://glama.ai/mcp/connectors/com.harborrank/harborrank)
   🔐 - Keyword metrics, live Google SERPs, backlinks, rank tracking, site audits and read-only Search Console data.
+- [HolicAudit website checks](https://audit.huutran.dev/mcp-server) `https://audit.huutran.dev/mcp`
+  [![HolicAudit website checks MCP connector](https://glama.ai/mcp/connectors/dev.huutran.audit/website-checks/badges/score.svg)](https://glama.ai/mcp/connectors/dev.huutran.audit/website-checks)
+  🔓 - Free SEO, AI-crawler visibility and security-header checks for any URL, no sign-up; a paid key adds site crawls.
 - [Hermoso](https://hermoso.ai) `https://app.hermoso.ai/mcp`
   [![Hermoso MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso)
   🔓 - Research competitor ads, generate image and video ads, schedule social posts and run paid ad campaigns.
