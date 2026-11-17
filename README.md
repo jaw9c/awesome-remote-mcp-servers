@@ -3733,6 +3733,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [AgenticWebScore](https://agenticwebscore.com) `https://agenticwebscore.com/mcp`
+  [![AgenticWebScore MCP connector](https://glama.ai/mcp/connectors/com.agenticwebscore/scan/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenticwebscore/scan)
+  🔓 - Scan a public website for AI agent readiness: 60 checks, a score, and the evidence for each.
+
 - [AgentPixel](https://agentpixel.io) `https://agentpixel.io/mcp`
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
