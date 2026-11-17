@@ -4713,6 +4713,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [QuestionPunk](https://www.questionpunk.com) `https://app.questionpunk.com/api/v1`
+  [![QuestionPunk MCP connector](https://glama.ai/mcp/connectors/io.github.questionpunk/questionpunk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.questionpunk/questionpunk)
+  🔐 - Create, edit and publish surveys and AI interviews, then read responses, reports and cross-tabs.
 - [QuickUnits](https://quickunits.global) `https://quickunits.global/mcp`
   [![QuickUnits MCP connector](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits)
   🔓 - Exact unit conversion across 213 pairs: states the factor behind each answer and cites a page per conversion.
