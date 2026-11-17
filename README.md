@@ -3686,6 +3686,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [Eikino](https://eikino.com) `https://eikino.com/mcp`
+  [![Eikino MCP connector](https://glama.ai/mcp/connectors/com.eikino/eikino/badges/score.svg)](https://glama.ai/mcp/connectors/com.eikino/eikino)
+  🔓 - Geolocate photos or video frames and check media for AI generation signs.
 - [eroq](https://eroq.ai/mcp) `https://eroq.ai/mcp`
   [![eroq MCP connector](https://glama.ai/mcp/connectors/ai.eroq/eroq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eroq/eroq)
   🔐 - Generate videos, images, voices and songs on Seedance, Kling, Veo and eroq's own uncensored engines.
