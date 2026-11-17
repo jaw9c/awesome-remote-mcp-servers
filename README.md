@@ -5957,6 +5957,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
+- [Youform](https://youform.com/) `https://app.youform.com/mcp`
+  [![Youform MCP connector](https://glama.ai/mcp/connectors/io.github.mkmaker/youform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mkmaker/youform)
+  🔐 - Create forms, surveys and quizzes, edit drafts, publish approved changes, and analyze submissions.
 - [Zenning](https://zenning.ai) `https://api.zenning.ai/api/mcp`
   [![Zenning MCP connector](https://glama.ai/mcp/connectors/ai.zenning/zenning/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zenning/zenning)
   🔐 - Run Zenning AI employees and ask Zenning to act across Gmail, Slack, CRMs and 2,000+ connected apps.
