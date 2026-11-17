@@ -932,6 +932,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelas](https://sitelas.com) `https://sitelas.com/api/mcp`
   [![Sitelas MCP connector](https://glama.ai/mcp/connectors/com.sitelas/sitelas/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelas/sitelas)
   🔐 - Build a website from a template, preview it, publish on approval, then edit it and read its form messages.
+- [SmartCompanion](https://www.smartcompanion.app/en/mcp/) `https://admin.smartcompanion.app/mcp`
+  [![SmartCompanion MCP connector](https://glama.ai/mcp/connectors/app.smartcompanion/audioguide/badges/score.svg)](https://glama.ai/mcp/connectors/app.smartcompanion/audioguide)
+  🔐 - Create and edit museum audioguide apps: stations, tours, texts in several languages, images, audio and app design.
 - [SnapHost](https://snaphost.ai) `https://app.snaphost.ai/api/mcp`
   [![SnapHost MCP connector](https://glama.ai/mcp/connectors/ai.snaphost/snaphost/badges/score.svg)](https://glama.ai/mcp/connectors/ai.snaphost/snaphost)
   🔐 - Publish a page or site to a private link, control who can view it, and update it in place.
