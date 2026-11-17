@@ -3564,6 +3564,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [Dilligence](https://dilligence.ia.br/agentes) `https://dilligence.ia.br/mcp`
+  [![Dilligence MCP connector](https://glama.ai/mcp/connectors/br.ia.dilligence/certidoes/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.dilligence/certidoes)
+  🔓 - Brazilian company clearance certificates (certidões) by CNPJ: fetched from each agency, PDFs read, positives flagged.
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
