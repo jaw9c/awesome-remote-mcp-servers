@@ -297,6 +297,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
+- [Toolwork](https://toolwork.org) `https://mcp.toolwork.org/mcp`
+  [![Toolwork MCP connector](https://glama.ai/mcp/connectors/org.toolwork/toolwork/badges/score.svg)](https://glama.ai/mcp/connectors/org.toolwork/toolwork)
+  🔓 - Search 13,000+ MCP servers, APIs and CLIs by job; get a best pick with a paste-ready config and a recomputable score.
 - [ToolYour](https://www.toolyour.com/developers/mcp) `https://api.toolyour.com/mcp`
   [![ToolYour MCP connector](https://glama.ai/mcp/connectors/com.toolyour.api/tool-your-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolyour.api/tool-your-mcp-server)
   🔑 - Plan, run, and verify SEO, security, and ship-gate checks for AI agents on one API key.
