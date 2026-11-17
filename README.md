@@ -3553,6 +3553,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
+- [Citant.ai AI Crawler Access Check](https://check.citant.ai/) `https://check.citant.ai/mcp`
+  [![Citant.ai AI Crawler Access Check MCP connector](https://glama.ai/mcp/connectors/io.github.hamzawamiqhq/ai-crawler-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hamzawamiqhq/ai-crawler-check)
+  🔓 - Check whether ChatGPT, Claude, Perplexity and other AI crawlers can access and read a website; free, read-only.
+
 - [Cite42](https://www.cite42.dev) `https://mcp.cite42.dev`
   [![Cite42 MCP connector](https://glama.ai/mcp/connectors/dev.cite42/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.cite42/mcp)
   🔐 - Check whether ChatGPT, Claude, Perplexity and Gemini mention your brand and what they cite; keyword and trend data.
