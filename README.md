@@ -685,6 +685,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roar AI](https://roar-ai.com/docs/mcp) `https://cloud.roar-ai.com/mcp`
   [![Roar AI MCP connector](https://glama.ai/mcp/connectors/com.roar-ai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.roar-ai/mcp)
   🔐 - Deploy apps from GitHub with databases and domains, manage API keys and spend, and call 200+ AI models.
+- [Runcrate](https://www.runcrate.ai/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=mcp) `https://mcp.runcrate.ai/mcp`
+  [![Runcrate MCP connector](https://glama.ai/mcp/connectors/io.github.aeonmindai/runcrate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aeonmindai/runcrate)
+  🔐 - Rent cloud GPUs: launch instances and jobs that stop their own billing, schedule runs, move files and track spend.
 - [ShipStatic](https://shipstatic.com) `https://mcp.shipstatic.com`
   [![ShipStatic MCP connector](https://glama.ai/mcp/connectors/com.shipstatic/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipstatic/mcp)
   🔓 - Deploy static websites, landing pages, and prototypes instantly, free with no account; sign in to keep sites for good.
