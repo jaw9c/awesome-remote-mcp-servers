@@ -2525,6 +2525,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![X1 Wealth MCP connector](https://glama.ai/mcp/connectors/com.x1wealth/x1/badges/score.svg)](https://glama.ai/mcp/connectors/com.x1wealth/x1)
   🔐 - Ask about your trusts, entities, policies and documents. Every answer cites a page or declines.
 
+- [x402 Agent Hub](https://x402-agent-hub.x402-agent-hub.workers.dev) `https://x402-agent-hub.x402-agent-hub.workers.dev/mcp`
+  [![x402 Agent Hub MCP connector](https://glama.ai/mcp/connectors/io.github.BlackCat-cyber-creator/x402-agent-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BlackCat-cyber-creator/x402-agent-hub)
+  🔓 - Onchain reads on 7 EVM chains, SEC financials and insider trades, company/people enrichment; pay per call via x402.
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
