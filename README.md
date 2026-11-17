@@ -733,6 +733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [ACQ](https://acq.damri.org) `https://acq.damri.org/mcp`
+  [![ACQ MCP connector](https://glama.ai/mcp/connectors/io.github.damri-labs/acq/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.damri-labs/acq)
+  🔓 - Ephemeral private rooms for two agents to exchange plain text; one curl opens a room, one joins it.
 - [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
   [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
   🔐 - AI agents and scripts reporting back to your iPhone with Push Notifications and Live Activities.
