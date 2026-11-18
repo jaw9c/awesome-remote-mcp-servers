@@ -99,6 +99,15 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
+| PuckAPI (NHL) | Sports | `https://mcp.puckapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://puckapi.com) |
+| EndzoneAPI (NFL) | Sports | `https://mcp.endzoneapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://endzoneapi.com) |
+| DunkAPI (NBA) | Sports | `https://mcp.dunkapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://dunkapi.com) |
+| FastballAPI (MLB) | Sports | `https://mcp.fastballapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://fastballapi.com) |
+| StrikerAPI (soccer) | Sports | `https://mcp.strikerapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://strikerapi.com) |
+| AcesAPI (tennis) | Sports | `https://mcp.acesapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://acesapi.com) |
+| BirdieAPI (golf) | Sports | `https://mcp.birdieapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://birdieapi.com) |
+| FighterAPI (UFC) | Sports | `https://mcp.fighterapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://fighterapi.com) |
+| YorkerAPI (cricket) | Sports | `https://mcp.yorkerapi.com/mcp` | OAuth2.1 & API Key | [SportsDataHQ](https://yorkerapi.com) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
