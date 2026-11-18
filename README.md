@@ -67,6 +67,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Attio | CRM | `https://mcp.attio.com/mcp` | OAuth2.1 | [Attio](https://attio.com) |
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
+| Blossom Research | Data Analysis | `https://www.moreblossom.com/mcp` | OAuth 2.0 (free Blossom account) | [Blossom](https://www.moreblossom.com/connect) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
