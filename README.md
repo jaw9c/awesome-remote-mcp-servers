@@ -108,6 +108,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
+| NEM Explorer | Data Analysis | `https://chat.scadaminer.com/mcp` | OAuth2.1 | [SCADA Miner](https://chat.scadaminer.com) |
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
