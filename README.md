@@ -107,6 +107,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
+| My Spain Visa | Immigration | `https://myspainvisa.com/api/mcp` | Open | [My Spain Visa](https://myspainvisa.com/mcp/) |
 | mypromind.com | Learning | `https://www.mypromind.com/interface/mcp` | OAuth2.1 |  [mypromind MCP](https://www.mypromind.com) | 
 | Neon | Software Development | `https://mcp.neon.tech/mcp` | OAuth2.1 | [Neon](https://neon.tech) |
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
