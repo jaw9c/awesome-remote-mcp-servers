@@ -66,6 +66,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
 | Attio | CRM | `https://mcp.attio.com/mcp` | OAuth2.1 | [Attio](https://attio.com) |
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
+| B2B Lead, Churn & Substack | Marketing & Sales | `https://church-of-loujess--b2b-lead-churn-substack-mcp.apify.actor/mcp` | API Key | [Church of LouJess](https://apify.com/church_of_loujess/b2b-lead-churn-substack-mcp) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
@@ -102,6 +103,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
+| Market News & Sentiment | Finance & Market Data | `https://church-of-loujess--market-news-sentiment-mcp.apify.actor/mcp` | API Key | [Church of LouJess](https://apify.com/church_of_loujess/market-news-sentiment-mcp) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
@@ -118,6 +120,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
+| Pharma FDA & ClinicalTrials | Scientific Research | `https://church-of-loujess--pharma-fda-clinical-trials-mcp.apify.actor/mcp` | API Key | [Church of LouJess](https://apify.com/church_of_loujess/pharma-fda-clinical-trials-mcp) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
@@ -126,6 +129,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Reeve | Agent Productivity | `https://api.reeve.fyi/mcp` | OAuth2.1 | [Reeve](https://www.reeve.fyi) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
+| SEC EDGAR & UK Companies House | Finance & Corporate Filings | `https://church-of-loujess--sec-edgar-companies-house-mcp.apify.actor/mcp` | API Key | [Church of LouJess](https://apify.com/church_of_loujess/sec-edgar-companies-house-mcp) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
@@ -134,6 +138,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
 | Square | Payments | `https://mcp.squareup.com/sse` | OAuth2.1 | [Square](https://square.com) |
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
+| TikTok Intelligence | Social Media & Marketing | `https://church-of-loujess--tiktok-intelligence-mcp.apify.actor/mcp` | API Key | [Church of LouJess](https://apify.com/church_of_loujess/tiktok-intelligence-mcp) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
