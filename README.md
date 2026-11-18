@@ -86,6 +86,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| FoundRole | Job Board | `https://www.foundrole.com/mcp` | OAuth2.1 | [FoundRole](https://www.foundrole.com) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
