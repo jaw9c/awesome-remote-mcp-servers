@@ -87,6 +87,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
+| genko.me | CMS | `https://genko.me/mcp` | OAuth2.1 | [genko.me](https://genko.me/en) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
