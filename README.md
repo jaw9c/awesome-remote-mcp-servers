@@ -104,6 +104,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
+| Midpoint Card Prices | Data Analysis | `https://mcp.cardcenteringtool.com/mcp` | Open | [Midpoint](https://www.cardcenteringtool.com/mcp) |
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
