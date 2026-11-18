@@ -82,6 +82,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
+| EximAgent | Sales | `https://mcp.eximagent.ai/mcp` | OAuth2.1 | [EximAgent](https://eximagent.ai/connectors?utm_source=listing-jaw9c-awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=agents-launch-2026-10&utm_content=listing) |
 | Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
