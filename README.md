@@ -97,7 +97,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
-| Kling AI China Plugin | AI Image & Video Generation | `https://klingai.com/mcp/plugin` | OAuth2.1 | [Kling AI China](https://klingai.com)<br>[Setup guide](https://kling.ai/app/mcp/guide)<br>[Plugin npm](https://www.npmjs.com/package/@klingai/plugin-cn)<br>[CLI npm](https://www.npmjs.com/package/@klingai/cli-cn) |
+| Kling AI China Plugin | AI Image & Video Generation | `https://klingai.com/mcp/plugin` | OAuth2.1 | [Kling AI China](https://klingai.com)<br>[Setup guide](https://klingai.com/app/mcp/guide)<br>[Plugin npm](https://www.npmjs.com/package/@klingai/plugin-cn)<br>[CLI npm](https://www.npmjs.com/package/@klingai/cli-cn) |
 | Kling AI Global Plugin | AI Image & Video Generation | `https://kling.ai/mcp/plugin` | OAuth2.1 | [Kling AI](https://kling.ai)<br>[Setup guide](https://kling.ai/app/mcp/guide)<br>[Plugin npm](https://www.npmjs.com/package/@klingai/plugin-global)<br>[CLI npm](https://www.npmjs.com/package/@klingai/cli-global) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
