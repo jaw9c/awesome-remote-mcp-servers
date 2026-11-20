@@ -72,6 +72,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
+| Chime Scheduler | Social Media | `https://schedule.getchime.co/mcp` | OAuth2.1 | [Wednesday Solutions](https://schedule.getchime.co/?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=scheduler_listings) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
 | ClickUp | Project Management | `https://mcp.clickup.com/mcp` | OAuth2.1 🔐 | [ClickUp](https://clickup.com) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 & API Key | [Close](https://close.com/) |
