@@ -137,6 +137,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
+| Tvarka Proof | Evidence and Timestamps | `https://sign-api.tvarka.pro/mcp/proof` | OAuth2.1 & API Key | [Tvarka](https://proof.tvarka.pro) |
+| Tvarka Sign | E-Signature | `https://sign-api.tvarka.pro/mcp` | OAuth2.1 & API Key | [Tvarka](https://sign-api.tvarka.pro/docs) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
