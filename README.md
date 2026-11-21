@@ -79,6 +79,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
+| Cybercentry B20 Verification | Crypto | `https://app.cybercentry.co.uk/api/mcp` | Open / x402 | [Cybercentry](https://cybercentry.co.uk) |
+| Cybercentry Verification | Crypto | `https://centry.cybercentry.co.uk/api/mcp` | Open / x402 | [Cybercentry](https://cybercentry.co.uk) |
+| ERC-8126 Scan | Crypto | `https://erc8126scan.ai/api/mcp` | Open / x402 / API Key | [Cybercentry](https://erc8126scan.ai) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
