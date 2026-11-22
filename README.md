@@ -383,3 +383,5 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+| [Solana PumpFun Paywall](https://github.com) | `https://vercel.app` | Solana Mainnet Pump.fun bonding curve PDA decoder, holder/bundle rug audit, constant-product swap quotes, and KOTH scanner (x402 Native SOL / Bearer pass). |
