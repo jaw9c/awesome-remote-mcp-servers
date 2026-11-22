@@ -92,7 +92,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
-| [Solana PumpFun Paywall](https://github.com/yourself23/Solana-PumpFun-Paywall) | Crypto | https://solana-pumpfun-paywall.vercel.app/api/mcp | API Key | yourself23 |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
@@ -129,6 +128,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
+| [Solana PumpFun Paywall](https://github.com/yourself23/Solana-PumpFun-Paywall) | Data Analysis | `https://solana-pumpfun-paywall.vercel.app/api/mcp` | API Key | [yourself23](https://github.com/yourself23) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
@@ -384,4 +384,3 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
