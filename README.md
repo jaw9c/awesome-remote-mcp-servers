@@ -173,6 +173,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Needle | RAG-as-a-service | `https://mcp.needle-ai.com/mcp` | API Key | [Needle](https://needle-ai.com) |
 | Zapier | Automation | `https://mcp.zapier.com/api/mcp/mcp` | API Key | [Zapier](https://zapier.com) |
 | Apify | Web Data Extraction Platform | `https://mcp.apify.com` | API Key | [Apify](https://apify.com) |
+| LiveAgentData | Data & Public Records | `https://liveagentdata.com/mcp` | Open / API Key | [Shinn Company LLC](https://liveagentdata.com) |
+| MCPWhitelist | Security | `https://mcpwhitelist.com/mcp` | Open | [MCPWhitelist](https://mcpwhitelist.com) |
 | Dappier | RAG-as-a-Service | `https://mcp.dappier.com/mcp` | API Key | [Dappier](https://dappier.com/) |
 | Mercado Libre | E-Commerce | `https://mcp.mercadolibre.com/mcp` | API Key | [Mercado Libre MCP Server](https://mcp.mercadolibre.com/) |
 | Mercado Pago | Payments | `https://mcp.mercadopago.com/mcp` | API Key | [Mercado Pago MCP Server](https://mcp.mercadopago.com/) |
