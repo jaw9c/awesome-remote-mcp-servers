@@ -86,6 +86,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| Forthcast | E-Commerce | `https://app.forthcast.io/mcp` | Open / OAuth2.1 | [Forthcast](https://www.forthcast.io) |
+| ForthClear | E-Commerce | `https://app.forthclear.io/mcp` | Open / OAuth2.1 | [ForthClear](https://forthclear.io) |
+| ForthMatch | E-Commerce | `https://forthmatch.io/mcp` | Open | [ForthMatch](https://forthmatch.io) |
+| ForthRoute | E-Commerce | `https://app.forthroute.io/mcp` | OAuth2.1 | [ForthRoute](https://forthroute.io) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
