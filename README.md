@@ -85,6 +85,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
+| FitFlow | Health & Fitness | `https://mcp.wattflow.net/mcp` | OAuth2.1 | [FitFlow](https://mcp.wattflow.net/) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
