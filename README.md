@@ -189,6 +189,8 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| Zestli AI | Travel | `https://api.zestli.ai/commerce/mcp` | Open / OAuth2.1 | [Zestli AI](https://zestli.ai/builders) |
+| Zestli AI for operators | Travel | `https://operator.zestli.ai/operator/mcp` | OAuth2.1 | [Zestli AI](https://zestli.ai/operators) |
 
 # Remote MCP Installation Guide
 
