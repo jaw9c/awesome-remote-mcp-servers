@@ -62,6 +62,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
+| ATS Jobs & Hiring Signals | Job Board | `https://spiky-closet--ats-jobs-hiring-intel.apify.actor/mcp` | API Key | [ATS Jobs & Hiring Intel MCP](https://github.com/yun87457-web/ats-jobs-hiring-intel-mcp) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
 | Attio | CRM | `https://mcp.attio.com/mcp` | OAuth2.1 | [Attio](https://attio.com) |
