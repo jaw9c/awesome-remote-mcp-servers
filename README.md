@@ -189,6 +189,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| TikTok & TikTok Shop Data | E-Commerce | `https://tiktok-scraper-api.minhnghiathcstp.workers.dev/mcp` | Open / API Key | [TikTok & TikTok Shop MCP](https://github.com/Techssss/tiktok-scraper-api-tiktok-shop-no-watermark) |
 
 # Remote MCP Installation Guide
 
