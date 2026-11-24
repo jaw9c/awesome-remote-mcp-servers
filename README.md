@@ -379,6 +379,7 @@ We welcome contributions! Please follow these guidelines:
 Join the MCP community to stay updated and connect with other developers:
 
 - [Reddit Community](https://www.reddit.com/r/mcp/)
+- [AQX Logistics Shipping Rates](https://aqxlogistics.com/developers) - International air freight quotes, volumetric weight, and customs de minimis across 15 countries ([MCP Repo](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp)).
 
 ## License
 
