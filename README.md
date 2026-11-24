@@ -153,6 +153,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
 | Resemble AI | Documentation | `https://mcp.resemble.ai/sse` | Open | [Resemble AI](https://resemble.ai) |
+| llmdocs.dev | Documentation | `https://llmdocs.dev/mcp` | Open | [llmdocs.dev](https://llmdocs.dev) |
 | DeepWiki | RAG-as-a-Service | `https://mcp.deepwiki.com/sse` | Open | [Devin](https://devin.ai/) |
 | Exa Search | Search | `https://mcp.exa.ai/mcp` | Open | [Exa](https://exa.ai) |
 | Hugging Face | Software Development | `https://hf.co/mcp` | Open | [Hugging Face](https://huggingface.co) |
