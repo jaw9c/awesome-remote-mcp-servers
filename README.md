@@ -189,6 +189,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| RulesWatch | Prediction Markets | `https://ruleswatch.com/api/mcp` | Open | [RulesWatch](https://ruleswatch.com) |
+| Curator Match | Game Marketing | `https://curatormatch.com/api/mcp` | Open | [Curator Match](https://curatormatch.com) |
+| Stackblade | Newsletter Analytics | `https://stackblade.app/api/mcp` | Open | [Stackblade](https://stackblade.app) |
+| Club Ladder | Chess | `https://chessclubladder.com/api/mcp` | Open | [Club Ladder](https://chessclubladder.com) |
 
 # Remote MCP Installation Guide
 
