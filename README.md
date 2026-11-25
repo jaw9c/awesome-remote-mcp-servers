@@ -60,6 +60,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
+| Alfalaki Astrology | Reference / Astrology | `https://alfalaki.space/mcp` | Open | [Alfalaki](https://alfalaki.space) |
+| ExifStudio | Imaging / Privacy Tools | `https://www.exifstudio.online/mcp` | Open | [ExifStudio](https://www.exifstudio.online) |
+| WedMaroc | Event Planning / Finance | `https://www.wedmaroc.com/mcp` | Open | [WedMaroc](https://www.wedmaroc.com) |
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
