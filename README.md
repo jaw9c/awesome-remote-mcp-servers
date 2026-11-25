@@ -112,7 +112,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Netlify | Software Development | `https://netlify-mcp.netlify.app/mcp` | OAuth2.1 | [Netlify](https://netlify.com) |
 | Notion | Project Management | `https://mcp.notion.com/sse` | OAuth2.1 | [Notion](https://notion.so) |
 | Octagon | Market Intelligence | `https://mcp.octagonagents.com/mcp` | OAuth2.1 | [Octagon](https://octagonai.co) |
-| Okkly | User Research | `https://okkly.app/api/mcp` | OAuth2.1 | [Okkly](https://okkly.app) |
 | OneContext | RAG-as-a-Service | `https://rag-mcp-2.whatsmcp.workers.dev/sse` | OAuth2.1 | [OneContext](https://onecontext.ai) |
 | Otter.ai | Meeting Notes | `https://mcp.otter.ai/mcp` | OAuth2.1 | [Otter.ai](https://otter.ai) |
 | PayPal | Payments | `https://mcp.paypal.com/sse` | OAuth2.1 | [PayPal](https://paypal.com) |
@@ -140,6 +139,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
+| Uzeo | User Research | `https://uzeo.app/api/mcp` | OAuth2.1 | [Uzeo](https://uzeo.app) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
 | Webflow | CMS | `https://mcp.webflow.com/sse` | OAuth2.1 | [Webflow](https://webflow.com) |
