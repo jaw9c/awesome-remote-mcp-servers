@@ -189,6 +189,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| TaxRail | Finance | `https://api.taxrail.online/mcp` | Open | [TaxRail](https://taxrail.online) |
 
 # Remote MCP Installation Guide
 
