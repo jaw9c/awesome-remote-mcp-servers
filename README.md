@@ -62,6 +62,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 |------|----------|-------------|----------------|------------|
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
+| Auction Print Pack | Productivity | `https://auction.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://auction.rowhousesoftware.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
 | Attio | CRM | `https://mcp.attio.com/mcp` | OAuth2.1 | [Attio](https://attio.com) |
@@ -78,7 +79,9 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
+| COI Watch | Productivity | `https://coi.rowhousesoftware.com/mcp` | OAuth2.1 | [Rowhouse Software](https://coi.rowhousesoftware.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
+| Cutline | Design | `https://cards.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://cards.rowhousesoftware.com) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
@@ -91,16 +94,23 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
+| Grant Evidence Pack | Productivity | `https://grants.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://grants.rowhousesoftware.com) |
+| Gridstitch | Hobbies | `https://stitch.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://stitch.rowhousesoftware.com) |
 | Hive Intelligence | Crypto | `https://hiveintelligence.xyz/mcp` | OAuth 2.1 | [Hive Intelligence](https://hiveintelligence.xyz/) |
+| Hull & Hatch | Games | `https://decks.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://decks.rowhousesoftware.com) |
+| Ink & Torch | Games | `https://maps.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://maps.rowhousesoftware.com) |
 | Instant | Software Development | `https://mcp.instantdb.com/mcp` | OAuth | [Instant](https://www.instantdb.com/) |
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
+| Kind Reply | Marketing | `https://replies.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://replies.rowhousesoftware.com) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
+| League | Sports | `https://league.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://league.rowhousesoftware.com) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
+| Log Mender | Hobbies | `https://hamlog.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://hamlog.rowhousesoftware.com) |
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
@@ -118,17 +128,25 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Task MCP | Web Research | `https://task-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
+| Penny Packet | Finance | `https://treasurer.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://treasurer.rowhousesoftware.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
+| Playtable | Games | `https://play.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://play.rowhousesoftware.com) |
+| Prepwell | Games | `https://prep.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://prep.rowhousesoftware.com) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
+| Puzzle Column | Media | `https://column.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://column.rowhousesoftware.com) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
+| Recess Puzzles | Education | `https://puzzles.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://puzzles.rowhousesoftware.com) |
+| Recess Quest | Education | `https://puzzles.rowhousesoftware.com/quest/mcp` | Open | [Rowhouse Software](https://puzzles.rowhousesoftware.com/quest/) |
+| Reconcile | Productivity | `https://reconcile.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://reconcile.rowhousesoftware.com) |
 | Reeve | Agent Productivity | `https://api.reeve.fyi/mcp` | OAuth2.1 | [Reeve](https://www.reeve.fyi) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
 | Stack Overflow | Software Development | `https://mcp.stackoverflow.com` | OAuth2.1 | [StackOverflow](https://stackoverflow.com) |
+| Storyledger | Writing | `https://ledger.rowhousesoftware.com/mcp` | OAuth2.1 | [Rowhouse Software](https://ledger.rowhousesoftware.com) |
 | Stripe | Payments | `https://mcp.stripe.com/` | OAuth2.1 & API Key | [Stripe](https://stripe.com) |
 | Stytch | Authentication | `http://mcp.stytch.dev/mcp` | OAuth2.1 | [Stytch](https://stytch.com) |
 | Supabase | Database | `https://mcp.supabase.com/mcp` | OAuth2.1 | [Supabase](https://supabase.com) |
@@ -136,6 +154,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | ThoughtSpot | Data Analytics | `https://agent.thoughtspot.app/mcp` | OAuth2.1 | [ThoughtSpot](https://thoughtspot.com) |
 | tl;dv | Meeting Notes | `https://mcp.tldv.io/mcp` | OAuth2.1 | [tl;dv](https://tldv.io) |
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
+| Troop Box Count | Productivity | `https://cookies.rowhousesoftware.com/mcp` | Open | [Rowhouse Software](https://cookies.rowhousesoftware.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
