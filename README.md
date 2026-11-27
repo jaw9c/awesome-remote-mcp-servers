@@ -189,10 +189,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
-| [Solana Secure Paywall](https://solana-secure-paywall.vercel.app/api/mcp) | Crypto & Solana | `https://solana-secure-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://://github.com) |
-| [Solana SmartMoney Paywall](https://solana-smartmoney-paywall.vercel.app/api/mcp) | Crypto & Analytics | `https://solana-smartmoney-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://://github.com) |
-| [Solana MEV RPC Paywall](https://solana-mev-rpc-paywall.vercel.app/api/mcp) | Crypto & MEV | `https://solana-mev-rpc-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://://github.com) |
-| [Solana PumpFun Paywall](https://solana-pumpfun-paywall.vercel.app/api/mcp) | Crypto & DeFi | `https://solana-pumpfun-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://://github.com) |
+| [Solana Secure Paywall](https://solana-secure-paywall.vercel.app/api/mcp) | Crypto & Solana | `https://solana-secure-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://github.com/yourself23) |
+| [Solana SmartMoney Paywall](https://solana-smartmoney-paywall.vercel.app/api/mcp) | Crypto & Analytics | `https://solana-smartmoney-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://github.com/yourself23) |
+| [Solana MEV RPC Paywall](https://solana-mev-rpc-paywall.vercel.app/api/mcp) | Crypto & MEV | `https://solana-mev-rpc-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://github.com/yourself23) |
+| [Solana PumpFun Paywall](https://solana-pumpfun-paywall.vercel.app/api/mcp) | Crypto & DeFi | `https://solana-pumpfun-paywall.vercel.app/api/mcp` | x402 (Solana USDC/SOL) | [@yourself23](https://github.com/yourself23) |
 
 # Remote MCP Installation Guide
 
