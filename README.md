@@ -125,6 +125,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Reeve | Agent Productivity | `https://api.reeve.fyi/mcp` | OAuth2.1 | [Reeve](https://www.reeve.fyi) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
+| Sage x402 Suite | DeFi / Security / AI | `https://sage-x402-tools.sage-ibis.workers.dev/mcp` | Open (x402 Base USDC) | [Sage x402](https://github.com/mazhic87/sage-x402-mcp-tools) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
