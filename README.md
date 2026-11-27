@@ -87,7 +87,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
-| GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
+| GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com/yourself23) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
 | Grafbase | Software Development | `https://api.grafbase.com/mcp` | OAuth 2.1 | [Grafbase](https://grafbase.com) |
 | Granola | Meeting Notes | `https://mcp.granola.ai/mcp` | OAuth2.1 | [Granola](https://granola.ai) |
@@ -189,6 +189,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Sienna by Knobs.co | E-Commerce | `https://sienna.knobs.co/mcp` | Open | [Knobs.co](https://knobs.co/pages/agents) |
+| [SolEdge Compute](https://soledge-compute.vercel.app/api/mcp) | AI & Web3 Infrastructure | `https://soledge-compute.vercel.app/api/mcp` | x402 (Solana USDC) | [@yourself23](https://github.com/yourself23) |
 
 # Remote MCP Installation Guide
 
