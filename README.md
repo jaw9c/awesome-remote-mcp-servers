@@ -149,6 +149,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Zenable | Security | `https://mcp.zenable.app/` | OAuth2.1 | [Zenable](https://zenable.io) |
 | Zine | Memory | `https://www.zine.ai/mcp` | OAuth2.1 | [Zine](https://www.zine.ai/) |
 | Zoom | Communication | `https://mcp.zoom.us/mcp/zoom/streamable` | OAuth2.1 | [Zoom](https://zoom.us) |
+| zertax Regulatory, Tariffs & Carbon Data | Financial & ESG Data | `https://mcp.apify.com/?actors=zertax/sec-edgar-exhibit-21-subsidiaries-mcp,zertax/us-census-hs-trade-tariffs-mcp,zertax/verra-carbon-registry-mcp,zertax/canadian-sec-40f-6k-filings-mcp` | API Key | [zertax](https://apify.com/zertax) |
 | Cloudflare Docs | Documentation | `https://docs.mcp.cloudflare.com/sse` | Open | [Cloudflare](https://cloudflare.com) |
 | Astro Docs | Documentation | `https://mcp.docs.astro.build/mcp` | Open | [Astro](https://astro.build) |
 | Context Awesome | Specialised Dataset | `https://www.context-awesome.com/api/mcp` | Open | [Context Awesome](https://www.context-awesome.com/) |
