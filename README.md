@@ -66,6 +66,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Atlassian | Software Development | `https://mcp.atlassian.com/v1/sse` | OAuth2.1 🔐 | [Atlassian](https://atlassian.com) |
 | Attio | CRM | `https://mcp.attio.com/mcp` | OAuth2.1 | [Attio](https://attio.com) |
 | AWS Knowledge | Software Development | `https://knowledge-mcp.global.api.aws` | Open | [AWS](https://aws.github.io/) |
+| B2B Security & Regulatory Intel | Data Analysis | `https://mcp.apify.com/?actors=the_magic_dragon/b2b-email-deliverability-mcp,the_magic_dragon/au-domain-entity-rdap-mcp,the_magic_dragon/au-asx-gov-filings-mcp,the_magic_dragon/web-security-tls-headers-mcp,the_magic_dragon/sec-edgar-filings-mcp,the_magic_dragon/b2b-tech-stack-cms-detector-mcp,the_magic_dragon/github-oss-lead-intel-mcp,the_magic_dragon/saas-robots-sitemap-llms-audit-mcp,the_magic_dragon/pypi-npm-package-health-mcp` | OAuth2.1 / API Key | [Cade Hockley](https://github.com/cadehockley-dot/b2b-security-regulatory-intel-mcp) |
 | BGPT | Scientific Research | `https://bgpt.pro/mcp/sse` | Open / API Key | [BGPT](https://bgpt.pro/mcp) |
 | Box | Document Management | `https://mcp.box.com` | OAuth2.1 🔐| [Box](https://box.com) |
 | Buildkite | Software Development | `https://mcp.buildkite.com/mcp` | OAuth2.1 | [Buildkite](https://buildkite.com) |
