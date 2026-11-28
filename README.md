@@ -1,4 +1,5 @@
 # Awesome Remote MCP Servers
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - 159 native cybersecurity, SAST/taint, live secret validation, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 
 > 📧 **Subscribe to the Newsletter** Stay informed about new MCP servers and updates:
 > [Subscribe](https://remotemcp.substack.com/subscribe)
